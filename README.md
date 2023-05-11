@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on creating long-range LoRaWAN rescue devices for the organisation of Mass-Casualty-Patients ...
+- 🔭 I’m currently working on creating long-range LoRaWAN rescue devices for the organisation of Mass-Casualty-Patients ......
      and a beastly hanging man computer for fun 
      
 - 🌱 I’m currently learning Python and C - trying to refresh my R and SQL - and to understand unix-based servers
