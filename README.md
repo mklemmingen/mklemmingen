@@ -7,3 +7,5 @@
 
 - 📫 How to reach me: send a message to: MKL7543@duck.com
 - 😄 Pronouns: he/they
+
+- Fun Fact: Next to my studies and private projects, I work with handicapped adults to accompany them and to educate them into becoming more independent 
