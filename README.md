@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🔭 I’m currently working on creating long-range LoRaWAN rescue devices for the organisation of rural Mass-Casualty-Patients using low-cost modules and open-source forks ......
      and a beastly hanging man computer for fun 
