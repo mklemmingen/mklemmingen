@@ -11,4 +11,4 @@
 
 - :octocat: state of the nation:
 - Hanging Man (Public repo) -> game construct finished, now interface building
-- LoRaWAN organizational medical devices (private repo as of 15.May 23) -> module set, working on long range bandwith improvement and secure RFID authentification 
+- LoRaWAN organizational medical devices (private repo as of 15.May 23) -> modules set, working on long range bandwith improvement and secure Mesh-Network & RFID authentification, 
