@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a beastly hanging man computer for a class project and in my spare time I am trying to create a long-range LoRaWAN rescue device for the organisation of rural Mass-Casualty-Patients using low-cost modules and open-source forks.
      
-- 🌱 I’m currently learning Python and C - trying to refresh my R and SQL - and to understand unix-based servers
+- 🌱 I’m currently improving my Python and C - trying to refresh my R and SQL - and to understand unix-based servers. also battling through theoretical books... 
 
 - 📫 How to reach me: send a message to: MKL7543@duck.com
 - 😄 Pronouns: he/they
