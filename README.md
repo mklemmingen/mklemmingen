@@ -11,5 +11,5 @@
 
 ### finished projects:
 #### May 2023
-- hangman 2 - the dictionaries strike back
+- "hangman 2 - the dictionaries strike back"
   the executioner has challenged you to a game of hangman in 20 languages. Will you win?
