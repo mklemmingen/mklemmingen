@@ -10,5 +10,5 @@
 - Fun Fact: Next to my studies and private projects, I work with handicapped adults to accompany and to educate them into becoming more independent 
 
 ### finished projects:
-     - hangman 2 - the dictionaries strike back
-     the executioner has challenged you to a game of hangman in 20 languages. Will you win?
+  - hangman 2 - the dictionaries strike back
+    the executioner has challenged you to a game of hangman in 20 languages. Will you win?
