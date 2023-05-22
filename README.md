@@ -16,4 +16,3 @@
   
 [![mklemmingen - hangman-2](https://img.shields.io/static/v1?label=mklemmingen&message=hangman-2&color=blue&logo=github)](https://github.com/mklemmingen/hangman-2 "Go to GitHub repo")
 [![stars - hangman-2](https://img.shields.io/github/stars/mklemmingen/hangman-2?style=social)](https://github.com/mklemmingen/hangman-2)
-[![forks - hangman-2](https://img.shields.io/github/forks/mklemmingen/hangman-2?style=social)](https://github.com/mklemmingen/hangman-2)
