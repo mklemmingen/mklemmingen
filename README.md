@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently studying hard and in my spare time I am trying to create long-range LoRaWAN devices
+- 🔭 I’m currently studying hard and in my spare time I am trying to create long-range LoRaWAN devices as well as little projects to challenge me 
      
 - 🌱 I’m currently improving my Python and C - trying to refresh my R and SQL - and to understand unix-based servers. also battling through theoretical books... 
 
