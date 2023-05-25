@@ -11,7 +11,7 @@
 
 ### ongoing projects:
 - space-mouse: the special operodent is searching its way through the randomly generated borg cube to get to sweet romulan cheese
-[![GitHub tag](https://img.shields.io/github/tag/mklemmingen/space_mouse?include_prereleases=&sort=semver&color=yellow)](https://github.com/mklemmingen/space-mouse/releases/)
+[![GitHub tag](https://img.shields.io/github/tag/mklemmingen/space-mouse?include_prereleases=&sort=semver&color=yellow)](https://github.com/mklemmingen/space-mouse/releases/)
 ### finished projects:
 #### May 2023
 - "hangman 2 - the dictionaries strike back"
