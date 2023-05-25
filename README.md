@@ -9,6 +9,8 @@
 
 - Fun Fact: Next to my studies and private projects, I work with handicapped adults to accompany and to educate them into becoming more independent 
 
+### ongoing projects:
+- space-mouse: the special operodent is searching its way through the randomly generated borg cube to get to sweet romulan cheese
 ### finished projects:
 #### May 2023
 - "hangman 2 - the dictionaries strike back"
