@@ -9,13 +9,13 @@
 
 - Fun Fact: Next to my studies and private projects, I work with handicapped adults to accompany and to educate them into becoming more independent 
 
-### ongoing projects:
-- "space-mouse: the special operodent" is searching its way through the randomly generated borg cube to get to sweet romulan cheese
+### finished projects:
+#### June 2023
+- "space-mouse: the special operodent" is searching its way through the randomly generated 3-Dimensional borg cube to get to sweet romulan cheese
 
 [![mklemmingen - space-mouse](https://img.shields.io/static/v1?label=mklemmingen&message=space-mouse&color=yellow&logo=python)](https://github.com/mklemmingen/space-mouse "Go to GitHub repo")
 [![stars - space-mouse](https://img.shields.io/github/stars/mklemmingen/space-mouse?style=social)](https://github.com/mklemmingen/space-mouse)
 
-### finished projects:
 #### May 2023
 - "hangman 2 - the dictionaries strike back"
   the executioner has challenged you to a game of hangman in 20 languages. Will you win?
