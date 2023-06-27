@@ -26,5 +26,5 @@
 - "hangman 2 - the dictionaries strike back"
   the executioner has challenged you to a game of hangman in 20 languages. Will you win?
   
-[![mklemmingen - hangman-2](https://img.shields.io/static/v1?label=mklemmingen&message=hangman-2&color=blue&logo=python)](https://github.com/mklemmingen/hangman-2 "Go to GitHub repo")
+[![mklemmingen - hangman-2](https://img.shields.io/static/v1?label=mklemmingen&message=hangman-2&color=blue&logo=game)](https://github.com/mklemmingen/hangman-2 "Go to GitHub repo")
 [![stars - hangman-2](https://img.shields.io/github/stars/mklemmingen/hangman-2?style=social)](https://github.com/mklemmingen/hangman-2)
