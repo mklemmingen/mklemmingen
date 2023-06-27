@@ -12,6 +12,9 @@
 ### ongoing projects:
 - "linkli-c" library written in C99 to easily implement double-linked lists and efficient memory managment. Includes all functions necessary for easy data controlling in O(n)
 
+[![mklemmingen - linkli-c](https://img.shields.io/static/v1?label=mklemmingen&message=linkli-c&color=grey&logo=C)](https://github.com/mklemmingen/linkli-c "Go to GitHub repo")
+[![stars - linkli-c](https://img.shields.io/github/stars/mklemmingen/linkli-c?style=social)](https://github.com/mklemmingen/linkli-c)
+
 ### finished projects:
 #### June 2023
 - "space-mouse: the special operodent" is searching its way through the randomly generated 3-Dimensional borg cube to get to sweet romulan cheese
