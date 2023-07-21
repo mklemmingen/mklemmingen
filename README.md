@@ -17,7 +17,7 @@
 
 ### finished projects:
 #### June 2023
-- "space-mouse: the special operodent" is searching its way through the randomly generated 3-Dimensional borg cube to get to sweet romulan cheese
+- "space-mouse: the special operodent" is searching its way through the randomly generated 3-Dimensional borg cube to get to sweet romulan cheese. Displays maze-solving algorithms quickly and graphically
 
 [![mklemmingen - space-mouse](https://img.shields.io/static/v1?label=mklemmingen&message=space-mouse&color=yellow&logo=python)](https://github.com/mklemmingen/space-mouse "Go to GitHub repo")
 [![stars - space-mouse](https://img.shields.io/github/stars/mklemmingen/space-mouse?style=social)](https://github.com/mklemmingen/space-mouse)
