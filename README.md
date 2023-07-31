@@ -11,8 +11,7 @@
 
 ### ongoing projects:
 
-- DigiDoubt - Programm to judge if websites are ai-generated 
-              and put them onto a txt blocklist for use in the DigiDoubt Blocklist!
+- DigiDoubt - Programm to judge if websites are ai-generated
 [![mklemmingen - DigiDoubt](https://img.shields.io/static/v1?label=mklemmingen&message=DigiDoubt&color=green&logo=git)](https://github.com/mklemmingen/DigiDoubt "Go to GitHub repo")
 [![stars - space-mouse](https://img.shields.io/github/stars/mklemmingen/DigiDoubt?style=social)](https://github.com/mklemmingen/DigiDoubt)
 -------------------------
