@@ -10,10 +10,12 @@
 - Fun Fact: Next to my studies and private projects, I work with handicapped adults to accompany and to educate them into becoming more independent
 
 ### ongoing projects:
-- "linkli-c" library written in C99 to easily implement double-linked lists and efficient memory managment. Includes all functions necessary for easy data controlling in O(n)
-
-[![mklemmingen - linkli-c](https://img.shields.io/static/v1?label=mklemmingen&message=linkli-c&color=grey&logo=C)](https://github.com/mklemmingen/linkli-c "Go to GitHub repo")
-[![stars - linkli-c](https://img.shields.io/github/stars/mklemmingen/linkli-c?style=social)](https://github.com/mklemmingen/linkli-c)
+- DigiDoubt - Programm to judge if websites are ai-generated and put them onto a txt blocklist for use in the DigiDoubt Blocklist!
+[![mklemmingen - DigiDoubt](https://img.shields.io/static/v1?label=mklemmingen&message=DigiDoubt&color=green&logo=git)](https://github.com/mklemmingen/DigiDoubt "Go to GitHub repo")
+[![stars - space-mouse](https://img.shields.io/github/stars/mklemmingen/DigiDoubt?style=social)](https://github.com/mklemmingen/DigiDoubt)
+- DigiDoubt Blocklist
+[![mklemmingen - DigiDoubt-Blocklist](https://img.shields.io/static/v1?label=mklemmingen&message=DigiDoubt_Blocklist&color=black&logo=git)](https://github.com/mklemmingen/DigiDoubt_Blocklist "Go to GitHub repo")
+[![stars - space-mouse](https://img.shields.io/github/stars/mklemmingen/DigiDoubt_Blocklist?style=social)](https://github.com/mklemmingen/DigiDoubt_Blocklist)
 
 ### finished projects:
 #### June 2023
