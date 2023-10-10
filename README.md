@@ -12,8 +12,8 @@
 ### ongoing projects:
 
 - Boom Chess - a more fun chess game with health and no safety
-[![mklemmingen - Boom Chess](https://img.shields.io/static/v1?label=mklemmingen&message=DigiDoubt_Blocklist&color=grey&logo=git)](https://github.com/mklemmingen/DigiDoubt_Blocklist "Go to GitHub repo")
-[![stars - Boom Chess](https://img.shields.io/github/stars/mklemmingen/DigiDoubt_Blocklist?style=social)](https://github.com/mklemmingen/DigiDoubt_Blocklist)
+[![mklemmingen - Boom Chess](https://img.shields.io/static/v1?label=mklemmingen&message=cautious_eureka&color=grey&logo=git)]([https://github.com/mklemmingen/cautious_eureka](https://github.com/mklemmingen/cautious-eureka) "Go to GitHub repo")
+[![stars - Boom Chess](https://img.shields.io/github/stars/mklemmingen/cautious_eureka?style=social)](https://github.com/mklemmingen/cautious_eureka)
 
 - DigiDoubt Blocklist - the blocklist associated with the DigiDoubt-Project 
 [![mklemmingen - DigiDoubt-Blocklist](https://img.shields.io/static/v1?label=mklemmingen&message=DigiDoubt_Blocklist&color=grey&logo=git)](https://github.com/mklemmingen/DigiDoubt_Blocklist "Go to GitHub repo")
