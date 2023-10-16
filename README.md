@@ -11,10 +11,12 @@
 
 ### ongoing projects:
 
+PRIVATE
 - Boom Chess - a more fun chess game with health and no safety
 [![mklemmingen - Boom Chess](https://img.shields.io/static/v1?label=mklemmingen&message=boom-chess&color=green&logo=git)](https://github.com/mklemmingen/boom-chess "Go to GitHub repo")
 [![stars - Boom Chess](https://img.shields.io/github/stars/mklemmingen/boom-chess?style=social)](https://github.com/mklemmingen/boom-chess)
 
+PRIVATE
 - DigiDoubt Blocklist - the blocklist associated with the DigiDoubt-Project 
 [![mklemmingen - DigiDoubt-Blocklist](https://img.shields.io/static/v1?label=mklemmingen&message=DigiDoubt_Blocklist&color=grey&logo=git)](https://github.com/mklemmingen/DigiDoubt_Blocklist "Go to GitHub repo")
 [![stars - DigiDoubt](https://img.shields.io/github/stars/mklemmingen/DigiDoubt_Blocklist?style=social)](https://github.com/mklemmingen/DigiDoubt_Blocklist)
