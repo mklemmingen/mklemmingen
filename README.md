@@ -16,7 +16,7 @@ PRIVATE
 
 PRIVATE
 - DigiDoubt Blocklist - the blocklist associated with the DigiDoubt-Project
-- 
+
 ------------------------
 
 ### finished projects:
