@@ -14,8 +14,8 @@
 PRIVATE
 - Boom Chess - a more fun chess game with health and no safety
 
-PRIVATE
-- DigiDoubt Blocklist - the blocklist associated with the DigiDoubt-Project
+PUBLIC - unfinished, non-functional 
+- DigiDoubt Blocklist - scraping and checking websites for ai-generation
 
 ------------------------
 
