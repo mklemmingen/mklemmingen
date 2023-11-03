@@ -14,7 +14,7 @@
 PRIVATE
 - Boom Chess - a more fun chess game with health and no safety
 
-PUBLIC - unfinished, non-functional 
+PRIVATE - unfinished language model 
 - DigiDoubt Blocklist - scraping and checking websites for ai-generation
 
 ------------------------
