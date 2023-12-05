@@ -6,6 +6,7 @@
 
 - 📫 How to reach me: send a message to: MKL7543@duck.com
 - 😄 Pronouns: he/they
+- part of the BoomSoftwares Group. Ancient board games turned destructive
 
 ### ongoing projects:
 
