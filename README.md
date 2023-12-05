@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently studying hard and in my spare time I am trying to create long-range LoRaWAN rc-cars as well as little projects to learn
+- 🔭 
      
 - 🌱 I’m currently improving my Java with libGDX Usage
 
