@@ -22,8 +22,7 @@ PRIVATE - unfinished language model
 
 #### December 2022
 
-- ##### Boom Chess!
-Boom Boom Boom. Modern Soldiers, medieval Soldiers, lots of Boom. Chess Pieces with Health and complex relations fight it out on the modern chess board. Challenge Modes, multiple Colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework. 
+- Boom Chess!Boom Boom Boom. Modern Soldiers, medieval Soldiers, lots of Boom. Chess Pieces with Health and complex relations fight it out on the modern chess board. Challenge Modes, multiple Colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework. 
 
 - Senet: A simple workers game. The oldest known board game, a classic of ancient egypt, now created as a speed run with the libGDX Framework. A 3x10 board and a race to strategically move your pieces off to their next life and hinder your opponent from getting there first. The rules are left to their most minimum, as there are 100s of Iterations across egyptian history. Done as a part of the Tübinger Game Developing Speedruns December 23
 
