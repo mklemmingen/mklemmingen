@@ -20,7 +20,7 @@ PRIVATE - unfinished language model
 
 ### finished projects:
 
-#### December 2022
+#### December 2023
 
 - "Boom Chess!" - (JAVA) Modern Soldiers, medieval Soldiers, lots of Boom. Chess Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple Colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework. 
 
