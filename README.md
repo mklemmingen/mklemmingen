@@ -9,12 +9,6 @@
 
 ### ongoing projects:
 
-PRIVATE
-- Boom Chess - a more fun chess game with health and no safety
-
-PRIVATE - unfinished language model 
-- DigiDoubt Blocklist - scraping and checking websites for ai-generation
-
 ------------------------
 
 ### finished projects:
