@@ -4,7 +4,7 @@
 - 🌱 I’m currently improving my Java with libGDX Usage
 - 📫 How to reach me: send a message to: MKL7543@duck.com
 - 😄 Pronouns: he/they
-- Current Languages: C, Java, R, Python
+- Current Languages: C, Java, R, Python, adding C++
 - Tools I like to use: Coffee. Too much of it.
 - Part of BoomSoftwares Group. Ancient board games turned destructive
 
