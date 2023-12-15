@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/they
 - Current Languages: C, Java, R, Python
 - Tools I like to use: IntelliJ Community Edition, Unreal Engine Mod Kit
-- part of the BoomSoftwares Group. Ancient board games turned destructive
+- Part of BoomSoftwares Group. Ancient board games turned destructive
 
 ### ongoing projects:
 
