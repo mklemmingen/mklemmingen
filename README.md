@@ -15,6 +15,11 @@
 [![mklemmingen - Tropico 6 Advanced Teams](https://img.shields.io/static/v1?label=mklemmingen&message=Tropico-6&color=yellow&logo=github)](https://github.com/mklemmingen/Tropico6_Advanced-Team "Go to GitHub repo")
 [![stars - Tropico 6 Advanced Teams](https://img.shields.io/github/stars/mklemmingen/Tropico6_Advanced-Team?style=social)](https://github.com/mklemmingen/Tropico6_Advanced-Team)
 
+- StopTheToken (plain txt) - a community-fed pihole blocklist of websites that make use of AI-generation for their unoriginal articles, just to save bucks on human labour -> sucking the soul out of journalism and the internet.
+
+[![mklemmingen -StopTheToken](https://img.shields.io/static/v1?label=mklemmingen&message=StopTheToken&color=yellow&logo=github)](https://github.com/mklemmingen/StopTheToken "Go to GitHub repo")
+[![stars - StopTheToken](https://img.shields.io/github/stars/mklemmingen/StopTheToken?style=social)](https://github.com/mklemmingen/StopTheToken)
+
 ------------------------
 
 ### finished projects:
