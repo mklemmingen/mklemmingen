@@ -8,6 +8,9 @@
 - Tools I like to use: Coffee. Too much of it.
 - Part of BoomSoftwares Group. Ancient board games turned destructive
 
+
+------------------------
+
 ### ongoing projects:
 
 - Tropico 6 _ Advanced Teams (UE4, C++) - adds team features to the multiplayer like assisting in battle and no cooldown on money transfers
