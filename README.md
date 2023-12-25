@@ -25,12 +25,17 @@
 [![mklemmingen -StopTheToken](https://img.shields.io/static/v1?label=mklemmingen&message=StopTheToken&color=grey&logo=github)](https://github.com/mklemmingen/StopTheToken "Go to GitHub repo")
 [![stars - StopTheToken](https://img.shields.io/github/stars/mklemmingen/StopTheToken?style=social)](https://github.com/mklemmingen/StopTheToken)
 
-- TicTacToeBeans (JAVA) - Tic Tac Toe with PixelCats. What more is there to say. Its an Android Application!
+- TicTacToeBeans (JAVA, ANDROID) - Tic Tac Toe with PixelCats. What more is there to say. Its an Android Application! KatIncluded
 
 [![KatIncluded -TicTacToeBeans](https://img.shields.io/static/v1?label=KatIncluded&message=TicTacToeBeans&color=red&logo=steam)](https://github.com/KatIncluded/TicTacToeBeans "Go to GitHub repo")
 [![stars - TicTacToeBeans](https://img.shields.io/github/stars/KatIncluded/TicTacToeBeans?style=social)](https://github.com/KatIncluded/TicTacToeBeans)
 
-- BoomChess Android! (JAVA, ANDROID) - Modern Soldiers, medieval Soldiers, lots of Boom. Chess Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple Colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework. Now introduced to Android
+- CatsGoneRogue (JAVA, ANDROID) - roguelike dungeon runner. Cats against the evil world of non-sillyness. KatIncluded
+
+[![KatIncluded -CatsGoneRogue](https://img.shields.io/static/v1?label=CatsGoneRogue&message=TicTacToeBeans&color=green&logo=steam)](https://github.com/KatIncluded/CatsGoneRogue "Go to GitHub repo")
+[![stars - CatsGoneRogue](https://img.shields.io/github/stars/KatIncluded/CatsGoneRogue?style=social)](https://github.com/KatIncluded/CatsGoneRogue)
+
+- BoomChess Android! (JAVA, ANDROID) - Modern Soldiers, medieval Soldiers, lots of Boom. Chess Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple Colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework. Now introduced to Android. BoomSoftwares Group
 
 -- private as its origin is judged for academic purposes ---
 
@@ -40,11 +45,11 @@
 
 #### December 2023
 
-- "Boom Chess!" - (JAVA) Modern Soldiers, medieval Soldiers, lots of Boom. Chess Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple Colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework.
+- "Boom Chess!" - (JAVA) Modern Soldiers, medieval Soldiers, lots of Boom. Chess Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple Colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework. BoomSoftwares Group
 
 --- private as it is being judged for academic purposes ---
 
-- "Senet: A simple workers game" - (JAVA) The oldest known board game, a classic of ancient egypt, now created as a speed run with the libGDX Framework. A 3x10 board and a race to strategically move your pieces off to their next life and hinder your opponent from getting there first. The rules are left to their most minimum, as there are 100s of Iterations across egyptian history. Done as a part of the Tübinger Game Developing Speedruns December 23
+- "Senet: A simple workers game" - (JAVA) The oldest known board game, a classic of ancient egypt, now created as a speed run with the libGDX Framework. A 3x10 board and a race to strategically move your pieces off to their next life and hinder your opponent from getting there first. The rules are left to their most minimum, as there are 100s of Iterations across egyptian history. Done as a part of the Tübinger Game Developing Speedruns December 23. BoomSoftwares Group
 
 [![mklemmingen - Senet](https://img.shields.io/static/v1?label=mklemmingen&message=senet-boom&color=orange&logo=github)](https://github.com/mklemmingen/senet-boom "Go to GitHub repo")
 [![stars - senet-boom](https://img.shields.io/github/stars/mklemmingen/senet-boom?style=social)](https://github.com/mklemmingen/senet-boom)
