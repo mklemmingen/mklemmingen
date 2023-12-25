@@ -1,4 +1,6 @@
-### Hello there ![til](./wave.gif)
+![til](./wave.gif)
+
+ ### Hello there
 
 - 🔭 
 - 🌱 I’m currently improving my Java with libGDX Usage
