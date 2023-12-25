@@ -68,6 +68,8 @@
 [![mklemmingen - space-mouse](https://img.shields.io/static/v1?label=mklemmingen&message=space-mouse&color=yellow&logo=python)](https://github.com/mklemmingen/space-mouse "Go to GitHub repo")
 [![stars - space-mouse](https://img.shields.io/github/stars/mklemmingen/space-mouse?style=social)](https://github.com/mklemmingen/space-mouse)
 
+<img src="./spacemouse.gif" width="250" alt="gif showing the maze solving space mouse in action.">
+
 - "hangman 2 - the dictionaries strike back" (PYTHON)
   the executioner has challenged you to a game of hangman in 20 languages. Will you win?
   using huge datasets and complex data structures to calculate the most likely word you threw at the computer
