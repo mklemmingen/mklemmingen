@@ -25,7 +25,7 @@
 
 - TicTacToeBeans (JAVA) - Tic Tac Toe with PixelCats. What more is there to say
 
-[![KatIncluded -TicTacToeBeans](https://img.shields.io/static/v1?label=KatIncluded&message=TicTacToeBeans&color=grey&logo=cat)](https://github.com/KatIncluded/TicTacToeBeans "Go to GitHub repo")
+[![KatIncluded -TicTacToeBeans](https://img.shields.io/static/v1?label=KatIncluded&message=TicTacToeBeans&color=grey&logo=java)](https://github.com/KatIncluded/TicTacToeBeans "Go to GitHub repo")
 [![stars - TicTacToeBeans](https://img.shields.io/github/stars/KatIncluded/TicTacToeBeans?style=social)](https://github.com/KatIncluded/TicTacToeBeans)
 
 
