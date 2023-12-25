@@ -72,5 +72,5 @@
 
 ### Thanks for scrolling
 
-<img src="./cool.gif" width="125%" alt="kid giving a thumbs up">
+<img src="./cool.gif" alt="kid giving a thumbs up">
 
