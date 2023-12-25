@@ -25,15 +25,15 @@
 [![mklemmingen -StopTheToken](https://img.shields.io/static/v1?label=mklemmingen&message=StopTheToken&color=grey&logo=github)](https://github.com/mklemmingen/StopTheToken "Go to GitHub repo")
 [![stars - StopTheToken](https://img.shields.io/github/stars/mklemmingen/StopTheToken?style=social)](https://github.com/mklemmingen/StopTheToken)
 
-- TicTacToeBeans (JAVA, ANDROID) - Tic Tac Toe with PixelCats. What more is there to say. Its an Android Application! KatIncluded
-
-[![KatIncluded -TicTacToeBeans](https://img.shields.io/static/v1?label=KatIncluded&message=TicTacToeBeans&color=red&logo=steam)](https://github.com/KatIncluded/TicTacToeBeans "Go to GitHub repo")
-[![stars - TicTacToeBeans](https://img.shields.io/github/stars/KatIncluded/TicTacToeBeans?style=social)](https://github.com/KatIncluded/TicTacToeBeans)
-
 - CatsGoneRogue (JAVA) - roguelike dungeon runner. Cats against the evil world of non-sillyness. KatIncluded
 
 [![KatIncluded -CatsGoneRogue](https://img.shields.io/static/v1?label=CatsGoneRogue&message=CatsGoneRogue&color=green&logo=steam)](https://github.com/KatIncluded/CatsGoneRogue "Go to GitHub repo")
 [![stars - CatsGoneRogue](https://img.shields.io/github/stars/KatIncluded/CatsGoneRogue?style=social)](https://github.com/KatIncluded/CatsGoneRogue)
+
+- TicTacToeBeans (JAVA, ANDROID) - Tic Tac Toe with PixelCats. What more is there to say. Its an Android Application! KatIncluded
+
+[![KatIncluded -TicTacToeBeans](https://img.shields.io/static/v1?label=KatIncluded&message=TicTacToeBeans&color=red&logo=steam)](https://github.com/KatIncluded/TicTacToeBeans "Go to GitHub repo")
+[![stars - TicTacToeBeans](https://img.shields.io/github/stars/KatIncluded/TicTacToeBeans?style=social)](https://github.com/KatIncluded/TicTacToeBeans)
 
 - BoomChess Android! (JAVA, ANDROID) - Modern Soldiers, medieval Soldiers, lots of Boom. Chess Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple Colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework. Now introduced to Android. BoomSoftwares Group
 
