@@ -23,6 +23,12 @@
 [![mklemmingen -StopTheToken](https://img.shields.io/static/v1?label=mklemmingen&message=StopTheToken&color=grey&logo=github)](https://github.com/mklemmingen/StopTheToken "Go to GitHub repo")
 [![stars - StopTheToken](https://img.shields.io/github/stars/mklemmingen/StopTheToken?style=social)](https://github.com/mklemmingen/StopTheToken)
 
+- TicTacToeBeans (JAVA) - Tic Tac Toe with PixelCats. What more is there to say
+
+[![mklemmingen -TicTacToeBeans](https://img.shields.io/static/v1?label=mklemmingen&message=StopTheToken&color=grey&logo=github)](https://github.com/mklemmingen/TicTacToeBeans "Go to GitHub repo")
+[![stars - TicTacToeBeans](https://img.shields.io/github/stars/mklemmingen/TicTacToeBeans?style=social)](https://github.com/mklemmingen/TicTacToeBeans)
+
+
 ------------------------
 
 ### finished projects:
