@@ -6,7 +6,9 @@
 - 😄 Pronouns: he/they
 - Current Languages: C, Java, R, Python
 - Tools I like to use: Coffee. Too much of it. Sometimes some Android stuff 
-- Part of BoomSoftwares Group. Ancient board games turned destructive
+- Part of:
+       -  BoomSoftwares Group. Ancient board games turned destructive
+       -  KatIncluded. PixelCats playing silly games
 
 
 ------------------------
