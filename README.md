@@ -15,11 +15,6 @@
 
 ### ongoing projects:
 
-- Tropico 6 _ Advanced Teams (UE4, C++) - adds team features to the multiplayer like assisting in battle and no cooldown on money transfers
-  
-[![mklemmingen - Tropico 6 Advanced Teams](https://img.shields.io/static/v1?label=mklemmingen&message=Tropico-6&color=yellow&logo=steam)](https://github.com/mklemmingen/Tropico6_Advanced-Team "Go to GitHub repo")
-[![stars - Tropico 6 Advanced Teams](https://img.shields.io/github/stars/mklemmingen/Tropico6_Advanced-Team?style=social)](https://github.com/mklemmingen/Tropico6_Advanced-Team)
-
 - StopTheToken (plain txt) - a community-fed pihole blocklist of websites that make use of AI-generation for their unoriginal articles, just to save bucks on human labour -> sucking the soul out of journalism and the internet.
 
 [![mklemmingen -StopTheToken](https://img.shields.io/static/v1?label=mklemmingen&message=StopTheToken&color=grey&logo=github)](https://github.com/mklemmingen/StopTheToken "Go to GitHub repo")
@@ -43,7 +38,12 @@
 
 ### finished projects:
 
-#### December 2023
+#### Q3/Q4 2023
+
+- Tropico 6 _ Advanced Teams (UE4, C++) - adds team features to the multiplayer like assisting in battle and no cooldown on money transfers
+  
+[![mklemmingen - Tropico 6 Advanced Teams](https://img.shields.io/static/v1?label=mklemmingen&message=Tropico-6&color=yellow&logo=steam)](https://github.com/mklemmingen/Tropico6_Advanced-Team "Go to GitHub repo")
+[![stars - Tropico 6 Advanced Teams](https://img.shields.io/github/stars/mklemmingen/Tropico6_Advanced-Team?style=social)](https://github.com/mklemmingen/Tropico6_Advanced-Team)
 
 - "Boom Chess!" - (JAVA) Modern Soldiers, medieval Soldiers, lots of Boom. Chess Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple Colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework. BoomSoftwares Group
 
@@ -54,13 +54,12 @@
 [![mklemmingen - Senet](https://img.shields.io/static/v1?label=mklemmingen&message=senet-boom&color=orange&logo=github)](https://github.com/mklemmingen/senet-boom "Go to GitHub repo")
 [![stars - senet-boom](https://img.shields.io/github/stars/mklemmingen/senet-boom?style=social)](https://github.com/mklemmingen/senet-boom)
 
-#### June 2023
+#### Q1/Q2 2023
 - "space-mouse: the special operodent" (PYTHON) is searching its way through the randomly generated 3-Dimensional borg cube to get to sweet romulan cheese. Displays maze-solving algorithms quickly and graphically
 
 [![mklemmingen - space-mouse](https://img.shields.io/static/v1?label=mklemmingen&message=space-mouse&color=yellow&logo=python)](https://github.com/mklemmingen/space-mouse "Go to GitHub repo")
 [![stars - space-mouse](https://img.shields.io/github/stars/mklemmingen/space-mouse?style=social)](https://github.com/mklemmingen/space-mouse)
 
-#### May 2023
 - "hangman 2 - the dictionaries strike back" (PYTHON)
   the executioner has challenged you to a game of hangman in 20 languages. Will you win?
   using huge datasets and complex data structures to calculate the most likely word you threw at the computer
