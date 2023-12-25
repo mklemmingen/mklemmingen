@@ -36,7 +36,7 @@
 
 - BoomChess Android! (JAVA, ANDROID) - Modern Soldiers, medieval Soldiers, lots of Boom. Chess Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple Colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework. Now introduced to Android. BoomSoftwares Group
 
--- private as its origin is judged for academic purposes ---
+-- private as the BoomChess (linked below) is rated for academic purposes ---
 
 ------------------------
 
