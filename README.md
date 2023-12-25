@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there ![til](./wave.gif)
 
 - 🔭 
 - 🌱 I’m currently improving my Java with libGDX Usage
@@ -66,3 +66,8 @@
   
 [![mklemmingen - hangman-2](https://img.shields.io/static/v1?label=mklemmingen&message=hangman-2&color=blue&logo=steam)](https://github.com/mklemmingen/hangman-2 "Go to GitHub repo")
 [![stars - hangman-2](https://img.shields.io/github/stars/mklemmingen/hangman-2?style=social)](https://github.com/mklemmingen/hangman-2)
+
+
+### Thanks for scrolling
+
+![til](./cool.gif)
