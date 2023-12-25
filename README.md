@@ -60,6 +60,8 @@
 [![mklemmingen - Senet](https://img.shields.io/static/v1?label=mklemmingen&message=senet-boom&color=orange&logo=github)](https://github.com/mklemmingen/senet-boom "Go to GitHub repo")
 [![stars - senet-boom](https://img.shields.io/github/stars/mklemmingen/senet-boom?style=social)](https://github.com/mklemmingen/senet-boom)
 
+<img src="./senetboom.gif" width="250" alt="gif showing the game Boom Chess.">
+
 #### Q1/Q2 2023
 - "space-mouse: the special operodent" (PYTHON) is searching its way through the randomly generated 3-Dimensional borg cube to get to sweet romulan cheese. Displays maze-solving algorithms quickly and graphically
 
