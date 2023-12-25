@@ -15,7 +15,7 @@
 
 - Tropico 6 _ Advanced Teams (UE4, C++) - adds team features to the multiplayer like assisting in battle and no cooldown on money transfers
   
-[![mklemmingen - Tropico 6 Advanced Teams](https://img.shields.io/static/v1?label=mklemmingen&message=Tropico-6&color=yellow&logo=github)](https://github.com/mklemmingen/Tropico6_Advanced-Team "Go to GitHub repo")
+[![mklemmingen - Tropico 6 Advanced Teams](https://img.shields.io/static/v1?label=mklemmingen&message=Tropico-6&color=yellow&logo=steam)](https://github.com/mklemmingen/Tropico6_Advanced-Team "Go to GitHub repo")
 [![stars - Tropico 6 Advanced Teams](https://img.shields.io/github/stars/mklemmingen/Tropico6_Advanced-Team?style=social)](https://github.com/mklemmingen/Tropico6_Advanced-Team)
 
 - StopTheToken (plain txt) - a community-fed pihole blocklist of websites that make use of AI-generation for their unoriginal articles, just to save bucks on human labour -> sucking the soul out of journalism and the internet.
@@ -25,7 +25,7 @@
 
 - TicTacToeBeans (JAVA) - Tic Tac Toe with PixelCats. What more is there to say
 
-[![KatIncluded -TicTacToeBeans](https://img.shields.io/static/v1?label=KatIncluded&message=TicTacToeBeans&color=grey&logo=java)](https://github.com/KatIncluded/TicTacToeBeans "Go to GitHub repo")
+[![KatIncluded -TicTacToeBeans](https://img.shields.io/static/v1?label=KatIncluded&message=TicTacToeBeans&color=red&logo=steam)](https://github.com/KatIncluded/TicTacToeBeans "Go to GitHub repo")
 [![stars - TicTacToeBeans](https://img.shields.io/github/stars/KatIncluded/TicTacToeBeans?style=social)](https://github.com/KatIncluded/TicTacToeBeans)
 
 
