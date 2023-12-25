@@ -44,7 +44,7 @@
 
 #### Q3/Q4 2023
 
-- Tropico 6 _ Advanced Teams (UE4, C++) - adds team features to the multiplayer like assisting in battle and no cooldown on money transfers
+- Tropico 6 _ Advanced Teams (UE4, C++) - adds team features to the multiplayer - no cooldown on team money transfer
   
 [![mklemmingen - Tropico 6 Advanced Teams](https://img.shields.io/static/v1?label=mklemmingen&message=Tropico-6&color=yellow&logo=steam)](https://github.com/mklemmingen/Tropico6_Advanced-Team "Go to GitHub repo")
 [![stars - Tropico 6 Advanced Teams](https://img.shields.io/github/stars/mklemmingen/Tropico6_Advanced-Team?style=social)](https://github.com/mklemmingen/Tropico6_Advanced-Team)
