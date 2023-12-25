@@ -1,4 +1,4 @@
-<img src="./wave.gif" width="25%" alt="waving hand">
+<img src="./wave.gif" width="75" alt="waving hand">
 
 
 
