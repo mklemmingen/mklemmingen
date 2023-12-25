@@ -32,7 +32,7 @@
 
 - CatsGoneRogue (JAVA, ANDROID) - roguelike dungeon runner. Cats against the evil world of non-sillyness. KatIncluded
 
-[![KatIncluded -CatsGoneRogue](https://img.shields.io/static/v1?label=CatsGoneRogue&message=TicTacToeBeans&color=green&logo=steam)](https://github.com/KatIncluded/CatsGoneRogue "Go to GitHub repo")
+[![KatIncluded -CatsGoneRogue](https://img.shields.io/static/v1?label=CatsGoneRogue&message=CatsGoneRogue&color=green&logo=steam)](https://github.com/KatIncluded/CatsGoneRogue "Go to GitHub repo")
 [![stars - CatsGoneRogue](https://img.shields.io/github/stars/KatIncluded/CatsGoneRogue?style=social)](https://github.com/KatIncluded/CatsGoneRogue)
 
 - BoomChess Android! (JAVA, ANDROID) - Modern Soldiers, medieval Soldiers, lots of Boom. Chess Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple Colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework. Now introduced to Android. BoomSoftwares Group
