@@ -7,8 +7,8 @@
 - Current Languages: C, Java, R, Python
 - Tools I like to use: Coffee. Too much of it. Sometimes some Android stuff 
 - Part of:
-       -  BoomSoftwares Group. Ancient board games turned destructive
-       -  KatIncluded. PixelCats playing silly games
+  1. BoomSoftwares Group. Ancient board games turned destructive
+  2. KatIncluded. PixelCats playing silly games
 
 
 ------------------------
