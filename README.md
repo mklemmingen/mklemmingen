@@ -1,4 +1,5 @@
-<img src="./wave.gif" width="25%" height="25%" alt="waving hand">
+<img src="./wave.gif" style="width: 25; height: auto;" alt="waving hand">
+
 
  ### Hello there
 
