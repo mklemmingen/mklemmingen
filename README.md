@@ -30,7 +30,7 @@
 [![KatIncluded -TicTacToeBeans](https://img.shields.io/static/v1?label=KatIncluded&message=TicTacToeBeans&color=red&logo=steam)](https://github.com/KatIncluded/TicTacToeBeans "Go to GitHub repo")
 [![stars - TicTacToeBeans](https://img.shields.io/github/stars/KatIncluded/TicTacToeBeans?style=social)](https://github.com/KatIncluded/TicTacToeBeans)
 
-- CatsGoneRogue (JAVA, ANDROID) - roguelike dungeon runner. Cats against the evil world of non-sillyness. KatIncluded
+- CatsGoneRogue (JAVA) - roguelike dungeon runner. Cats against the evil world of non-sillyness. KatIncluded
 
 [![KatIncluded -CatsGoneRogue](https://img.shields.io/static/v1?label=CatsGoneRogue&message=CatsGoneRogue&color=green&logo=steam)](https://github.com/KatIncluded/CatsGoneRogue "Go to GitHub repo")
 [![stars - CatsGoneRogue](https://img.shields.io/github/stars/KatIncluded/CatsGoneRogue?style=social)](https://github.com/KatIncluded/CatsGoneRogue)
