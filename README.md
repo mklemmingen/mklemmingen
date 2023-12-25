@@ -1,4 +1,4 @@
-![til](./wave.gif)
+<img src="./wave.gif" width="25%" alt="waving hand">
 
  ### Hello there
 
@@ -72,4 +72,5 @@
 
 ### Thanks for scrolling
 
-![til](./cool.gif)
+<img src="./cool.gif" width="125%" alt="kid giving a thumbs up">
+
