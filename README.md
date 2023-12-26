@@ -72,7 +72,13 @@
 
 --- private as it is being rated for academic purposes ---
 
+Desktop Version:
+
 <img src="./boomchess.gif" width="250" alt="gif showing the game Boom Chess.">
+
+Android Version:
+
+<img src="./boomchessandroid.gif" width="250" alt="gif showing the game Boom Chess in its android version.">
 
 - "Senet: A simple workers game" - (JAVA) The oldest known board game, a classic of ancient egypt, now created as a speed run with the libGDX Framework. A 3x10 board and a race to strategically move your pieces off to their next life and hinder your opponent from getting there first. The rules are left to their most minimum, as there are 100s of Iterations across egyptian history. Done as a part of the Tübinger Game Developing Speedruns December 23. BoomSoftwares Group
 
