@@ -48,36 +48,18 @@
 
 - StopTheToken (plain txt) - a community-fed pihole blocklist of websites that make use of AI-generation for their unoriginal articles, just to save bucks on human labour -> sucking the soul out of journalism and the internet.
 
-<div style="text-align: center;">
-  <div style="display: inline-block; text-align: left; background-color: #f0f0f0; padding: 10;">
-
 [![mklemmingen -StopTheToken](https://img.shields.io/static/v1?label=mklemmingen&message=StopTheToken&color=grey&logo=github)](https://github.com/mklemmingen/StopTheToken "Go to GitHub repo")
 [![stars - StopTheToken](https://img.shields.io/github/stars/mklemmingen/StopTheToken?style=social)](https://github.com/mklemmingen/StopTheToken)
 
-  </div>
-</div>
-
 - CatsGoneRogue (JAVA) - roguelike dungeon runner. Cats against the evil world of non-sillyness. KatIncluded
-
-<div style="text-align: center;">
-  <div style="display: inline-block; text-align: left; background-color: #f0f0f0; padding: 10;">
 
 [![KatIncluded -CatsGoneRogue](https://img.shields.io/static/v1?label=CatsGoneRogue&message=CatsGoneRogue&color=green&logo=apachetomcat)](https://github.com/KatIncluded/CatsGoneRogue "Go to GitHub repo")
 [![stars - CatsGoneRogue](https://img.shields.io/github/stars/KatIncluded/CatsGoneRogue?style=social)](https://github.com/KatIncluded/CatsGoneRogue)
 
-  </div>
-</div>
-
 - TicTacToeBeans (JAVA, ANDROID) - Tic Tac Toe with PixelCats. What more is there to say. Its an Android Application! KatIncluded
-
-<div style="text-align: center;">
-  <div style="display: inline-block; text-align: left; background-color: #f0f0f0; padding: 10;">
 
 [![KatIncluded -TicTacToeBeans](https://img.shields.io/static/v1?label=KatIncluded&message=TicTacToeBeans&color=red&logo=apachetomcat)](https://github.com/KatIncluded/TicTacToeBeans "Go to GitHub repo")
 [![stars - TicTacToeBeans](https://img.shields.io/github/stars/KatIncluded/TicTacToeBeans?style=social)](https://github.com/KatIncluded/TicTacToeBeans)
-
-  </div>
-</div>
 
 - BoomChess Android! (JAVA, ANDROID) - Modern Soldiers, medieval Soldiers, lots of Boom. Chess Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple Colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework. Now introduced to Android. BoomSoftwares Group
 
@@ -85,14 +67,9 @@
 
 - "Senet: A simple workers game - on Android!" - (JAVA, ANDROID) The oldest known board game, a classic of ancient egypt, now created as a speed run with the libGDX Framework. A 3x10 board and a race to strategically move your pieces off to their next life and hinder your opponent from getting there first. The rules are left to their most minimum, as there are 100s of Iterations across egyptian history.
 
-<div style="text-align: center;">
-  <div style="display: inline-block; text-align: left; background-color: #f0f0f0; padding: 10;">
-
 [![mklemmingen - Senet Android](https://img.shields.io/static/v1?label=mklemmingen&message=senet-boom-android&color=orange&logo=applearcade)](https://github.com/mklemmingen/senet-boom-android "Go to GitHub repo")
 [![stars - senet-boom Android](https://img.shields.io/github/stars/mklemmingen/senet-boom-android?style=social)](https://github.com/mklemmingen/senet-boom-android)
 
-  </div>
-</div>
 ------------------------
 
 ### finished projects:
