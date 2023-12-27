@@ -52,7 +52,12 @@
 [![KatIncluded -TicTacToeBeans](https://img.shields.io/static/v1?label=KatIncluded&message=TicTacToeBeans&color=red&logo=apachetomcat)](https://github.com/KatIncluded/TicTacToeBeans "Go to GitHub repo")
 [![stars - TicTacToeBeans](https://img.shields.io/github/stars/KatIncluded/TicTacToeBeans?style=social)](https://github.com/KatIncluded/TicTacToeBeans)
 
-[//]: <> ("Senet: A simple workers game - on Android!" - (JAVA, ANDROID) The oldest known board game, a classic of ancient egypt, now created as a speed run with the libGDX Framework. A 3x10 board and a race to strategically move your pieces off to their next life and hinder your opponent from getting there first. The rules are left to their most minimum, as there are 100s of Iterations across egyptian history.[![mklemmingen - Senet Android](https://img.shields.io/static/v1?label=mklemmingen&message=senet-boom-android&color=orange&logo=applearcade)](https://github.com/mklemmingen/senet-boom-android "Go to GitHub repo")[![stars - senet-boom Android](https://img.shields.io/github/stars/mklemmingen/senet-boom-android?style=social)](https://github.com/mklemmingen/senet-boom-android))
+<!---
+"Senet: A simple workers game - on Android!" - (JAVA, ANDROID) The oldest known board game, a classic of ancient egypt, now created as a speed run with the libGDX Framework. A 3x10 board and a race to strategically move your pieces off to their next life and hinder your opponent from getting there first. The rules are left to their most minimum, as there are 100s of Iterations across egyptian history.
+
+[![mklemmingen - Senet Android](https://img.shields.io/static/v1?label=mklemmingen&message=senet-boom-android&color=orange&logo=applearcade)](https://github.com/mklemmingen/senet-boom-android "Go to GitHub repo")
+[![stars - senet-boom Android](https://img.shields.io/github/stars/mklemmingen/senet-boom-android?style=social)](https://github.com/mklemmingen/senet-boom-android)
+--->
 
 ------------------------
 
