@@ -72,22 +72,22 @@
 
 - "Boom Chess!" - (JAVA) Modern Soldiers, medieval Soldiers, lots of Boom. Chess Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple Colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework. BoomSoftwares Group
 
---- private as it is being rated for academic purposes ---
-
 Desktop Version:
-
 <img src="./boomchess.gif" width="250" alt="gif showing the game Boom Chess.">
 
 Android Version:
-
 <img src="./boomchessandroid.gif" width="250" alt="gif showing the game Boom Chess in its android version.">
 
 - "Senet: A simple workers game" - (JAVA) The oldest known board game, a classic of ancient egypt, now created as a speed run with the libGDX Framework. A 3x10 board and a race to strategically move your pieces off to their next life and hinder your opponent from getting there first. The rules are left to their most minimum, as there are 100s of Iterations across egyptian history. Done as a part of the Tübinger Game Developing Speedruns December 23. BoomSoftwares Group
 
+Desktop Version:
+<img src="./senetboom.gif" width="250" alt="gif showing the game Boom Chess.">
 [![mklemmingen - Senet](https://img.shields.io/static/v1?label=mklemmingen&message=senet-boom&color=orange&logo=applearcade)](https://github.com/mklemmingen/senet-boom "Go to GitHub repo")
 [![stars - senet-boom](https://img.shields.io/github/stars/mklemmingen/senet-boom?style=social)](https://github.com/mklemmingen/senet-boom)
 
-<img src="./senetboom.gif" width="250" alt="gif showing the game Boom Chess.">
+Android Version:
+[![mklemmingen - Senet Android](https://img.shields.io/static/v1?label=mklemmingen&message=senet-boom-android&color=orange&logo=applearcade)](https://github.com/mklemmingen/senet-boom-android "Go to GitHub repo")
+[![stars - senet-boom Android](https://img.shields.io/github/stars/mklemmingen/senet-boom-android?style=social)](https://github.com/mklemmingen/senet-boom-android)
 
 #### Q1/Q2 2023
 - "space-mouse: the special operodent" (PYTHON) is searching its way through the randomly generated 3-Dimensional borg cube to get to sweet romulan cheese. Displays maze-solving algorithms quickly and graphically
