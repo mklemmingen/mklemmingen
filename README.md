@@ -64,13 +64,6 @@ Tic Tac Toe with PixelCats. What more is there to say. Its an Android Applicatio
 
 ## finished projects, with updates ongoing:
 
-### Tropico 6 _ Advanced Teams (UE4, C++) Q4 2023
-
-adds team features to the multiplayer - no cooldown on team money transfer. Simple unreal engine 4 asset overwrite.
-  
-[![mklemmingen - Tropico 6 Advanced Teams](https://img.shields.io/static/v1?label=mklemmingen&message=Tropico-6&color=yellow&logo=steam)](https://github.com/mklemmingen/Tropico6_Advanced-Team "Go to GitHub repo")
-[![stars - Tropico 6 Advanced Teams](https://img.shields.io/github/stars/mklemmingen/Tropico6_Advanced-Team?style=social)](https://github.com/mklemmingen/Tropico6_Advanced-Team)
- 
 ### "Boom Chess!" - (JAVA) Q4 2023
 
 Modern Soldiers, medieval Soldiers, lots of Boom. Chess Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple Colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework. BoomSoftwares Group
@@ -98,6 +91,13 @@ Android Version:
 
 [![mklemmingen - Senet Android](https://img.shields.io/static/v1?label=mklemmingen&message=senet-boom-android&color=orange&logo=applearcade)](https://github.com/mklemmingen/senet-boom-android "Go to GitHub repo")
 [![stars - senet-boom Android](https://img.shields.io/github/stars/mklemmingen/senet-boom-android?style=social)](https://github.com/mklemmingen/senet-boom-android)
+
+### Tropico 6 _ Advanced Teams (UE4, C++) Q4 2023
+
+adds team features to the multiplayer - no cooldown on team money transfer. Simple unreal engine 4 asset overwrite.
+  
+[![mklemmingen - Tropico 6 Advanced Teams](https://img.shields.io/static/v1?label=mklemmingen&message=Tropico-6&color=yellow&logo=steam)](https://github.com/mklemmingen/Tropico6_Advanced-Team "Go to GitHub repo")
+[![stars - Tropico 6 Advanced Teams](https://img.shields.io/github/stars/mklemmingen/Tropico6_Advanced-Team?style=social)](https://github.com/mklemmingen/Tropico6_Advanced-Team)
 
 ### "space-mouse: the special operodent" (PYTHON) Q2 2023
 
