@@ -70,11 +70,11 @@ Modern Soldiers, medieval Soldiers, lots of Boom. Chess Pieces with Health and c
 
 Desktop Version:
 
-<img src="./boomchess.gif" width="250" alt="gif showing the game Boom Chess.">
+<img src="./boomchess.gif" class="center" width="250" alt="gif showing the game Boom Chess.">
 
 Android Version:
 
-<img src="./boomchessandroid.gif" width="250" alt="gif showing the game Boom Chess in its android version.">
+<img src="./boomchessandroid.gif" class="center"  width="250" alt="gif showing the game Boom Chess in its android version.">
 
 ### "Senet: A simple workers game" - (JAVA)  Q4 2023
 
@@ -82,7 +82,7 @@ The oldest known board game, a classic of ancient egypt, now created as a speed 
 
 Desktop Version:
 
-<img src="./senetboom.gif" width="250" alt="gif showing the game Boom Chess.">
+<img src="./senetboom.gif" width="250" class="center" alt="gif showing the game Boom Chess.">
 
 [![mklemmingen - Senet](https://img.shields.io/static/v1?label=mklemmingen&message=senet-boom&color=orange&logo=applearcade)](https://github.com/mklemmingen/senet-boom "Go to GitHub repo")
 [![stars - senet-boom](https://img.shields.io/github/stars/mklemmingen/senet-boom?style=social)](https://github.com/mklemmingen/senet-boom)
@@ -106,7 +106,7 @@ is searching its way through the randomly generated 3-Dimensional borg cube to g
 [![mklemmingen - space-mouse](https://img.shields.io/static/v1?label=mklemmingen&message=space-mouse&color=yellow&logo=python)](https://github.com/mklemmingen/space-mouse "Go to GitHub repo")
 [![stars - space-mouse](https://img.shields.io/github/stars/mklemmingen/space-mouse?style=social)](https://github.com/mklemmingen/space-mouse)
 
-<img src="./spacemouse.gif" width="250" alt="gif showing the maze solving space mouse in action.">
+<img src="./spacemouse.gif" width="250" class="center" alt="gif showing the maze solving space mouse in action.">
 
 ### "hangman 2 - the dictionaries strike back" (PYTHON) Q2 2023
   
@@ -119,5 +119,5 @@ the executioner has challenged you to a game of hangman in 20 languages. Will yo
 
 ### Thanks for scrolling
 
-<img src="./cool.gif" alt="kid giving a thumbs up">
+<img src="./cool.gif" class="center" alt="kid giving a thumbs up">
 
