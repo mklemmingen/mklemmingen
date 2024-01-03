@@ -76,8 +76,8 @@ Android Version:
 
 <img src="./boomchessandroid.gif" class="center"  width="250" alt="gif showing the game Boom Chess in its android version.">
 
-[![mklemmingen - BoomChess](https://img.shields.io/static/v1?label=mklemmingen&message=BoomChess&color=red&logo=applearcade)](https://github.com/mklemmingen/BoomChess-Android "Go to GitHub repo")
-[![stars - BoomChess](https://img.shields.io/github/stars/mklemmingen/senet-boom?style=social)](https://github.com/mklemmingen/BoomChess-Android)
+[![mklemmingen - BoomChess-ANDROID](https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessAndroid&color=red&logo=applearcade)](https://github.com/mklemmingen/BoomChess-Android "Go to GitHub repo")
+[![stars - BoomChess-ANDROID](https://img.shields.io/github/stars/mklemmingen/senet-boom?style=social)](https://github.com/mklemmingen/BoomChess-Android)
 
 ### "Senet: A simple workers game" - (JAVA)  Q4 2023
 
