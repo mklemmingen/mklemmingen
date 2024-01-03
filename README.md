@@ -40,6 +40,13 @@
 [![mklemmingen -StopTheToken](https://img.shields.io/static/v1?label=mklemmingen&message=StopTheToken&color=grey&logo=github)](https://github.com/mklemmingen/StopTheToken "Go to GitHub repo")
 [![stars - StopTheToken](https://img.shields.io/github/stars/mklemmingen/StopTheToken?style=social)](https://github.com/mklemmingen/StopTheToken)
 
+#### DigiDoubt (PYTHON)
+
+finding websites with weird contact,  generic privacy policy layout and overall weird html formatting. Used to find lazy AI-Generation.
+
+[![mklemmingen - DigiDoubt](https://img.shields.io/static/v1?label=mklemmingen&message=DigiDoubt&color=green&logo=github)](https://github.com/mklemmingen/DigiDoubt "Go to GitHub repo")
+[![stars - DigiDoubt](https://img.shields.io/github/stars/mklemmingen/DigiDoubt?style=social)](https://github.com/mklemmingen/DigiDoubt)
+
 #### CatsGoneRogue (JAVA) 
 
 roguelike dungeon runner. Cats against the evil world of non-sillyness. KatIncluded
