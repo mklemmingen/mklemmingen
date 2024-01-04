@@ -1,12 +1,7 @@
 <img src="./wave.gif" width="75" alt="waving hand">
 
 
-
- ### Hello there
- 
-- 🌱 I’m currently improving my Java with libGDX Usage
-- 📫 How to reach me: send a message to: MKL7543@duck.com
-- Pronouns: he/they
+Contact: MKL7543@duck.com
 - Focus Languages: C, Java, R, Python
 - Part of:
   1. BoomSoftwares Group. Ancient board games turned destructive
