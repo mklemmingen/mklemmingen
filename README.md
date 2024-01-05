@@ -1,7 +1,5 @@
 <img src="./wave.gif" width="75" alt="waving hand">
 
-
-Contact: MKL7543@duck.com
 - Focus Languages: C, Java, R, Python
 - Part of:
   1. BoomSoftwares Group. board games twisted
@@ -125,4 +123,6 @@ the executioner has challenged you to a game of hangman in 20 languages. Will yo
 ### Thanks for scrolling
 
 <img src="./cool.gif" class="center" alt="kid giving a thumbs up">
+
+Contact: MKL7543@duck.com
 
