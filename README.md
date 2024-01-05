@@ -76,18 +76,16 @@ Desktop Version:
 Android Version:
 --->
 
-<img src="./boomchessandroid.gif" class="center"  width="250" alt="gif showing the game Boom Chess in its android version.">
-
 [![mklemmingen - BoomChess-ANDROID](https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessAndroid&color=blue&logo=applearcade)](https://github.com/mklemmingen/BoomChess-Android "Go to GitHub repo")
 [![stars - BoomChess-ANDROID](https://img.shields.io/github/stars/mklemmingen/senet-boom?style=social)](https://github.com/mklemmingen/BoomChess-Android)
+
+<img src="./boomchessandroid.gif" class="center"  width="250" alt="gif showing the game Boom Chess in its android version.">
 
 ### "Senet: A simple workers game" - (JAVA)  Q4 2023
 
 The oldest known board game, a classic of ancient egypt, now created as a speed run with the libGDX Framework. A 3x10 board and a race to strategically move your pieces off to their next life and hinder your opponent from getting there first. The rules are left to their most minimum, as there are 100s of Iterations across egyptian history. Done as a part of the Tübinger Game Developing Speedruns December 23. BoomSoftwares Group
 
 Desktop Version:
-
-<img src="./senetboom.gif" width="250" class="center" alt="gif showing the game Boom Chess.">
 
 [![mklemmingen - Senet](https://img.shields.io/static/v1?label=mklemmingen&message=senet-boom&color=orange&logo=applearcade)](https://github.com/mklemmingen/senet-boom "Go to GitHub repo")
 [![stars - senet-boom](https://img.shields.io/github/stars/mklemmingen/senet-boom?style=social)](https://github.com/mklemmingen/senet-boom)
@@ -96,6 +94,8 @@ Android Version:
 
 [![mklemmingen - Senet Android](https://img.shields.io/static/v1?label=mklemmingen&message=senet-boom-android&color=orange&logo=applearcade)](https://github.com/mklemmingen/senet-boom-android "Go to GitHub repo")
 [![stars - senet-boom Android](https://img.shields.io/github/stars/mklemmingen/senet-boom-android?style=social)](https://github.com/mklemmingen/senet-boom-android)
+
+<img src="./senetboom.gif" width="250" class="center" alt="gif showing the game Boom Chess.">
 
 ### Tropico 6 _ Advanced Teams (UE4, C++) Q4 2023
 
