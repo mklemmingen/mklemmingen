@@ -66,13 +66,15 @@ Tic Tac Toe with PixelCats. What more is there to say. Its an Android Applicatio
 
 ### "Boom Chess!" - (JAVA) Q4 2023
 
-Modern Soldiers, medieval Soldiers, lots of Boom. Chess Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple Colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework. BoomSoftwares Group
+Modern Soldiers, medieval pawns, lots of Boom. Military-Pixel Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple team-colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework. KatIncluded
 
+<!---
 Desktop Version:
 
 <img src="./boomchess.gif" class="center" width="250" alt="gif showing the game Boom Chess.">
 
 Android Version:
+--->
 
 <img src="./boomchessandroid.gif" class="center"  width="250" alt="gif showing the game Boom Chess in its android version.">
 
