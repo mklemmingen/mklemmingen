@@ -4,7 +4,7 @@
 Contact: MKL7543@duck.com
 - Focus Languages: C, Java, R, Python
 - Part of:
-  1. BoomSoftwares Group. Ancient board games turned destructive
+  1. BoomSoftwares Group. board games twisted
   2. KatIncluded. PixelCats playing silly games
  
 ------------------------
