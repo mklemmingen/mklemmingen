@@ -1,6 +1,4 @@
-<img src="./wave.gif" width="75" alt="waving hand">
-
-------------------------
+<img src="./wave.gif" width="75" alt="waving hand" class="center">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -17,7 +15,6 @@
   <img width="12" />
 </div>
 
-------------------------
 
 ## Check out
 
@@ -33,7 +30,6 @@ Modern Soldiers, medieval pawns, lots of Boom. Military-Pixel Pieces with Health
 
 <img src="./BoomChessGIF.gif" class="center"  width="750" alt="gif showing the game Boom Chess in its android version.">
 
------------------------
 
  ## Early-Stage ongoing projects
 
@@ -70,8 +66,6 @@ Tic Tac Toe with PixelCats. What more is there to say. Its an Android Applicatio
 [![mklemmingen - Senet Android](https://img.shields.io/static/v1?label=mklemmingen&message=senet-boom-android&color=orange&logo=applearcade)](https://github.com/mklemmingen/senet-boom-android "Go to GitHub repo")
 [![stars - senet-boom Android](https://img.shields.io/github/stars/mklemmingen/senet-boom-android?style=social)](https://github.com/mklemmingen/senet-boom-android)
 --->
-
-------------------------
 
 ## finished projects, with updates ongoing:
 
