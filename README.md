@@ -1,10 +1,5 @@
 <img src="./wave.gif" width="75" alt="waving hand">
 
-- Focus Languages: C, Java, R, Python
-- Part of:
-  1. BoomSoftwares Group. board games twisted
-  2. KatIncluded. PixelCats playing silly games
- 
 ------------------------
 
 <div align="center">
@@ -21,6 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
 </div>
+
+left to right: Java, C, Python, R, Gradle, Android
 
 ------------------------
 
