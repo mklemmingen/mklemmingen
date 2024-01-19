@@ -17,8 +17,6 @@
   <img width="12" />
 </div>
 
-left to right: Java, C, Python, R, Gradle, Android
-
 ------------------------
 
 ## Check out
@@ -119,4 +117,6 @@ the executioner has challenged you to a game of hangman in 20 languages. Will yo
 <img src="./cool.gif" class="center" alt="kid giving a thumbs up">
 
 Contact: MKL7543@duck.com
+
+Java, C, Python, R, Gradle, Android
 
