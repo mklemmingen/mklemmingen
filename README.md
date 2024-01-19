@@ -24,6 +24,22 @@
 
 ------------------------
 
+## Check out
+
+### "Boom Chess!" - (JAVA) Q4 2023
+
+Modern Soldiers, medieval pawns, lots of Boom. Military-Pixel Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple team-colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework. KatIncluded
+
+[![mklemmingen - BoomChess-DESKTOP](https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessAndroid&color=blue&logo=applearcade)](https://github.com/mklemmingen/boom-chess "Go to GitHub repo")
+[![stars - BoomChess-DESKTOP](https://img.shields.io/github/stars/mklemmingen/senet-boom?style=social)](https://github.com/mklemmingen/boom-chess)
+
+[![mklemmingen - BoomChess-ANDROID](https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessAndroid&color=blue&logo=applearcade)](https://github.com/mklemmingen/BoomChess-Android "Go to GitHub repo")
+[![stars - BoomChess-ANDROID](https://img.shields.io/github/stars/mklemmingen/senet-boom?style=social)](https://github.com/mklemmingen/BoomChess-Android)
+
+<img src="./BoomChessGIF.gif" class="center"  width="250" alt="gif showing the game Boom Chess in its android version.">
+
+-----------------------
+
  ## Early-Stage ongoing projects
 
  #### StopTheToken (plain txt)
@@ -63,23 +79,6 @@ Tic Tac Toe with PixelCats. What more is there to say. Its an Android Applicatio
 ------------------------
 
 ## finished projects, with updates ongoing:
-
-### "Boom Chess!" - (JAVA) Q4 2023
-
-Modern Soldiers, medieval pawns, lots of Boom. Military-Pixel Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple team-colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework. KatIncluded
-
-<!---
-Desktop Version:
-
-<img src="./boomchess.gif" class="center" width="250" alt="gif showing the game Boom Chess.">
-
-Android Version:
---->
-
-[![mklemmingen - BoomChess-ANDROID](https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessAndroid&color=blue&logo=applearcade)](https://github.com/mklemmingen/BoomChess-Android "Go to GitHub repo")
-[![stars - BoomChess-ANDROID](https://img.shields.io/github/stars/mklemmingen/senet-boom?style=social)](https://github.com/mklemmingen/BoomChess-Android)
-
-<img src="./BoomChessGIF.gif" class="center"  width="250" alt="gif showing the game Boom Chess in its android version.">
 
 ### "Senet: A simple workers game" - (JAVA)  Q4 2023
 
