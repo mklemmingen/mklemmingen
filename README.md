@@ -115,4 +115,4 @@ Contact: MKL7543@duck.com
 
 Java, C, Python, R, Gradle, Android
 
- - likes to play Ping-Pong-Chess against corpos.
+likes to play Ping-Pong
