@@ -28,7 +28,9 @@ Modern Soldiers, medieval pawns, lots of Boom. Military-Pixel Pieces with Health
 [![mklemmingen - BoomChess-ANDROID](https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessAndroid&color=blue&logo=applearcade)](https://github.com/mklemmingen/BoomChess-Android "Go to GitHub repo")
 [![stars - BoomChess-ANDROID](https://img.shields.io/github/stars/mklemmingen/senet-boom?style=social)](https://github.com/mklemmingen/BoomChess-Android)
 
-<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="75">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="75">
+</a>
 
 <img src="./BoomChessGIF.gif" class="center"  width="750" alt="gif showing the game Boom Chess in its android version.">
 
