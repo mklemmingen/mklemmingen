@@ -18,7 +18,7 @@
 
 ## Check out
 
-### "Boom Chess!" - (JAVA) Q4 2023
+### "Boom Chess!" - (JAVA) Q3 2023 - Q1 2024
 
 Modern Soldiers, medieval pawns, lots of Boom. Military-Pixel Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple team-colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework. KatIncluded
 
@@ -27,7 +27,8 @@ Modern Soldiers, medieval pawns, lots of Boom. Military-Pixel Pieces with Health
 
 [![mklemmingen - BoomChess-ANDROID](https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessAndroid&color=blue&logo=applearcade)](https://github.com/mklemmingen/BoomChess-Android "Go to GitHub repo")
 [![stars - BoomChess-ANDROID](https://img.shields.io/github/stars/mklemmingen/senet-boom?style=social)](https://github.com/mklemmingen/BoomChess-Android)
-Coming soon on F-Droid!
+
+<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="75">
 
 <img src="./BoomChessGIF.gif" class="center"  width="750" alt="gif showing the game Boom Chess in its android version.">
 
