@@ -118,8 +118,4 @@ using huge datasets and complex hash maps to calculate the most likely word you 
 
 ### Thanks for scrolling
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img src="./cool.gif" class="center" alt="kid giving a thumbs up">
-</a>
-
 Contact: MKL7543@duck.com
