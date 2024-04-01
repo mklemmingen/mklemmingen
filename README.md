@@ -33,7 +33,7 @@ Modern Soldiers, medieval pawns, lots of Boom. Military-Pixel Pieces with Health
 --->
 --------------------------------------------------------------------------------------------------------------------------
 <a href="https://github.com/mklemmingen/BoomChess-Android">
- <img src="./BoomChessGIF.gif" class="center"  width="750" alt="gif showing the game Boom Chess in its android version.">
+ <img src="./BoomChessGIF.gif" class="center"  width="250" alt="gif showing the game Boom Chess in its android version.">
 </a>
 
 
