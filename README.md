@@ -41,7 +41,7 @@ Modern Soldiers, medieval pawns, lots of Boom. Military-Pixel Pieces with Health
  ## Retro-Game Guides 
 
 
-[![Turn and Burn - No Fly Zone](https://img.shields.io/static/v1?label=mklemmingen&message=TurnandBurn-NoFlyZone&color=grey&logo=applearcade)](https://github.com/mklemmingen/turn.and.burn.no-fly.zone "Go to GitHub repo")
+[![Turn and Burn - No Fly Zone](https://img.shields.io/static/v1?label=mklemmingen&message=TurnandBurn-NoFlyZone&color=red&logo=applearcade)](https://github.com/mklemmingen/turn.and.burn.no-fly.zone "Go to GitHub repo")
 [![stars - Turn and Burn - No Fly Zone](https://img.shields.io/github/stars/mklemmingen/turn.and.burn.no-fly.zone?style=social)](https://github.com/mklemmingen/turn.and.burn.no-fly.zone)
  
  ## Early-Stage ongoing projects
