@@ -1,0 +1,25 @@
+Anleitung für den 3DS
+
+  Auf dem 3DS kann über das Programm FBI Dateien mit der File-Endung .cia installiert werden. Das schließt Dienstprogramme, Multimediaprogramme und Spiele ein. 
+
+  Hier folgen Anweisungen für die einzelnen installierten Programme:
+
+      Emulatoren:
+          mGBA:
+          GBAYOP: 
+
+
+      Spiele:
+          GB:
+          GBC:
+          GBA:
+          SNES:
+          DS:
+          3DS: 
+
+
+      Dienstprogramme:
+        FBI:
+
+      Multimediaprogramme:  
+        Video Player:
