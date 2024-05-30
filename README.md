@@ -23,6 +23,7 @@
 Modern Soldiers, medieval pawns, lots of Boom. Military-Pixel Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple team-colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework. KatIncluded
 
 [![mklemmingen - BoomChess-DESKTOP](https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessDesktop&color=blue&logo=applearcade)](https://github.com/mklemmingen/boom-chess "Go to GitHub repo")
+
 Play it in the browser: https://mklemmingen.itch.io/boom-chess
 
 [![stars - BoomChess-DESKTOP](https://img.shields.io/github/stars/mklemmingen/boom-chess?style=social)](https://github.com/mklemmingen/boom-chess)
