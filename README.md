@@ -25,7 +25,7 @@ Modern Soldiers, medieval pawns, lots of Boom. Military-Pixel Pieces with Health
 [![mklemmingen - BoomChess-DESKTOP](https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessDesktop&color=blue&logo=applearcade)](https://github.com/mklemmingen/boom-chess "Go to GitHub repo")
 [![stars - BoomChess-DESKTOP](https://img.shields.io/github/stars/mklemmingen/boom-chess?style=social)](https://github.com/mklemmingen/boom-chess)
 
-Play a compressed version in the browser: https://mklemmingen.itch.io/boom-chess
+Play in your browser: https://mklemmingen.itch.io/boom-chess
 
 [![mklemmingen - BoomChess-ANDROID](https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessAndroid&color=blue&logo=applearcade)](https://github.com/mklemmingen/BoomChess-Android "Go to GitHub repo")
 [![stars - BoomChess-ANDROID](https://img.shields.io/github/stars/mklemmingen/BoomChess-Android?style=social)](https://github.com/mklemmingen/BoomChess-Android) 
