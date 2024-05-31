@@ -1,18 +1,25 @@
-<img src="./wave.gif" width="75" alt="waving hand" class="center">
-
 <div align="center">
+  <img src="./wave.gif" width="75" alt="waving hand" class="center">
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" height="40" alt="c sharp logo"  />
+  <img width="12" />
+
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
 </div>
 
 
@@ -124,7 +131,10 @@ using huge datasets and complex hash maps to calculate the most likely word you 
 [![mklemmingen - hangman-2](https://img.shields.io/static/v1?label=mklemmingen&message=hangman-2&color=blue&logo=steam)](https://github.com/mklemmingen/hangman-2 "Go to GitHub repo")
 [![stars - hangman-2](https://img.shields.io/github/stars/mklemmingen/hangman-2?style=social)](https://github.com/mklemmingen/hangman-2)
 
-
 ### Thanks for scrolling
 
-Contact: MKL7543@duck.com
+### Contact: MKL7543@duck.com
+
+<img src="./java.gif" height="160" alt="java animated gif of a cup falling and spilling coffee (java) on the viewer"  />
+
+
