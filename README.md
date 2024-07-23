@@ -55,6 +55,12 @@ Modern Soldiers, medieval pawns, lots of Boom. Military-Pixel Pieces with Health
  
  ## Early-Stage ongoing projects
 
+ ### "The Debugger" (Java) 
+ 
+ # a mklemmingen 2D-Game where the Debugger fights his way through endless amounts of different Bugs, each swarm unique in how it manifests its maliciousness. Written in RigiOdity-Framework
+
+ - Private -
+
  #### StopTheToken (plain txt)
  
  a community-fed pihole blocklist of websites that make use of AI-generation for their unoriginal articles, just to save bucks on human labour -> sucking the soul out of journalism and the internet.
