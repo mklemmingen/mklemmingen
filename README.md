@@ -44,7 +44,7 @@ finding websites with weird contact,  generic privacy policy layout and overall 
 #### Functiongraph display (Python with Tkinter), (3, marked as "deprecated", but fully functional)
 #### PGM filter operations with custom canvasing display (3)
 
-[![Q1Q2 Projects](https://img.shields.io/static/v1?label=mklemmingen&message=Q1Q22024Projects&color=red&logo=applearcade)](https://github.com/mklemmingen/Q1Q22024Projects "Go to GitHub repo")
+[![Q1Q2 Projects](https://img.shields.io/static/v1?label=mklemmingen&message=Q1Q22024Projects&color=red&logo=applearcade)](https://github.com/mklemmingen/Q1Q2Projects2024 "Go to GitHub repo")
 
 ### "Senet: A simple workers game" - (JAVA)  Q4 2023
 
