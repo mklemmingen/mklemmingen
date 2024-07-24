@@ -12,17 +12,17 @@ Modern Soldiers, medieval pawns, lots of Boom. Military-Pixel Pieces with Health
 
 [<img src="bommchessitchio.png">](https://mklemmingen.itch.io/boom-chess)
  
- ## Early-Stage ongoing projects
+## Early-Stage ongoing projects
 
- #### "The Debugger" (Java) 
+#### "The Debugger" (Java) 
  
- a mklemmingen 2D-Game where the Debugger fights his way through endless amounts of different Bugs, each swarm unique in how it manifests its maliciousness. Written in RigiOdity-Framework
+The Debugger fights his way through endless amounts of different Bugs, each swarm unique in how it manifests its maliciousness. Written in RigiOdity-Framework by Gardening Cat (mklemmingen). Build on extreme minimalism - abstract, no texture-loading
 
- - Private -
+currently private
 
- #### StopTheToken (plain txt)
+#### StopTheToken (plain txt)
  
- a community-fed pihole blocklist of websites that make use of AI-generation for their unoriginal articles, just to save bucks on human labour -> sucking the soul out of journalism and the internet.
+a community-fed pihole blocklist of websites that make use of AI-generation for their unoriginal articles, just to save bucks on human labour -> sucking the soul out of journalism and the internet.
 
 [![mklemmingen -StopTheToken](https://img.shields.io/static/v1?label=mklemmingen&message=StopTheToken&color=grey&logo=github)](https://github.com/mklemmingen/StopTheToken "Go to GitHub repo")
 [![stars - StopTheToken](https://img.shields.io/github/stars/mklemmingen/StopTheToken?style=social)](https://github.com/mklemmingen/StopTheToken)
