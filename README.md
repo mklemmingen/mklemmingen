@@ -1,28 +1,3 @@
-<div align="center">
-  <img src="./wave.gif" width="75" alt="waving hand" class="center">
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" height="40" alt="c sharp logo"  />
-  <img width="12" />
-
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-</div>
-
-
 ## Check out
 
 ### "Boom Chess!" - (JAVA) Q3 2023 - Q1 2024
@@ -37,21 +12,10 @@ Modern Soldiers, medieval pawns, lots of Boom. Military-Pixel Pieces with Health
 
 [<img src="bommchessitchio.png">](https://mklemmingen.itch.io/boom-chess)
 
-<!---
-<a href="404">
-  <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="75">
-</a>
---->
 --------------------------------------------------------------------------------------------------------------------------
 <a href="https://github.com/mklemmingen/BoomChess-Android">
  <img src="./BoomChessGIF.gif" class="center"  width="250" alt="gif showing the game Boom Chess in its android version.">
 </a>
-
- ## Retro-Game Guides 
-
-
-[![Turn and Burn - No Fly Zone](https://img.shields.io/static/v1?label=mklemmingen&message=TurnandBurn-NoFlyZone&color=red&logo=applearcade)](https://github.com/mklemmingen/turn.and.burn.no-fly.zone "Go to GitHub repo")
-[![stars - Turn and Burn - No Fly Zone](https://img.shields.io/github/stars/mklemmingen/turn.and.burn.no-fly.zone?style=social)](https://github.com/mklemmingen/turn.and.burn.no-fly.zone)
  
  ## Early-Stage ongoing projects
 
@@ -75,25 +39,11 @@ finding websites with weird contact,  generic privacy policy layout and overall 
 [![mklemmingen - DigiDoubt](https://img.shields.io/static/v1?label=mklemmingen&message=DigiDoubt&color=green&logo=github)](https://github.com/mklemmingen/DigiDoubt "Go to GitHub repo")
 [![stars - DigiDoubt](https://img.shields.io/github/stars/mklemmingen/DigiDoubt?style=social)](https://github.com/mklemmingen/DigiDoubt)
 
-<!---
-#### CatsGoneRogue (JAVA) 
+ ## Retro-Game Guides 
 
-roguelike dungeon runner. Cats against the evil world of non-sillyness. KatIncluded
 
-[![KatIncluded -CatsGoneRogue](https://img.shields.io/static/v1?label=CatsGoneRogue&message=CatsGoneRogue&color=purple&logo=apachetomcat)](https://github.com/KatIncluded/CatsGoneRogue "Go to GitHub repo")
-[![stars - CatsGoneRogue](https://img.shields.io/github/stars/KatIncluded/CatsGoneRogue?style=social)](https://github.com/KatIncluded/CatsGoneRogue)
-
-#### TicTacToeBeans (JAVA, ANDROID) 
-Tic Tac Toe with PixelCats. What more is there to say. Its an Android Application! KatIncluded
-
-[![KatIncluded -TicTacToeBeans](https://img.shields.io/static/v1?label=KatIncluded&message=TicTacToeBeans&color=red&logo=apachetomcat)](https://github.com/KatIncluded/TicTacToeBeans "Go to GitHub repo")
-[![stars - TicTacToeBeans](https://img.shields.io/github/stars/KatIncluded/TicTacToeBeans?style=social)](https://github.com/KatIncluded/TicTacToeBeans)
-
-"Senet: A simple workers game - on Android!" - (JAVA, ANDROID) The oldest known board game, a classic of ancient egypt, now created as a speed run with the libGDX Framework. A 3x10 board and a race to strategically move your pieces off to their next life and hinder your opponent from getting there first. The rules are left to their most minimum, as there are 100s of Iterations across egyptian history.
-
-[![mklemmingen - Senet Android](https://img.shields.io/static/v1?label=mklemmingen&message=senet-boom-android&color=orange&logo=applearcade)](https://github.com/mklemmingen/senet-boom-android "Go to GitHub repo")
-[![stars - senet-boom Android](https://img.shields.io/github/stars/mklemmingen/senet-boom-android?style=social)](https://github.com/mklemmingen/senet-boom-android)
---->
+[![Turn and Burn - No Fly Zone](https://img.shields.io/static/v1?label=mklemmingen&message=TurnandBurn-NoFlyZone&color=red&logo=applearcade)](https://github.com/mklemmingen/turn.and.burn.no-fly.zone "Go to GitHub repo")
+[![stars - Turn and Burn - No Fly Zone](https://img.shields.io/github/stars/mklemmingen/turn.and.burn.no-fly.zone?style=social)](https://github.com/mklemmingen/turn.and.burn.no-fly.zone)
 
 ## finished projects, with updates ongoing:
 
