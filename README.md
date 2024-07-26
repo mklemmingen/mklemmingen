@@ -34,7 +34,8 @@ finding websites with weird contact,  generic privacy policy layout and overall 
 
 [![Turn and Burn - No Fly Zone](https://img.shields.io/static/v1?label=mklemmingen&message=TurnandBurn-NoFlyZone&color=red&logo=applearcade)](https://github.com/mklemmingen/turn.and.burn.no-fly.zone "Go to GitHub repo")
 
-## finished projects, chronologically (cool to see the learning curve!)
+## finished projects
+chronologically (cool to see the learning curve!)
 
 ### Q1Q2 2024 Study-Projects:
 
