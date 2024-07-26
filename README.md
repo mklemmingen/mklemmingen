@@ -84,7 +84,3 @@ using huge datasets and complex hash maps to calculate the most likely word you 
 ### Thanks for scrolling
 
 ### Contact: MKL7543@duck.com
-
-<img src="./Java_GITHUB(1).gif" height="500" alt="java animated gif of a cup falling and spilling coffee (java) on the viewer"  />
-
-
