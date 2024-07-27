@@ -43,7 +43,7 @@ chronologically (cool to see the learning curve!)
 
 Levenshtein Distance Corruption-Restorer (C++), (1) 
 Producer-Consumer-Problem Displayer via awt (Java), (2) 
-Functiongraph display (Python with Tkinter), (3, marked as "deprecated", but fully functional, not shown) 
+Functiongraph display (Python with Tkinter),
 PGM filter operations with custom canvasing display (3)
 
 [![Q1Q2 Projects](https://img.shields.io/static/v1?label=mklemmingen&message=Q1Q22024Projects&color=red&logo=applearcade)](https://github.com/mklemmingen/Q1Q2Projects2024 "Go to GitHub repo")
