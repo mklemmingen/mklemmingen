@@ -20,15 +20,15 @@ chronologically (cool to see the learning curve!)
 
 ----------------------------------------------------------------
 
-<img align="right" height="150" src="https://github.com/mklemmingen/mklemmingen/raw/main/Levenshtein.gif"  />
+<img align="right" height="125" src="https://github.com/mklemmingen/mklemmingen/raw/main/PGMViewer.gif"  />
 
 ###
 
-<img align="right" height="150" src="https://github.com/mklemmingen/mklemmingen/raw/main/Producer-Consumer.gif"  />
+<img align="right" height="125" src="https://github.com/mklemmingen/mklemmingen/raw/main/Producer-Consumer.gif"  />
 
 ###
 
-<img align="right" height="150" src="https://github.com/mklemmingen/mklemmingen/raw/main/PGMViewer.gif"  />
+<img align="right" height="125" src="https://github.com/mklemmingen/mklemmingen/raw/main/Levenshtein.gif"  />
 
 ###
 
