@@ -1,24 +1,67 @@
+
+
 ## Early-Stage ongoing projects
 
-"The Debugger" (Java)
 
+----------------------------------------------------------------
+
+###
+
+<p align="left">"The Debugger" (Java)
+ <img width="4" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</p>
+
+###
+
+<p align="left">
 The Debugger fights his way through endless amounts of different Bugs, each swarm unique in how it manifests its maliciousness. Written in RigiOdity-Framework by Gardening Cat (mklemmingen). Build on extreme minimalism - abstract, no texture-loading, dynamic generators
+</p>
 
-StopTheToken (plain txt)
+###
+
+----------------------------------------------------------------
+
+###
+
+<p align="left">StopTheToken (plain txt)
+</p>
+
+###
+
+<p align="left">
 a community-fed pihole blocklist of websites that make use of AI-generation for their unoriginal articles, just to save bucks on human labour -> sucking the soul out of journalism and the internet.
+</p>
+
+###
 
 [![mklemmingen -StopTheToken](https://img.shields.io/static/v1?label=mklemmingen&message=StopTheToken&color=grey&logo=github)](https://github.com/mklemmingen/StopTheToken "Go to GitHub repo")
 
-DigiDoubt (PYTHON, HTML)
+###
 
+
+----------------------------------------------------------------
+
+###
+
+<p align="left">DigiDoubt (PYTHON, HTML)
+</p>
+
+###
+
+<p align="left">
 finding websites with weird contact,  generic privacy policy layout and overall weird html formatting. Used to find lazy AI-Generation.
+</p>
+
+###
 
 [![mklemmingen - DigiDoubt](https://img.shields.io/static/v1?label=mklemmingen&message=DigiDoubt&color=green&logo=github)](https://github.com/mklemmingen/DigiDoubt "Go to GitHub repo")
 
-## finished projects
-chronologically (cool to see the learning curve!)
+###
 
 ----------------------------------------------------------------
+
+## finished projects chronologically
 
 <img align="right" height="230" src="https://github.com/mklemmingen/mklemmingen/raw/main/StudyProjects2024Q12.gif"  />
 
@@ -33,24 +76,22 @@ chronologically (cool to see the learning curve!)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 <img width="4" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</p>
 
 ###
 
 <p align="left">
-Levenshtein Distance Corruption-Restorer (C++) (1) 
-</p>
-<p align="left">
-Producer-Consumer-Problem Displayer via awt (Java) (2) 
-</p>
-<p align="left">
-Functiongraph display (Python with Tkinter)
-</p>
-PGM filter operations with custom canvasing display (3)
+Levenshtein Distance Corruption-Restorer (C++) (1)  <br />
+Producer-Consumer-Problem Displayer via awt (Java) (2)  <br />
+Functiongraph display (Python with Tkinter)  <br />
+PGM filter operations with custom canvasing display (3)  <br />
 </p>
 
 ###
 
 [![Q1Q2 Projects](https://img.shields.io/static/v1?label=mklemmingen&message=Q1Q22024Projects&color=red&logo=applearcade)](https://github.com/mklemmingen/Q1Q2Projects2024 "Go to GitHub repo")
+
+###
 
 ----------------------------------------------------------------
 
@@ -71,12 +112,13 @@ PGM filter operations with custom canvasing display (3)
 ###
 
 
-<p align="left">Modern Soldiers, medieval pawns, lots of Boom. Military-Pixel Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple team-colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework.
+<p align="left">Modern Soldiers, medieval pawns, lots of Boom. Military-Pixel Pieces with Health and complex relations fight it out on the modern chess board. 3 different Bot modes allow for intense and difficult gameplay. Challenge Modes, multiple team-colours, music by Artist Wambutz and big explosion Sprites. Created hand in hand with the libGDX Framework
+</p>
+
+###
 
 [![mklemmingen - BoomChess-DESKTOP](https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessDesktop&color=blue&logo=applearcade)](https://github.com/mklemmingen/boom-chess "Go to GitHub repo")
 [![mklemmingen - BoomChess-ANDROID](https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessAndroid&color=blue&logo=applearcade)](https://github.com/mklemmingen/BoomChess-Android "Go to GitHub repo")
-
-</p>
 
 ###
 
@@ -108,17 +150,27 @@ PGM filter operations with custom canvasing display (3)
 
 ----------------------------------------------------------------
 
+###
 
-Tropico 6 _ Advanced Teams (UE4, C++) Q4 2023
+<p align="center">Tropico 6 _ Advanced Teams (UE4, C++) Q4 2023
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</p> 
 
-adds team features to the multiplayer - no cooldown on team money transfer. Simple unreal engine 4 asset overwrite.
+###
+
+<p align="left"> adds team features to the multiplayer - no cooldown on team money transfer. Simple unreal engine 4 asset overwrite.
+</p>
+
+###
   
 [![mklemmingen - Tropico 6 Advanced Teams](https://img.shields.io/static/v1?label=mklemmingen&message=Tropico-6&color=yellow&logo=steam)](https://github.com/mklemmingen/Tropico6_Advanced-Team "Go to GitHub repo")
+
+###
 
 ----------------------------------------------------------------
 
 ###
-
 
 <img align="right" height="200" src="./spacemouse.gif" alt="gif showing the maze solving space mouse in action." />
 
@@ -138,15 +190,23 @@ adds team features to the multiplayer - no cooldown on team money transfer. Simp
 
 [![mklemmingen - space-mouse](https://img.shields.io/static/v1?label=mklemmingen&message=space-mouse&color=yellow&logo=python)](https://github.com/mklemmingen/space-mouse "Go to GitHub repo")
 
+###
+
 ---------------------------------------------------------------------
 
 
 ###
 
-hangman 2 - the dictionaries strike back" (PYTHON) Q2 2023
-  
-the executioner has challenged you to a game of hangman in 20 languages. Will you win?
+<p align="center">hangman 2 - the dictionaries strike back" (PYTHON) Q2 2023
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</p> 
+
+###
+
+<p align="left">the executioner has challenged you to a game of hangman in 20 languages. Will you win?
 using huge datasets and complex hash maps to calculate the most likely word you threw at the computer
+</p>
   
 [![mklemmingen - hangman-2](https://img.shields.io/static/v1?label=mklemmingen&message=hangman-2&color=blue&logo=steam)](https://github.com/mklemmingen/hangman-2 "Go to GitHub repo")
 
