@@ -45,6 +45,13 @@ a community-fed pihole blocklist of websites that make use of AI-generation for 
 ###
 
 <p align="left">DigiDoubt (PYTHON, HTML)
+<img width="4" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<img width="4" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
 </p>
 
 ###
@@ -215,6 +222,8 @@ using huge datasets and complex hash maps to calculate the most likely word you 
 ## Retro-Game Guides 
 
 [![Turn and Burn - No Fly Zone](https://img.shields.io/static/v1?label=mklemmingen&message=TurnandBurn-NoFlyZone&color=red&logo=applearcade)](https://github.com/mklemmingen/turn.and.burn.no-fly.zone "Go to GitHub repo")
+
+<img src="https://upload.wikimedia.org/wikipedia/en/d/d8/Turn_and_Burn_No-Fly_Zone_Cover.jpg" height="200" alt="logo of turn and burn"  />
 
 ---------------------------------------------------------------------
 
