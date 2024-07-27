@@ -64,7 +64,7 @@ PGM filter operations with custom canvasing display (3)
 
 ###
 
-[<img align="right" height="150" src="bommchessitchio.png">](https://gardeningcat.itch.io/boom-chess)
+[<img align="right" height="115" src="bommchessitchio.png">](https://gardeningcat.itch.io/boom-chess)
 
 ###
 
