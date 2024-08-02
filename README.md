@@ -38,34 +38,6 @@ a community-fed pihole blocklist of websites that make use of AI-generation for 
 [![mklemmingen -StopTheToken](https://img.shields.io/static/v1?label=mklemmingen&message=StopTheToken&color=grey&logo=github)](https://github.com/mklemmingen/StopTheToken "Go to GitHub repo")
 
 ###
-
-
-----------------------------------------------------------------
-
-###
-
-<p align="left">DigiDoubt (PYTHON, HTML)
-<img width="4" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-<img width="4" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-</div>
-
-###
-</p>
-
-###
-
-<p align="left">
-finding websites with weird contact,  generic privacy policy layout and overall weird html formatting. Used to find lazy AI-Generation.
-</p>
-
-###
-
-[![mklemmingen - DigiDoubt](https://img.shields.io/static/v1?label=mklemmingen&message=DigiDoubt&color=green&logo=github)](https://github.com/mklemmingen/DigiDoubt "Go to GitHub repo")
-
-###
-
 ----------------------------------------------------------------
 
 ## finished projects chronologically
