@@ -1,4 +1,6 @@
-Hi. In the following categories all current and former projects are listed in respect to their timeline, sensitivity and if I cared to show them. 
+Hi
+
+In the following categories all current and former projects are listed in respect to their finish date and, if applicable, open-source license.  
 Thank you
 
 #### Early-Stage ongoing projects
