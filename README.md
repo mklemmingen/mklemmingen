@@ -1,7 +1,7 @@
 Hi. In the following categories all current and former projects are listed in respect to their timeline, sensitivity and if I cared to show them. 
 Thank you
 
-## Early-Stage ongoing projects
+#### Early-Stage ongoing projects
 
 
 ----------------------------------------------------------------
@@ -41,7 +41,7 @@ a community-fed pihole blocklist of websites that make use of AI-generation for 
 ###
 ----------------------------------------------------------------
 
-## finished projects chronologically
+#### finished projects chronologically
 
 <img align="right" height="230" src="https://github.com/mklemmingen/mklemmingen/raw/main/StudyProjects2024Q12.gif"  />
 
@@ -192,7 +192,7 @@ using huge datasets and complex hash maps to calculate the most likely word you 
 
 ---------------------------------------------------------------------
 
-## Retro-Game Guides 
+#### Retro-Game Guides 
 
 [![Turn and Burn - No Fly Zone](https://img.shields.io/static/v1?label=mklemmingen&message=TurnandBurn-NoFlyZone&color=red&logo=applearcade)](https://github.com/mklemmingen/turn.and.burn.no-fly.zone "Go to GitHub repo")
 
