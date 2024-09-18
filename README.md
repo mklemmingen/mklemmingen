@@ -1,6 +1,7 @@
 Hi
 
 In the following categories all current and former projects are listed in respect to their finish date and, if applicable, open-source license.  
+If you have any project you would like to collaborate on, please send me a quick message to ditch-awning-ended@duck.com
 Thank you
 
 #### Early-Stage ongoing projects
