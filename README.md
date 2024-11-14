@@ -10,11 +10,24 @@ Thank you
 
 ----------------------------------------------------------------
 
+###
+
+<p align="left">"R Datamanipulation Tutorial" R)
+ <img src="https://skillicons.dev/icons?i=r" />
+</p>
 
 ###
 
-<p align="left">"KatzenKaffee" (NextJS)
- <img src="https://skillicons.dev/icons?i=nextjs,css,html" />
+<p align="left">
+R-script that, when run, opens a localhosted browser to learn statistical approaches in data sciences through a self-collected dataset interacting with local R-tools
+</p>
+
+###
+
+###
+
+<p align="left">"KatzenKaffee" (NextJS, react, sqlite)
+ <img src="https://skillicons.dev/icons?i=nextjs,react,sqlite" />
 </p>
 
 ###
