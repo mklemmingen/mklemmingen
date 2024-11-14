@@ -12,7 +12,7 @@ Thank you
 
 ###
 
-<p align="left">"R Datamanipulation Tutorial" R)
+<p align="left">"R Datamanipulation Tutorial" (R)
  <img src="https://skillicons.dev/icons?i=r" />
 </p>
 
