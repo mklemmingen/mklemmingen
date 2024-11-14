@@ -72,6 +72,8 @@ Arduino Program to quickly setup a knob volume control via cheap microcontroller
 Quick, Short and easy tutorial on how to create dynamic animated logos with CSS
 </p>
 
+[![mklemmingen -StopTheToken](https://img.shields.io/static/v1?label=mklemmingen&message=CSSArtTutorial&color=grey&logo=github)](https://github.com/mklemmingen/CSSArtTutorial "Go to GitHub repo")
+
 ###
 
 <p align="left">"The Debugger" (Java)
