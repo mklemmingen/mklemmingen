@@ -1,7 +1,7 @@
 Hi
 
 In the following categories all current and former projects are listed in respect to their finish date and, if applicable, open-source license.  
-If you have any project you would like to collaborate on, please send me a quick message to ditch-awning-ended@duck.com
+If you have any project you would like to collaborate on, or any other professional contact needs, please send me a quick message to ditch-awning-ended@duck.com
 
 Thank you
 
@@ -10,11 +10,59 @@ Thank you
 
 ----------------------------------------------------------------
 
+
+###
+
+<p align="left">"KatzenKaffee" (NextJS)
+ <img src="https://skillicons.dev/icons?i=nextjs,css,html" />
+</p>
+
+###
+
+<p align="left">
+Website so learn sustainable cat Owning. 
+</p>
+
+###
+
+<p align="left">"Mixtape" (TouchDesigner, Python and C++)
+ <img src="https://skillicons.dev/icons?i=cpp,py" />
+</p>
+
+###
+
+<p align="left">
+270* interactive Digital Art Project to experience a lifes musical emotions through memories of birthdays
+</p>
+
+###
+
+<p align="left">"C++ Rotary Encoder to Desktop Volume Control" (C++)
+ <img src="https://skillicons.dev/icons?i=cpp,arduino" />
+</p>
+
+###
+
+<p align="left">
+Arduino Program to quickly setup a knob volume control via cheap microcontrollers and rotary encoders
+</p>
+
+###
+
+<p align="left">"CSS Art Tutorial" (HTML, CSS)
+ <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+###
+
+<p align="left">
+Quick, Short and easy tutorial on how to create dynamic animated logos with CSS
+</p>
+
 ###
 
 <p align="left">"The Debugger" (Java)
- <img width="4" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+ <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ###
@@ -24,6 +72,16 @@ The Debugger fights his way through endless amounts of different Bugs, each swar
 </p>
 
 ###
+
+<p align="left">"BoardGame Jam Framework (Free to Use!)" (Java)
+ <img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+###
+
+<p align="left">
+Simple Lib-GDX-based framework with a finished and sleek frontend -> Students can simply try their best to build their backend around a backend Manager Class and a set Interface.
+</p>
 
 ----------------------------------------------------------------
 
