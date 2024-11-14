@@ -5,8 +5,9 @@ If you have any project you would like to collaborate on, or any other professio
 
 Thank you
 
-#### Early-Stage ongoing projects
+----------------------------------------------------------------
 
+#### Early-Stage ongoing projects
 
 ----------------------------------------------------------------
 
@@ -62,20 +63,6 @@ Arduino Program to quickly setup a knob volume control via cheap microcontroller
 
 ###
 
-<p align="left">"CSS Art Tutorial" (HTML, CSS)
- <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-###
-
-<p align="left">
-Quick, Short and easy tutorial on how to create dynamic animated logos with CSS
-</p>
-
-[![mklemmingen -StopTheToken](https://img.shields.io/static/v1?label=mklemmingen&message=CSSArtTutorial&color=grey&logo=github)](https://github.com/mklemmingen/CSSArtTutorial "Go to GitHub repo")
-
-###
-
 <p align="left">"The Debugger" (Java)
  <img src="https://skillicons.dev/icons?i=java" />
 </p>
@@ -98,8 +85,6 @@ The Debugger fights his way through endless amounts of different Bugs, each swar
 Simple Lib-GDX-based framework with a finished and sleek frontend -> Students can simply try their best to build their backend around a backend Manager Class and a set Interface.
 </p>
 
-----------------------------------------------------------------
-
 ###
 
 <p align="left">StopTheToken (plain txt)
@@ -119,6 +104,28 @@ a community-fed pihole blocklist of websites that make use of AI-generation for 
 ----------------------------------------------------------------
 
 #### finished projects chronologically
+
+----------------------------------------------------------------
+
+###
+
+<p align="left">"CSS Art Tutorial" (HTML, CSS) (Q4 2024)
+ <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+###
+
+<p align="left">
+Quick, Short and easy tutorial on how to create dynamic animated logos with CSS
+</p>
+
+[![mklemmingen - CSS Art Tutorial](https://img.shields.io/static/v1?label=mklemmingen&message=CSSArtTutorial&color=grey&logo=github)](https://github.com/mklemmingen/CSSArtTutorial "Go to GitHub repo")
+
+###
+
+----------------------------------------------------------------
+
+###
 
 <img align="right" height="230" src="https://github.com/mklemmingen/mklemmingen/raw/main/StudyProjects2024Q12.gif"  />
 
