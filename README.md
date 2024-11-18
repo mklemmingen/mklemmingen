@@ -109,7 +109,7 @@ a community-fed pihole blocklist of websites that make use of AI-generation for 
 
 ###
 
-[![mklemmingen - BoardGameJam Framework](https://img.shields.io/static/v1?label=mklemmingen&message=BoardGameJam&color=green&logo=github)](https://github.com/mklemmingen/BoardGameJamFramework "Go to GitHub repo")
+[![mklemmingen - BoardGameJam Framework](https://img.shields.io/static/v1?label=mklemmingen&message=BareBoardGameJam&color=purple&logo=github)](https://github.com/mklemmingen/GameJamFramework "Go to GitHub repo")
 
 ###
 
