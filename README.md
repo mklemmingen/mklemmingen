@@ -75,12 +75,6 @@ The Debugger fights his way through endless amounts of different Bugs, each swar
 
 ###
 
-<p align="left">"BoardGame Jam Framework (Free to Use!)" (Java)
- <img src="https://skillicons.dev/icons?i=java" />
-</p>
-
-###
-
 <p align="left">
 Simple Lib-GDX-based framework with a finished and sleek frontend -> Students can simply try their best to build their backend around a backend Manager Class and a set Interface.
 </p>
@@ -104,6 +98,48 @@ a community-fed pihole blocklist of websites that make use of AI-generation for 
 ----------------------------------------------------------------
 
 #### finished projects chronologically
+
+----------------------------------------------------------------
+
+###
+
+<p align="left">"BoardGame Jam Framework (Blank, Free to Use!) (Q42024)" (Java)
+ <img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+###
+
+[![mklemmingen - BoardGameJam Framework](https://img.shields.io/static/v1?label=mklemmingen&message=BoardGameJam&color=green&logo=github)](https://github.com/mklemmingen/BoardGameJamFramework "Go to GitHub repo")
+
+###
+
+----------------------------------------------------------------
+
+###
+
+<p align="left">"BoardGame Jam Framework (Chess, Free to Use!)" (Q42024) (Java)
+ <img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+###
+
+[![mklemmingen - BoardGameJam Chess](https://img.shields.io/static/v1?label=mklemmingen&message=GameJamChess&color=green&logo=github)](https://github.com/mklemmingen/GameJamChess "Go to GitHub repo")
+
+###
+
+----------------------------------------------------------------
+
+###
+
+<p align="left">"BoardGame Jam Framework (Checkers, Free to Use!)" (Q42024) (Java)
+ <img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+###
+
+[![mklemmingen - BoardGameJam Checkers](https://img.shields.io/static/v1?label=mklemmingen&message=GameJamCheckers&color=red&logo=github)](https://github.com/mklemmingen/GameJamCheckers "Go to GitHub repo")
+
+###
 
 ----------------------------------------------------------------
 
