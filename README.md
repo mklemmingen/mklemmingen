@@ -7,97 +7,19 @@ Thank you
 
 ----------------------------------------------------------------
 
-#### Early-Stage ongoing projects
-
-----------------------------------------------------------------
-
-###
-
-<p align="left">"R Datamanipulation Tutorial" (R)
- <img src="https://skillicons.dev/icons?i=r" />
-</p>
-
-###
-
-<p align="left">
-R-script that, when run, opens a localhosted browser to learn statistical approaches in data sciences through a self-collected dataset interacting with local R-tools
-</p>
-
-###
-
-###
-
-<p align="left">"KatzenKaffee" (NextJS, react, sqlite)
- <img src="https://skillicons.dev/icons?i=nextjs,react,sqlite" />
-</p>
-
-###
-
-<p align="left">
-Website so learn sustainable cat Owning. 
-</p>
-
-###
-
-<p align="left">"Mixtape" (TouchDesigner, Python and C++)
- <img src="https://skillicons.dev/icons?i=cpp,py" />
-</p>
-
-###
-
-<p align="left">
-270* interactive Digital Art Project to experience a lifes musical emotions through memories of birthdays
-</p>
-
-###
-
-<p align="left">"C++ Rotary Encoder to Desktop Volume Control" (C++)
- <img src="https://skillicons.dev/icons?i=cpp,arduino" />
-</p>
-
-###
-
-<p align="left">
-Arduino Program to quickly setup a knob volume control via cheap microcontrollers and rotary encoders
-</p>
-
-###
-
-<p align="left">"The Debugger" (Java)
- <img src="https://skillicons.dev/icons?i=java" />
-</p>
-
-###
-
-<p align="left">
-The Debugger fights his way through endless amounts of different Bugs, each swarm unique in how it manifests its maliciousness. Written in RigiOdity-Framework by Gardening Cat (mklemmingen). Build on extreme minimalism - abstract, no texture-loading, dynamic generators
-</p>
-
-###
-
-<p align="left">
-Simple Lib-GDX-based framework with a finished and sleek frontend -> Students can simply try their best to build their backend around a backend Manager Class and a set Interface.
-</p>
-
-###
-
-<p align="left">StopTheToken (plain txt)
-</p>
-
-###
-
-<p align="left">
-a community-fed pihole blocklist of websites that make use of AI-generation for their unoriginal articles, just to save bucks on human labour -> sucking the soul out of journalism and the internet.
-</p>
-
-###
-
-[![mklemmingen -StopTheToken](https://img.shields.io/static/v1?label=mklemmingen&message=StopTheToken&color=grey&logo=github)](https://github.com/mklemmingen/StopTheToken "Go to GitHub repo")
-
-###
-----------------------------------------------------------------
-
 #### finished projects chronologically
+
+----------------------------------------------------------------
+
+### HIDmibbi
+#### WIN11 admin gain via cheap comm via USB microcontrolled HID devices.
+7 commands, 1 second (to account for computer input lag and loading time) (Q4 2024)
+
+<img src="https://skillicons.dev/icons?i=cpp,arduino" />
+
+[![mklemmingen - HIDmibbi](https://img.shields.io/static/v1?label=mklemmingen&message=HIDmibbi&color=grey&logo=github)](https://github.com/mklemmingen/HIDmibbi "Go to GitHub repo")
+
+###
 
 ----------------------------------------------------------------
 
@@ -320,8 +242,68 @@ using huge datasets and complex hash maps to calculate the most likely word you 
 
 ---------------------------------------------------------------------
 
+#### Early-Stage ongoing projects
+
+----------------------------------------------------------------
+
+###
+
+<p align="left">"R Datamanipulation Tutorial" (R)
+ <img src="https://skillicons.dev/icons?i=r" />
+</p>
+
+###
+
+<p align="left">
+R-script that, when run, opens a localhosted browser to learn statistical approaches in data sciences through a self-collected dataset interacting with local R-tools
+</p>
+
+###
+
+###
+
+<p align="left">"KatzenKaffee" (NextJS, react, sqlite)
+ <img src="https://skillicons.dev/icons?i=nextjs,react,sqlite" />
+</p>
+
+###
+
+<p align="left">
+Website so learn sustainable cat Owning. 
+</p>
+
+###
+
+<p align="left">"Mixtape" (TouchDesigner, Python and C++)
+ <img src="https://skillicons.dev/icons?i=cpp,py" />
+</p>
+
+###
+
+<p align="left">
+270* interactive Digital Art Project to experience a lifes musical emotions through memories of birthdays
+</p>
+
+###
+
+<p align="left">StopTheToken (plain txt)
+</p>
+
+###
+
+<p align="left">
+a community-fed pihole blocklist of websites that make use of AI-generation for their unoriginal articles, just to save bucks on human labour -> sucking the soul out of journalism and the internet.
+</p>
+
+###
+
+[![mklemmingen -StopTheToken](https://img.shields.io/static/v1?label=mklemmingen&message=StopTheToken&color=grey&logo=github)](https://github.com/mklemmingen/StopTheToken "Go to GitHub repo")
+
+###
+
+-----------------------------------------------------------------
+
 <h3 align="center">Thanks for scrolling</h3>
-<h3 align="center">Contact: MKL7543@duck.com</h3>
 
 ###
 
