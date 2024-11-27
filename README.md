@@ -19,6 +19,8 @@ Thank you
 
 [![mklemmingen - HIDmibbi](https://img.shields.io/static/v1?label=mklemmingen&message=HIDmibbi&color=grey&logo=github)](https://github.com/mklemmingen/HIDmibbi "Go to GitHub repo")
 
+<img align="right" height="200" src="https://github.com/mklemmingen/mklemmingen/raw/main/HIDmibbi.gif"  />
+
 ###
 
 ----------------------------------------------------------------
