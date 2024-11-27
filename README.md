@@ -12,7 +12,7 @@ Thank you
 ----------------------------------------------------------------
 
 ### HIDmibbi
-#### WIN11 admin gain via cheap comm via USB microcontrolled HID devices.
+#### WIN11 admin gain via cheap comm-via-USB (HID) microcontrollers.
 7 commands, 1 second (to account for computer input lag and loading time) (Q4 2024)
 
 <img src="https://skillicons.dev/icons?i=cpp,arduino" />
