@@ -11,11 +11,37 @@ Thank you
 
 ----------------------------------------------------------------
 
-### HIDmibbi
-#### WIN11 admin gain via cheap comm-via-USB (HID) microcontrollers.
-7 commands, 1 second (to account for computer input lag and loading time) (Q4 2024)
+###
 
-<img src="https://skillicons.dev/icons?i=cpp,arduino" />
+<p align="left">"KatzenKaffee" (NextJS, react, sqlite)
+ <img src="https://skillicons.dev/icons?i=nextjs,react,sqlite" />
+</p>
+
+###
+
+<p align="left">
+Website so learn sustainable cat Owning. 
+https://katzenkaffee.vercel.app/
+</p>
+
+###
+
+[![mklemmingen - KatzenKaffee](https://img.shields.io/static/v1?label=mklemmingen&message=KatzenKaffee&color=yellow&logo=github)](https://github.com/mklemmingen/KatzenKaffeeWeb "Go to GitHub repo")
+
+###
+
+------------------------------------------------------------------
+
+###
+
+<p align="left"> HIDmibbi(Q42024)
+ <img src="https://skillicons.dev/icons?i=cpp,arduino" />
+</p>
+
+WIN11 admin gain via cheap comm-via-USB (HID) microcontrollers
+7 commands, 1 second (to account for computer input lag and loading time
+
+###
 
 [![mklemmingen - HIDmibbi](https://img.shields.io/static/v1?label=mklemmingen&message=HIDmibbi&color=grey&logo=github)](https://github.com/mklemmingen/HIDmibbi "Go to GitHub repo")
 
@@ -261,18 +287,6 @@ R-script that, when run, opens a localhosted browser to learn statistical approa
 </p>
 
 ###
-
-###
-
-<p align="left">"KatzenKaffee" (NextJS, react, sqlite)
- <img src="https://skillicons.dev/icons?i=nextjs,react,sqlite" />
-</p>
-
-###
-
-<p align="left">
-Website so learn sustainable cat Owning. 
-</p>
 
 ###
 
