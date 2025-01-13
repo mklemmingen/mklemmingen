@@ -12,7 +12,7 @@ Thank you
 ----------------------------------------------------------------
 ###
 
-<p align="left">"MIXTAPE" (TouchDesigner, DaVinci Resolve, Arduino C++)
+<p align="left">"MIXTAPE" (TouchDesigner, DaVinci Resolve, Arduino C++) (Q1.2025)
 </p>
 
 ###
@@ -31,7 +31,7 @@ Art Installation about a lives birthday memories. Project hasn't been published 
 ----------------------------------------------------------------
 ###
 
-<p align="left">"KatzenKaffee" (NextJS, react, sqlite)
+<p align="left">"KatzenKaffee" (NextJS, react, sqlite) (Q4.2024)
  <img src="https://skillicons.dev/icons?i=nextjs,react,sqlite" />
 </p>
 
@@ -52,7 +52,7 @@ https://katzenkaffee.vercel.app/
 
 ###
 
-<p align="left"> HIDmibbi(Q42024)
+<p align="left"> HIDmibbi(Q4.2024)
  <img src="https://skillicons.dev/icons?i=cpp,arduino" />
 </p>
 
@@ -71,7 +71,7 @@ WIN11 admin gain via cheap comm-via-USB (HID) microcontrollers
 
 ###
 
-<p align="left">"BoardGame Jam Framework (Blank, Free to Use!) (Q42024)" (Java)
+<p align="left">"BoardGame Jam Framework (Blank, Free to Use!) (Q4.2024)" (Java)
  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
@@ -85,7 +85,7 @@ WIN11 admin gain via cheap comm-via-USB (HID) microcontrollers
 
 ###
 
-<p align="left">"BoardGame Jam Framework (Chess, Free to Use!)" (Q42024) (Java)
+<p align="left">"BoardGame Jam Framework (Chess, Free to Use!)" (Q4.2024) (Java)
  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
@@ -99,7 +99,7 @@ WIN11 admin gain via cheap comm-via-USB (HID) microcontrollers
 
 ###
 
-<p align="left">"BoardGame Jam Framework (Checkers, Free to Use!)" (Q42024) (Java)
+<p align="left">"BoardGame Jam Framework (Checkers, Free to Use!)" (Q4.2024) (Java)
  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
@@ -113,7 +113,7 @@ WIN11 admin gain via cheap comm-via-USB (HID) microcontrollers
 
 ###
 
-<p align="left">"CSS Art Tutorial" (HTML, CSS) (Q4 2024)
+<p align="left">"CSS Art Tutorial" (HTML, CSS) (Q4.2024)
  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
