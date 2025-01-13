@@ -19,14 +19,14 @@ Thank you
 ###
 
 <p align="left">
-Art Installation about a lives birthday memories
-Embed:
-[![MIXTAPE TRAILER](https://img.youtube.com/vi/45xou6YD6Uc&list=PLJR0d_Vv370_5z8SbQHiUYpTRRZ9-fPv3/0.jpg)](https://www.youtube.com/watch?v=45xou6YD6Uc&list=PLJR0d_Vv370_5z8SbQHiUYpTRRZ9-fPv3)
+Art Installation about a lives birthday memories. Project hasn't been published yet. 
 </p>
+
+[![MIXTAPE TRAILER](https://img.youtube.com/vi/45xou6YD6Uc&list=PLJR0d_Vv370_5z8SbQHiUYpTRRZ9-fPv3/0.jpg)](https://www.youtube.com/watch?v=45xou6YD6Uc&list=PLJR0d_Vv370_5z8SbQHiUYpTRRZ9-fPv3)
 
 ###
 
-[![mklemmingen - KatzenKaffee](https://img.shields.io/static/v1?label=mklemmingen&message=KatzenKaffee&color=yellow&logo=github)](https://github.com/mklemmingen/KatzenKaffeeWeb "Go to GitHub repo")
+[![mklemmingen - MIXTAPE](https://img.shields.io/static/v1?label=mklemmingen&message=MIXTAPE&color=red&logo=github)](https://github.com/mklemmingen/MIXTAPE "Go to GitHub repo")
 
 ###
 ----------------------------------------------------------------
