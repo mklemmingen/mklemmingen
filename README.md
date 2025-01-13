@@ -48,7 +48,7 @@ https://katzenkaffee.vercel.app/
 
 ###
 
-<img align="right" height="230" src="https://github.com/mklemmingen/mklemmingen/raw/main/KatzenKaffee.gif"  />
+<img height="230" src="https://github.com/mklemmingen/mklemmingen/raw/main/KatzenKaffee.gif"  />
 
 ###
 
