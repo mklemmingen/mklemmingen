@@ -58,6 +58,7 @@ https://katzenkaffee.vercel.app/
 
 WIN11 admin gain via cheap comm-via-USB (HID) microcontrollers
 7 commands, 1 second (to account for computer input lag and loading time
+Visualisation of a Rubber-Ducky-Exploit
 
 ###
 
