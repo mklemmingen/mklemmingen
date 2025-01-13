@@ -13,7 +13,6 @@ Thank you
 ###
 
 <p align="left">"MIXTAPE" (TouchDesigner, DaVinci Resolve, Arduino C++)
- <img src="https://skillicons.dev/icons?i=nextjs,react,sqlite" />
 </p>
 
 ###
