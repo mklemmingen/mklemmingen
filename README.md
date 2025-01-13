@@ -56,9 +56,7 @@ https://katzenkaffee.vercel.app/
  <img src="https://skillicons.dev/icons?i=cpp,arduino" />
 </p>
 
-WIN11 admin gain via cheap comm-via-USB (HID) microcontrollers
-7 commands, 1 second (to account for computer input lag and loading time
-Visualisation of a Rubber-Ducky-Exploit
+WIN11 admin gain via cheap comm-via-USB (HID) microcontrollers to visualise rubber ducky exploits by UI
 
 ###
 
