@@ -10,7 +10,26 @@ Thank you
 #### finished projects chronologically
 
 ----------------------------------------------------------------
+###
 
+<p align="left">"MIXTAPE" (TouchDesigner, DaVinci Resolve, Arduino C++)
+ <img src="https://skillicons.dev/icons?i=nextjs,react,sqlite" />
+</p>
+
+###
+
+<p align="left">
+Art Installation about a lives birthday memories
+Embed:
+[![MIXTAPE TRAILER](https://img.youtube.com/vi/45xou6YD6Uc&list=PLJR0d_Vv370_5z8SbQHiUYpTRRZ9-fPv3/0.jpg)](https://www.youtube.com/watch?v=45xou6YD6Uc&list=PLJR0d_Vv370_5z8SbQHiUYpTRRZ9-fPv3)
+</p>
+
+###
+
+[![mklemmingen - KatzenKaffee](https://img.shields.io/static/v1?label=mklemmingen&message=KatzenKaffee&color=yellow&logo=github)](https://github.com/mklemmingen/KatzenKaffeeWeb "Go to GitHub repo")
+
+###
+----------------------------------------------------------------
 ###
 
 <p align="left">"KatzenKaffee" (NextJS, react, sqlite)
