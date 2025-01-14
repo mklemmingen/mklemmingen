@@ -26,25 +26,6 @@ https://bitwarden.com/
 ----------------------------------------------------------------
 ###
 
-<p align="left">"MIXTAPE" (TouchDesigner, DaVinci Resolve, Arduino C++) (Q1.2025)
-</p>
-
-###
-
-<p align="left">
-Art Installation about a lives birthday memories. Project hasn't been published yet. 
-</p>
-
-[![MIXTAPE TRAILER](https://img.youtube.com/vi/45xou6YD6Uc&list=PLJR0d_Vv370_5z8SbQHiUYpTRRZ9-fPv3/0.jpg)](https://www.youtube.com/watch?v=45xou6YD6Uc&list=PLJR0d_Vv370_5z8SbQHiUYpTRRZ9-fPv3)
-
-###
-
-[![mklemmingen - MIXTAPE](https://img.shields.io/static/v1?label=mklemmingen&message=MIXTAPE&color=red&logo=github)](https://github.com/mklemmingen/MIXTAPE "Go to GitHub repo")
-
-###
-----------------------------------------------------------------
-###
-
 <p align="left">"KatzenKaffee" (NextJS, react, sqlite) (Q4.2024)
  <img src="https://skillicons.dev/icons?i=nextjs,react,sqlite" />
 </p>
@@ -325,16 +306,23 @@ R-script that, when run, opens a localhosted browser to learn statistical approa
 
 ###
 
-<p align="left">"Mixtape" (TouchDesigner, Python and C++)
+<p align="left">"Mixtape" (TouchDesigner, DaVinci Resolve, Python and Arduino C++) (Q1.2025)
  <img src="https://skillicons.dev/icons?i=cpp,py" />
 </p>
 
 ###
 
 <p align="left">
-270* interactive Digital Art Project to experience a lifes musical emotions through memories of birthdays
+270* interactive Digital Art Project to experience a lifes musical emotions through memories of birthdays. Project hasn't been published yet. 
 </p>
 
+[![MIXTAPE TRAILER](https://img.youtube.com/vi/45xou6YD6Uc&list=PLJR0d_Vv370_5z8SbQHiUYpTRRZ9-fPv3/0.jpg)](https://www.youtube.com/watch?v=45xou6YD6Uc&list=PLJR0d_Vv370_5z8SbQHiUYpTRRZ9-fPv3)
+
+###
+
+[![mklemmingen - MIXTAPE](https://img.shields.io/static/v1?label=mklemmingen&message=MIXTAPE&color=red&logo=github)](https://github.com/mklemmingen/MIXTAPE "Go to GitHub repo")
+
+###
 ###
 
 <p align="left">StopTheToken (plain txt)
