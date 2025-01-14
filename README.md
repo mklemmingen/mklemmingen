@@ -7,6 +7,16 @@ Thank you
 
 ----------------------------------------------------------------
 
+Contribute to a World with Confidentiality, Integrity and Availability (non-affiliated):
+
+https://signal.org/donate/
+
+https://proton.me/pricing
+
+https://mullvad.net/
+
+----------------------------------------------------------------
+
 #### finished projects chronologically
 
 ----------------------------------------------------------------
