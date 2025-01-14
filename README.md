@@ -15,6 +15,10 @@ https://proton.me/pricing
 
 https://mullvad.net/
 
+https://ublockorigin.com/
+
+https://bitwarden.com/
+
 ----------------------------------------------------------------
 
 #### finished projects chronologically
