@@ -26,6 +26,25 @@ https://bitwarden.com/
 ----------------------------------------------------------------
 ###
 
+<p align="left">"Modern offroad vehicle Infotainmentsystem-Design" (FIGMA, HTML) (Q1.2025)
+</p>
+
+###
+
+<p align="left">
+Infotainmentsystem design for a family outdoor car, with improved machine control and entertainment
+</p>
+
+###
+
+[![mklemmingen - OutdoorInfotainmentsystem](https://img.shields.io/static/v1?label=mklemmingen&message=OutdoorInfotainmentsystem&color=green&logo=github)](https://github.com/mklemmingen/OutdoorInfotainment "Go to GitHub repo")
+
+###
+
+<img height="230" src="https://github.com/mklemmingen/mklemmingen/raw/main/OutdoorInfotainment.gif"  />
+
+###
+
 <p align="left">"KatzenKaffee" (NextJS, react, sqlite) (Q4.2024)
  <img src="https://skillicons.dev/icons?i=nextjs,react,sqlite" />
 </p>
