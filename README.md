@@ -44,6 +44,8 @@ Infotainmentsystem design for a family outdoor car, with improved machine contro
 <img height="230" src="https://github.com/mklemmingen/mklemmingen/raw/main/OutdoorInfotainment.gif"  />
 
 ###
+-----------------------------------------------------------------------------------------------------------
+###
 
 <p align="left">"KatzenKaffee" (NextJS, react, sqlite) (Q4.2024)
  <img src="https://skillicons.dev/icons?i=nextjs,react,sqlite" />
