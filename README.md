@@ -11,8 +11,6 @@ Contribute to a World with Confidentiality, Integrity and Availability (non-affi
 
 https://signal.org/donate/
 
-https://proton.me/pricing
-
 https://mullvad.net/
 
 https://ublockorigin.com/
