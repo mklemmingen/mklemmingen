@@ -9,11 +9,23 @@ Thank you
 
 Contribute to a World with Confidentiality, Integrity and Availability (non-affiliated):
 
+E2E messenger:
+
 https://signal.org/donate/
+
+E2E email with ISO-compliant servers in germany:
+
+https://tuta.com
+
+Reputable modern VPN service with No-Log-Policy:
 
 https://mullvad.net/
 
+Lokal DNS request blocking of malicious websites and ads:
+
 https://ublockorigin.com/
+
+Encrypted Password Storage:
 
 https://bitwarden.com/
 
