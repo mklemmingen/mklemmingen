@@ -12,6 +12,16 @@
 </br>
 
 <p align="center">
+    <a href="https://katzenkaffee.vercel.app/">
+        <img height="150" src="KatzenKaffeClickMe.png" alt="Boom Chess">
+    </a>
+    </br>
+    (Q1 2025)
+</p>
+
+</br>
+
+<p align="center">
     <a href="https://gardeningcat.itch.io/boom-chess">
         <img height="150" src="bommchessitchio.png" alt="Boom Chess">
     </a>
