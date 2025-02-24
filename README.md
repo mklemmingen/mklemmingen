@@ -251,6 +251,9 @@
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=Tropico-6&color=yellow&logo=steam" alt="GitHub Repo">
       </a>
     </td>
+    <td align="center" style="width:50%;">
+      <img align="right" height="200" src="https://github.com/mklemmingen/mklemmingen/raw/main/tropico6.jpg"  />
+  </td>
   </tr>
 
 <!-- Space Mouse -->
