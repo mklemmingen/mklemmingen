@@ -38,6 +38,7 @@
   <tr>
     <td style="width:50%;">
       <h3>"R Datamanipulation Tutorial"</h3>
+      <p> ✅ Finished and in Production/Archive </p>
       <p><strong>Tech:</strong> R, HTML, CSS, Markdown</p>
       <p><strong>Time:</strong> Q12025 </p>
       <p>R-script that, when run, opens a localhosted browser to learn statistical approaches in data sciences through a self-collected dataset interacting with local R-tools.</p>
@@ -48,6 +49,7 @@
   <tr>
     <td style="width:50%;">
       <h3>Mixtape</h3>
+      <p> ✅ Finished and in Production/Archive </p>
       <p><strong>Tech:</strong> TouchDesigner, DaVinci Resolve, Python, Arduino C++</p>
       <p><strong>Time:</strong> Q1 2025</p>
       <p>270° interactive digital art project to experience a life's musical emotions through memories of birthdays.</p>
@@ -66,6 +68,7 @@
   <tr>
     <td style="width:50%;">
       <h3>Modern Offroad Vehicle Infotainment System</h3>
+      <p> ✅ Finished and in Production/Archive </p>
       <p><strong>Tech:</strong> FIGMA, HTML</p>
       <p><strong>Time:</strong> Q1 2025</p>
       <p>Infotainment system design for a family outdoor car, with improved machine control and entertainment.</p>
@@ -82,6 +85,7 @@
   <tr>
     <td style="width:50%;">
       <h3>KatzenKaffee</h3>
+      <p> ✅ Finished and in Production/Archive </p>
       <p><strong>Tech:</strong> NextJS, React, SQLite</p>
       <p><strong>Time:</strong> Q4 2024</p>
       <p>Website to learn sustainable cat owning. <a href="https://katzenkaffee.vercel.app/">Visit here</a></p>
@@ -98,6 +102,7 @@
   <tr>
     <td style="width:50%;">
       <h3>HIDmibbi</h3>
+      <p>🟡 Finished, Standing by for Issue Creations </p>
       <p><strong>Tech:</strong> C++, Arduino</p>
       <p><strong>Time:</strong> Q4 2024</p>
       <p>Windows 11 admin gain via cheap USB microcontrollers to visualize rubber ducky exploits by UI.</p>
@@ -114,6 +119,7 @@
   <tr>
     <td style="width:50%;">
       <h3>BoardGame Jam Framework (Blank, Free to Use!)</h3>
+      <p> ✅ Finished and in Production/Archive </p>
       <p><strong>Tech:</strong> Java</p>
       <p><strong>Time:</strong> Q4 2024</p>
       <a href="https://github.com/mklemmingen/GameJamFramework">
@@ -126,6 +132,7 @@
   <tr>
     <td style="width:50%;">
       <h3>BoardGame Jam Framework (Chess, Free to Use!)</h3>
+      <p> ✅ Finished and in Production/Archive </p>
       <p><strong>Tech:</strong> Java</p>
       <p><strong>Time:</strong> Q4 2024</p>
       <a href="https://github.com/mklemmingen/GameJamChess">
@@ -138,6 +145,7 @@
   <tr>
     <td style="width:50%;">
       <h3>BoardGame Jam Framework (Checkers, Free to Use!)</h3>
+      <p> ✅ Finished and in Production/Archive </p>
       <p><strong>Tech:</strong> Java</p>
       <p><strong>Time:</strong> Q4 2024</p>
       <a href="https://github.com/mklemmingen/GameJamCheckers">
@@ -150,6 +158,7 @@
   <tr>
     <td style="width:50%;">
       <h3>CSS Art Tutorial</h3>
+      <p> ✅ Finished and in Production/Archive </p>
       <p><strong>Tech:</strong> HTML, CSS</p>
       <p><strong>Time:</strong> Q4 2024</p>
       <p>Quick, short, and easy tutorial on how to create dynamic animated logos with CSS.</p>
@@ -163,6 +172,7 @@
   <tr>
     <td style="width:50%;">
       <h3>Q1Q2 2024 Study-Projects</h3>
+     <p> ✅ Finished and in Production/Archive </p>
       <p><strong>Tech:</strong> C++, C#, Java, Python</p>
       <ul>
         <li>Levenshtein Distance Corruption-Restorer (C++)</li>
@@ -183,6 +193,7 @@
   <tr>
     <td style="width:50%;">
       <h3>Boom Chess</h3>
+      <p>🟡 Finished, Standing by for Issue Creations </p>
       <p><strong>Tech:</strong> Java, libGDX</p>
       <p><strong>Time:</strong> Q3 2023 - Q1 2024</p>
       <p>Military-Pixel Pieces with Health and complex relations fight it out on the modern chess board. Features 3 different bot modes, challenge modes, multiple team colors, and music by Artist Wambutz.</p>
@@ -199,6 +210,7 @@
   <tr>
     <td style="width:50%;">
       <h3>Senet: A Simple Workers Game</h3>
+      <p> ✅ Finished and in Production/Archive </p>
       <p><strong>Tech:</strong> Java, libGDX</p>
       <p><strong>Time:</strong> Q4 2023</p>
       <p>The oldest known board game, re-created as a speedrun challenge with the libGDX Framework.</p>
@@ -215,6 +227,7 @@
   <tr>
     <td style="width:50%;">
       <h3>Tropico 6 - Advanced Teams</h3>
+      <p> ✅ Finished and in Production/Archive </p>
       <p><strong>Tech:</strong> Unreal Engine 4, C++</p>
       <p><strong>Time:</strong> Q4 2023</p>
       <p>Adds team features to the multiplayer - no cooldown on team money transfer. A simple Unreal Engine 4 asset overwrite.</p>
@@ -228,6 +241,7 @@
   <tr>
     <td style="width:50%;">
       <h3>Space Mouse: The Special Operodent</h3>
+      <p> ✅ Finished and in Production/Archive </p>
       <p><strong>Tech:</strong> Python</p>
       <p><strong>Time:</strong> Q2 2023</p>
       <p>A randomly generated 3D maze-solving game with a space mouse searching for cheese.</p>
@@ -244,6 +258,7 @@
   <tr>
     <td style="width:50%;">
       <h3>Hangman 2 - The Dictionaries Strike Back</h3>
+      <p> ✅ Finished and in Production/Archive </p>
       <p><strong>Tech:</strong> Python</p>
       <p><strong>Time:</strong> Q2 2023</p>
       <p>A complex word-guessing game using datasets and hash maps to calculate the most likely word.</p>
@@ -257,6 +272,7 @@
   <tr>
     <td style="width:50%;">
       <h3>StopTheToken</h3>
+      <p> 🔄 Ongoing Develoment </p>
       <p><strong>Tech:</strong> Plain text</p>
       <p><strong>Time:</strong> Ongoing</p>
       <p>A community-fed Pi-hole blocklist of websites that make use of AI-generation for their unoriginal articles—just to save bucks on human labor—ultimately draining the soul from journalism and the internet.</p>
@@ -269,6 +285,7 @@
 
 <h3>Retro-Game Guides</h3>
 
+<p> 🔄 Ongoing Develoment </p>
 <a href="https://github.com/mklemmingen/turn.and.burn.no-fly.zone">
   <img src="https://img.shields.io/static/v1?label=mklemmingen&message=TurnandBurn-NoFlyZone&color=red&logo=applearcade" alt="GitHub Repo">
 </a>
