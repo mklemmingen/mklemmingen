@@ -131,6 +131,9 @@
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=BareBoardGameJam&color=purple&logo=github" alt="GitHub Repo">
       </a>
     </td>
+    <td align="center" style="width:50%;">
+      <img src="https://github.com/mklemmingen/mklemmingen/blob/main/boardgameGameJam.png" alt="BoardGame Framework Image" height="150">
+    </td>
   </tr>
 
 <!-- BoardGame Jam Framework (Chess) -->
@@ -145,6 +148,9 @@
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=GameJamChess&color=green&logo=github" alt="GitHub Repo">
       </a>
     </td>
+    <td align="center" style="width:50%;">
+      <img src="https://github.com/mklemmingen/mklemmingen/blob/main/FrameworkChessCheckers.png" alt="BoardGame Framework Image" height="150">
+    </td>
   </tr>
 
 <!-- BoardGame Jam Framework (Checkers) -->
@@ -157,6 +163,9 @@
       <a href="https://github.com/mklemmingen/GameJamCheckers">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=GameJamCheckers&color=red&logo=github" alt="GitHub Repo">
       </a>
+    </td>
+    <td align="center" style="width:50%;">
+      <img src="https://github.com/mklemmingen/mklemmingen/blob/main/BoardGameMenu.png" alt="BoardGame Framework Image" height="150">
     </td>
   </tr>
 
@@ -244,6 +253,7 @@
     <td style="width:50%;">
       <h3>Tropico 6 - Advanced Teams</h3>
       <p> ✅ Finished and in Production/Archive </p>
+      <p>🌍 Creative Commons Zero Universal (CC0)</p>
       <p><strong>Tech:</strong> Unreal Engine 4, C++</p>
       <p><strong>Time:</strong> Q4 2023</p>
       <p>Adds team features to the multiplayer - no cooldown on team money transfer. A simple Unreal Engine 4 asset overwrite.</p>
