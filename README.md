@@ -158,6 +158,7 @@
     <td style="width:50%;">
       <h3>BoardGame Jam Framework (Checkers, Free to Use!)</h3>
       <p> ✅ Finished and in Production/Archive </p>
+      <p>🌐 AGPL-3.0 License</p>
       <p><strong>Tech:</strong> Java</p>
       <p><strong>Time:</strong> Q4 2024</p>
       <a href="https://github.com/mklemmingen/GameJamCheckers">
