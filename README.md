@@ -173,6 +173,9 @@
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=CSSArtTutorial&color=grey&logo=github" alt="GitHub Repo">
       </a>
     </td>
+    <td align="center" style="width:50%;">
+     <img align="right" height="230" src="https://github.com/mklemmingen/mklemmingen/raw/main/cssArt.gif"  />
+    </td>
   </tr>
 
 <!-- Q1Q2 2024 Study-Projects -->
