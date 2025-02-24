@@ -287,6 +287,9 @@
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=hangman-2&color=blue&logo=steam" alt="GitHub Repo">
       </a>
     </td>
+    <td align="center" style="width:50%;">
+      <img align="right" height="200" src="https://github.com/mklemmingen/hangman-2/blob/e97240877eaf6d5c9ca147802d78cb2639509e25/hangman2_intro.gif"  />
+    </td>
   </tr>
 
 <!-- Stop the Token -->
