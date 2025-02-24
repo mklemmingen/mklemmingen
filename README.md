@@ -216,6 +216,9 @@
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessAndroid&color=blue&logo=applearcade" alt="GitHub Repo">
       </a>
     </td>
+    <td align="center" style="width:50%;">
+      <img align="right" height="200" src="https://github.com/mklemmingen/mklemmingen/raw/main/boomChessGiffy.gif"  />
+  </td>
   </tr>
 
 <!-- Senet: A Simple Workers Game -->
