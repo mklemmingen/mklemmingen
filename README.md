@@ -39,9 +39,13 @@
     <td style="width:50%;">
       <h3>"R Datamanipulation Tutorial"</h3>
       <p> ✅ Finished and in Production/Archive </p>
+       <p>📜 MIT License</p>
       <p><strong>Tech:</strong> R, HTML, CSS, Markdown</p>
       <p><strong>Time:</strong> Q12025 </p>
       <p>R-script that, when run, opens a localhosted browser to learn statistical approaches in data sciences through a self-collected dataset interacting with local R-tools.</p>
+      <a href="https://github.com/mklemmingen/R_DataScience_Tutorial">
+        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=R_Data_Science_Tutorial&color=green&logo=github" alt="GitHub Repo">
+      </a>
     </td>
   </tr>
 
