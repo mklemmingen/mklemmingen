@@ -33,8 +33,9 @@
 
 <h3>Projects Chronologically</h3>
 
-<!-- BrandAway - Brand Origin Identification -->
 <table style="width:100%;">
+
+  <!-- BrandAway - Brand Origin Identification -->  
   <tr>
     <td style="width:50%;">
       <h3>"BrandAway - Brand Origin Identification"</h3>
@@ -50,7 +51,6 @@
   </tr>
 
 <!-- R Tutorial with Survey -->
-<table style="width:100%;">
   <tr>
     <td style="width:50%;">
       <h3>"R Datamanipulation Tutorial"</h3>
