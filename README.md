@@ -35,16 +35,32 @@
 
 <table style="width:100%;">
 
+https://github.com/mklemmingen/MASK
+<!--- MASK - Machine-Learning Assisted Skeleton Kinect Tracking -->
+<tr>
+    <td style="width:50%;">
+      <h3>MASK - Machine-Learning Assisted Skeleton Kinect Tracking "</h3>
+      <p> 🔄 Ongoing Develoment </p>
+      <p>🌐 AGPL-2.0 License</p>
+      <p><strong>Tech:</strong> Kotlin, Firebase</p>
+      <p><strong>Time:</strong> Q2Q32025 </p>
+      <p>approach for threshold-based pose recognition in TouchDesigner using a KinectV2, MediaPipe, and their connection via data synchronization and a Kalman filter. The system utilizes machine learning to improve Kinect skeleton tracking and aims to enable precise pose recognition.  </p>
+      <a href="https://github.com/mklemmingen/MASK">
+        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=MASK&color=yellow&logo=github" alt="GitHub Repo">
+      </a>
+    </td>
+  </tr>
+  
   <!-- BrandAway - Brand Origin Identification -->  
   <tr>
     <td style="width:50%;">
-      <h3>"BrandAway - Brand Origin Identification"</h3>
+      <h3>BrandAway - Brand Origin Identification</h3>
       <p> 🔄 Ongoing Develoment </p>
        <p>📜 MIT License</p>
       <p><strong>Tech:</strong> Kotlin, Firebase</p>
       <p><strong>Time:</strong> Q2Q32025 </p>
       <p>App for android letting you look up where a brand is from by manual input or scanning. build in Kotlin with a Firebase Backend. </p>
-      <a href="[https://github.com/mklemmingen/R_DataScience_Tutorial](https://github.com/mklemmingen/BrandAway)">
+      <a href="https://github.com/mklemmingen/BrandAway">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=BrandAway&color=blue&logo=github" alt="GitHub Repo">
       </a>
     </td>
@@ -53,7 +69,7 @@
 <!-- R Tutorial with Survey -->
   <tr>
     <td style="width:50%;">
-      <h3>"R Datamanipulation Tutorial"</h3>
+      <h3>R Datamanipulation Tutorial</h3>
       <p> ✅ Finished and in Production/Archive </p>
        <p>📜 MIT License</p>
       <p><strong>Tech:</strong> R, HTML, CSS, Markdown</p>
