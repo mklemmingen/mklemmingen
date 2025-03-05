@@ -34,8 +34,7 @@
 <h3>Projects Chronologically</h3>
 
 <table style="width:100%;">
-
-https://github.com/mklemmingen/MASK
+  
 <!--- MASK - Machine-Learning Assisted Skeleton Kinect Tracking -->
 <tr>
     <td style="width:50%;">
