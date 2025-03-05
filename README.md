@@ -33,6 +33,22 @@
 
 <h3>Projects Chronologically</h3>
 
+<!-- BrandAway - Brand Origin Identification -->
+<table style="width:100%;">
+  <tr>
+    <td style="width:50%;">
+      <h3>"BrandAway - Brand Origin Identification"</h3>
+      <p> 🔄 Ongoing Develoment </p>
+       <p>📜 MIT License</p>
+      <p><strong>Tech:</strong> Kotlin, Firebase</p>
+      <p><strong>Time:</strong> Q2Q32025 </p>
+      <p>App for android letting you look up where a brand is from by manual input or scanning. build in Kotlin with a Firebase Backend. </p>
+      <a href="[https://github.com/mklemmingen/R_DataScience_Tutorial](https://github.com/mklemmingen/BrandAway)">
+        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=BrandAway&color=blue&logo=github" alt="GitHub Repo">
+      </a>
+    </td>
+  </tr>
+
 <!-- R Tutorial with Survey -->
 <table style="width:100%;">
   <tr>
