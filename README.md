@@ -38,7 +38,7 @@
 <!--- MASK - Machine-Learning Assisted Skeleton Kinect Tracking -->
 <tr>
     <td style="width:50%;">
-      <h3>MASK - Machine-Learning Assisted Skeleton Kinect Tracking "</h3>
+      <h3>MASK - Machine-Learning Assisted Skeleton Kinect Tracking </h3>
       <p> 🔄 Ongoing Develoment </p>
       <p>🌐 AGPL-2.0 License</p>
       <p><strong>Tech:</strong> Kotlin, Firebase</p>
