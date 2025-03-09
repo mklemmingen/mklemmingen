@@ -80,6 +80,36 @@
     </td>
   </tr>
 
+    <!--- Python script to recursively travers a directory structure and check all image files on likelyhood of nsfw by using machine learning -->
+<tr>
+    <td style="width:50%;">
+      <h3> cleanSmut </h3>
+      <p> ✅ Finished and in Production/Archive </p>
+      <p>🌐 AGPL-2.0 License</p>
+      <p><strong>Tech:</strong> Python </p>
+      <p><strong>Time:</strong> Q12025 </p>
+      <p>Python script to recursively travers a directory structure and check all image files on likelyhood of nsfw by using machine learning</p>
+      <a href="https://github.com/mklemmingen/cleanSmut">
+        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=cleanSmut&color=white&logo=github" alt="GitHub Repo">
+      </a>
+    </td>
+  </tr>
+
+  <!--- Javascript Subprocess exif data sorting scripts into media&files -->
+<tr>
+    <td style="width:50%;">
+      <h3> Exif_DataByDate_Sorting </h3>
+      <p> ✅ Finished and in Production/Archive </p>
+      <p>🌐 AGPL-2.0 License</p>
+      <p><strong>Tech:</strong> Javascript </p>
+      <p><strong>Time:</strong> Q12025 </p>
+      <p>Javascript Subprocess exif data sorting scripts into media&files  </p>
+      <a href="https://github.com/mklemmingen/Exif_DataByDate_Sorting">
+        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=Exif_DataByDate_Sorting&color=white&logo=github" alt="GitHub Repo">
+      </a>
+    </td>
+  </tr>
+
 <!-- R Tutorial with Survey -->
   <tr>
     <td style="width:50%;">
