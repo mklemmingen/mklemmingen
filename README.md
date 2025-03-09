@@ -103,7 +103,7 @@
       <p>🌐 AGPL-2.0 License</p>
       <p><strong>Tech:</strong> Javascript </p>
       <p><strong>Time:</strong> Q12025 </p>
-      <p>Javascript Subprocess exif data sorting scripts into media&files  </p>
+      <p>Javascript Subprocess exif data sorting scripts into media&files by earliest data into year-month structure  </p>
       <a href="https://github.com/mklemmingen/Exif_DataByDate_Sorting">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=Exif_DataByDate_Sorting&color=white&logo=github" alt="GitHub Repo">
       </a>
