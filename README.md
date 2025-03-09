@@ -35,6 +35,20 @@
 
 <table style="width:100%;">
 
+<tr>
+    <td style="width:50%;">
+      <h3>TelegramToMap - Automatic Location Data Mapping</h3>
+      <p>🔄 Ongoing Development</p>
+      <p>🌐 AGPL-2.0 License</p>
+      <p><strong>Tech:</strong> Python, QGIS</p>
+      <p><strong>Time:</strong> Q2 2025</p>
+      <p>Scans incoming messages in Telegram groups for Ukrainian air alarms, extracting location data of UAVs, missiles, and planes. Adds a red marker to the map in QGIS, which turns white after some time and eventually disappears.</p>
+      <a href="https://github.com/mklemmingen/TelegramToMap">
+        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=TelegramToMap&color=red&logo=github" alt="GitHub Repo">
+      </a>
+    </td>
+  </tr>
+
 <!--- AudioBlendr - android app to create own background noise out of premade sounds and manually added ones -->
 <tr>
     <td style="width:50%;">
