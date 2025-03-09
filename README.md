@@ -203,7 +203,7 @@
       <p>🟡 Finished, Standing by for Issue Creations </p>
       <p>🌐 AGPL-3.0 License</p>
       <p><strong>Tech:</strong> C++, Arduino</p>
-      <p><strong>Time:</strong> Q4 2024</p>
+      <p><strong>Time:</strong> Q3 2024</p>
       <p>Windows 11 admin gain via cheap USB microcontrollers to visualize rubber ducky exploits by UI.</p>
       <a href="https://github.com/mklemmingen/HIDmibbi">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=HIDmibbi&color=grey&logo=github" alt="GitHub Repo">
@@ -221,7 +221,7 @@
       <p> ✅ Finished and in Production/Archive </p>
       <p>🌐 AGPL-3.0 License</p>
       <p><strong>Tech:</strong> Java</p>
-      <p><strong>Time:</strong> Q4 2024</p>
+      <p><strong>Time:</strong> Q3 2024</p>
       <a href="https://github.com/mklemmingen/GameJamFramework">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=BareBoardGameJam&color=purple&logo=github" alt="GitHub Repo">
       </a>
@@ -238,7 +238,7 @@
       <p> ✅ Finished and in Production/Archive </p>
       <p>🌐 AGPL-3.0 License</p>
       <p><strong>Tech:</strong> Java</p>
-      <p><strong>Time:</strong> Q4 2024</p>
+      <p><strong>Time:</strong> Q3 2024</p>
       <a href="https://github.com/mklemmingen/GameJamChess">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=GameJamChess&color=green&logo=github" alt="GitHub Repo">
       </a>
@@ -255,7 +255,7 @@
       <p> ✅ Finished and in Production/Archive </p>
       <p>🌐 AGPL-3.0 License</p>
       <p><strong>Tech:</strong> Java</p>
-      <p><strong>Time:</strong> Q4 2024</p>
+      <p><strong>Time:</strong> Q3 2024</p>
       <a href="https://github.com/mklemmingen/GameJamCheckers">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=GameJamCheckers&color=red&logo=github" alt="GitHub Repo">
       </a>
@@ -272,7 +272,7 @@
       <p> ✅ Finished and in Production/Archive </p>
       <p>🌐 AGPL-3.0 License</p>
       <p><strong>Tech:</strong> HTML, CSS</p>
-      <p><strong>Time:</strong> Q4 2024</p>
+      <p><strong>Time:</strong> Q3 2024</p>
       <p>Quick, short, and easy tutorial on how to create dynamic animated logos with CSS.</p>
       <a href="https://github.com/mklemmingen/CSSArtTutorial">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=CSSArtTutorial&color=grey&logo=github" alt="GitHub Repo">
