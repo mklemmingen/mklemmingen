@@ -85,7 +85,7 @@
     <td style="width:50%;">
       <h3> cleanSmut </h3>
       <p> ✅ Finished and in Production/Archive </p>
-      <p>🌐 AGPL-2.0 License</p>
+      <p>🌐 AGPL-3.0 License</p>
       <p><strong>Tech:</strong> Python </p>
       <p><strong>Time:</strong> Q12025 </p>
       <p>Python script to recursively travers a directory structure and check all image files on likelyhood of nsfw by using machine learning</p>
@@ -100,7 +100,7 @@
     <td style="width:50%;">
       <h3> Exif_DataByDate_Sorting </h3>
       <p> ✅ Finished and in Production/Archive </p>
-      <p>🌐 AGPL-2.0 License</p>
+      <p>🌐 AGPL-3.0 License</p>
       <p><strong>Tech:</strong> Javascript </p>
       <p><strong>Time:</strong> Q12025 </p>
       <p>Javascript Subprocess exif data sorting scripts into media&files by earliest data into year-month structure  </p>
