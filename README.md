@@ -88,7 +88,7 @@
       <p>🌐 AGPL-3.0 License</p>
       <p><strong>Tech:</strong> Python </p>
       <p><strong>Time:</strong> Q12025 </p>
-      <p>Python script to recursively travers a directory structure and check all image files on likelyhood of nsfw by using machine learning</p>
+      <p>script that scans directories for images and videos, identifies potentially NSFW content using the OpenNSFW2 library, and moves flagged files to a separate folder. The script processes files in parallel for efficiency, logs NSFW probabilities, and ensures smooth operation with built-in error handling and safety measures </p>
       <a href="https://github.com/mklemmingen/cleanSmut">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=cleanSmut&color=white&logo=github" alt="GitHub Repo">
       </a>
@@ -103,7 +103,7 @@
       <p>🌐 AGPL-3.0 License</p>
       <p><strong>Tech:</strong> Javascript </p>
       <p><strong>Time:</strong> Q12025 </p>
-      <p>Javascript Subprocess exif data sorting scripts into media&files by earliest data into year-month structure  </p>
+      <p>Automates the organization of files into structured directories based on their creation dates and file types. (processes files, determines their creation dates using EXIF metadata or file system dates, and moves them to appropriate year, month (, datatype) directories) </p>
       <a href="https://github.com/mklemmingen/Exif_DataByDate_Sorting">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=Exif_DataByDate_Sorting&color=white&logo=github" alt="GitHub Repo">
       </a>
