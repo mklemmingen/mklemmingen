@@ -93,6 +93,11 @@
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=R_Data_Science_Tutorial&color=green&logo=github" alt="GitHub Repo">
       </a>
     </td>
+    <td align="center"  style="width:50%;">
+      <a href="https://www.youtube.com/playlist?list=PLJR0d_Vv370_5z8SbQHiUYpTRRZ9-fPv3">
+        <img src="Hypothese.jpeg" alt="Image showing a hypothese test" height="150">
+      </a>
+    </td>
   </tr>
 
 <!-- Mixtape -->
