@@ -93,6 +93,11 @@
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=cleanSmut&color=white&logo=github" alt="GitHub Repo">
       </a>
     </td>
+  <td align="center"  style="width:50%;">
+      <a>
+        <img src="classification.gif" alt="gif showing detective pikachu" height="150">
+      </a>
+    </td>
   </tr>
 
 <!--- Javascript Subprocess exif data sorting scripts into media&files -->
@@ -106,6 +111,11 @@
       <p>Automates the organization of files into structured directories based on their creation dates and file types. (processes files, determines their creation dates using EXIF metadata or file system dates, and moves them to appropriate year, month (, datatype) directories) </p>
       <a href="https://github.com/mklemmingen/Exif_DataByDate_Sorting">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=Exif_DataByDate_Sorting&color=white&logo=github" alt="GitHub Repo">
+      </a>
+    </td>
+   <td align="center"  style="width:50%;">
+      <a>
+        <img src="fileSorting.gif" alt="gif showing sorting of files in an old office" height="150">
       </a>
     </td>
   </tr>
