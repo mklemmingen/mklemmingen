@@ -80,7 +80,7 @@
     </td>
   </tr>
 
-    <!--- Python script to recursively travers a directory structure and check all image files on likelyhood of nsfw by using machine learning -->
+<!--- Python script to recursively travers a directory structure and check all image files on likelyhood of nsfw by using machine learning -->
 <tr>
     <td style="width:50%;">
       <h3> cleanSmut </h3>
@@ -95,7 +95,7 @@
     </td>
   </tr>
 
-  <!--- Javascript Subprocess exif data sorting scripts into media&files -->
+<!--- Javascript Subprocess exif data sorting scripts into media&files -->
 <tr>
     <td style="width:50%;">
       <h3> Exif_DataByDate_Sorting </h3>
