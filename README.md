@@ -34,6 +34,21 @@
 <h3>Projects Chronologically</h3>
 
 <table style="width:100%;">
+
+<!--- AudioBlendr - android app to create own background noise out of premade sounds and manually added ones -->
+<tr>
+    <td style="width:50%;">
+      <h3> AudioBlendr </h3>
+      <p> 🔄 Ongoing Develoment </p>
+      <p>🌐 AGPL-2.0 License</p>
+      <p><strong>Tech:</strong> Kotlin </p>
+      <p><strong>Time:</strong> Q2Q32025 </p>
+      <p>android app to create own background noise out of premade sounds and manually added ones  </p>
+      <a href="https://github.com/mklemmingen/AudioBlendr">
+        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=AudioBlendr&color=white&logo=github" alt="GitHub Repo">
+      </a>
+    </td>
+  </tr>
   
 <!--- MASK - Machine-Learning Assisted Skeleton Kinect Tracking -->
 <tr>
