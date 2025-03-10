@@ -37,7 +37,7 @@
 
 <tr>
     <td style="width:50%;">
-      <h3>TelegramToMap - Automatic Location Data Mapping</h3>
+      <h3>TelegramToMap - Automatic Threat-Location Data Mapping</h3>
       <p>🔄 Ongoing Development</p>
       <p>🌐 AGPL-3.0 License</p>
       <p><strong>Tech:</strong> Python, QGIS</p>
