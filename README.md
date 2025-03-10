@@ -43,6 +43,7 @@
       <p><strong>Tech:</strong> Python, QGIS</p>
       <p><strong>Time:</strong> Q2 2025</p>
       <p>Scans incoming messages in Telegram groups for Ukrainian air alarms, extracting location data of UAVs, missiles, and planes. Adds a red marker to the map in QGIS, which turns white after some time and eventually disappears.</p>
+      <p>Created since I had a hard time keeping up with translating and typing in the translated location to unsecure map-services. This saves time and stays completly local after receiving the telegram information.</p>
       <a href="https://github.com/mklemmingen/TelegramToMap">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=TelegramToMap&color=red&logo=github" alt="GitHub Repo">
       </a>
