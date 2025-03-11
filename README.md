@@ -103,7 +103,7 @@
       <p>🌐 AGPL-3.0 License</p>
       <p><strong>Tech:</strong> Python </p>
       <p><strong>Time:</strong> Q12025 </p>
-      <p>script that scans directories for images and videos, identifies potentially NSFW content using the OpenNSFW2 library, and moves flagged files to a separate folder. The script processes files in parallel for efficiency, logs NSFW probabilities, and ensures smooth operation with built-in error handling and safety measures </p>
+      <p>script that scans directories for images and videos, identifies potentially NSFW content using a neural model trough a 5 file (the OpenNSFW2 library) , and moves flagged files to a separate folder. The script processes files in parallel for efficiency, logs NSFW probabilities, and ensures smooth operation with built-in error handling and safety measures </p>
       <a href="https://github.com/mklemmingen/cleanSmut">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=cleanSmut&color=white&logo=github" alt="GitHub Repo">
       </a>
