@@ -91,7 +91,7 @@
       <p><strong>Tech:</strong> Kotlin, Firebase</p>
       <p><strong>Time:</strong> Q2Q32025 </p>
       <p>App for android letting you look up where a brand is from by manual input or scanning. build in Kotlin with a Firebase Backend. </p>
-      <p>Designed as a tool to  </p>
+      <p>Designed as a tool for BuyFrom...-Movements as a on-the-fly solution. </p>
       <a href="https://github.com/mklemmingen/BrandAway">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=BrandAway&color=blue&logo=github" alt="GitHub Repo">
       </a>
