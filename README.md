@@ -58,8 +58,8 @@
       <p>🌐 AGPL-2.0 License</p>
       <p><strong>Tech:</strong> Kotlin </p>
       <p><strong>Time:</strong> Q2Q32025 </p>
-      <p>android app to create own background noise out of premade sounds and manually added ones  </p>
-      <p>designed as a on the fly solution to misophonia triggering environments, from autism or elsewhere  </p>
+      <p>Android app to create own background noise out of premade sounds and manually added ones  </p>
+      <p>Designed as a on the fly solution to misophonia triggering environments.</p>
       <a href="https://github.com/mklemmingen/AudioBlendr">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=AudioBlendr&color=white&logo=github" alt="GitHub Repo">
       </a>
@@ -74,7 +74,7 @@
       <p>🌐 AGPL-2.0 License</p>
       <p><strong>Tech:</strong> Kotlin, Firebase</p>
       <p><strong>Time:</strong> Q2Q32025 </p>
-      <p>approach for threshold-based pose recognition in TouchDesigner using a KinectV2, MediaPipe, and their connection via data synchronization and a Kalman filter. The system utilizes machine learning to improve Kinect skeleton tracking and aims to enable precise pose recognition.  </p>
+      <p>Approach for threshold-based pose recognition in TouchDesigner using a KinectV2, MediaPipe, and their connection via data synchronization and a Kalman filter. The system utilizes machine learning to improve Kinect skeleton tracking and aims to enable precise pose recognition.  </p>
       <p>Designed for visual triggering in a light-noisy environment with relatively fast-moving bodies</p>
       <a href="https://github.com/mklemmingen/MASK">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=MASK&color=yellow&logo=github" alt="GitHub Repo">
