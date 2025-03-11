@@ -75,7 +75,7 @@
       <p><strong>Tech:</strong> Kotlin, Firebase</p>
       <p><strong>Time:</strong> Q2Q32025 </p>
       <p>Approach for threshold-based pose recognition in TouchDesigner using a KinectV2, MediaPipe, and their connection via data synchronization and a Kalman filter. The system utilizes machine learning to improve Kinect skeleton tracking and aims to enable precise pose recognition.  </p>
-      <p>Designed for visual triggering in a light-noisy environment with relatively fast-moving bodies</p>
+      <p>Designed for triggering subroutines while tracking in a light-noisy environment with relatively fast-moving bodies</p>
       <a href="https://github.com/mklemmingen/MASK">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=MASK&color=yellow&logo=github" alt="GitHub Repo">
       </a>
