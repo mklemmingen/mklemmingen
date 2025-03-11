@@ -54,7 +54,7 @@
 <tr>
     <td style="width:50%;">
       <h3> AudioBlendr </h3>
-      <p> 🔄 Ongoing Develoment </p>
+      <p> 🔄 Development in Backlog </p>
       <p>🌐 AGPL-2.0 License</p>
       <p><strong>Tech:</strong> Kotlin </p>
       <p><strong>Time:</strong> Q2Q32025 </p>
@@ -86,7 +86,7 @@
   <tr>
     <td style="width:50%;">
       <h3>BrandAway - Brand Origin Identification</h3>
-      <p> 🔄 Ongoing Develoment </p>
+      <p> 🔄 Development in Backlog </p>
        <p>📜 MIT License</p>
       <p><strong>Tech:</strong> Kotlin, Firebase</p>
       <p><strong>Time:</strong> Q2Q32025 </p>
