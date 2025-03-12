@@ -49,22 +49,6 @@
       </a>
     </td>
   </tr>
-
-<!--- AudioBlendr - android app to create own background noise out of premade sounds and manually added ones -->
-<tr>
-    <td style="width:50%;">
-      <h3> AudioBlendr </h3>
-      <p> 🔄 Development in Backlog </p>
-      <p>🌐 AGPL-2.0 License</p>
-      <p><strong>Tech:</strong> Kotlin </p>
-      <p><strong>Time:</strong> Q2Q32025 </p>
-      <p>Android app to create own background noise out of premade sounds and manually added ones  </p>
-      <p>Designed as a on the fly solution to misophonia triggering environments.</p>
-      <a href="https://github.com/mklemmingen/AudioBlendr">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=AudioBlendr&color=white&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-  </tr>
   
 <!--- MASK - Machine-Learning Assisted Skeleton Kinect Tracking -->
 <tr>
@@ -78,22 +62,6 @@
       <p>Designed for triggering subroutines while tracking in a light-noisy environment with relatively fast-moving bodies</p>
       <a href="https://github.com/mklemmingen/MASK">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=MASK&color=yellow&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-  </tr>
-  
-  <!-- BrandAway - Brand Origin Identification -->  
-  <tr>
-    <td style="width:50%;">
-      <h3>BrandAway - Brand Origin Identification</h3>
-      <p> 🔄 Development in Backlog </p>
-       <p>📜 MIT License</p>
-      <p><strong>Tech:</strong> Kotlin, Firebase</p>
-      <p><strong>Time:</strong> Q2Q32025 </p>
-      <p>App for android letting you look up where a brand is from by manual input or scanning. build in Kotlin with a Firebase Backend. </p>
-      <p>Designed as a tool for BuyFrom...-Movements as a on-the-fly solution. </p>
-      <a href="https://github.com/mklemmingen/BrandAway">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=BrandAway&color=blue&logo=github" alt="GitHub Repo">
       </a>
     </td>
   </tr>
@@ -433,6 +401,43 @@
       </a>
     </td>
   </tr>
+</table>
+
+<h3>Development Backlog</h3>
+
+<table style="width:100%;">
+
+<!--- AudioBlendr - android app to create own background noise out of premade sounds and manually added ones -->
+<tr>
+    <td style="width:50%;">
+      <h3> AudioBlendr </h3>
+      <p> 🔄 Development in Backlog </p>
+      <p>🌐 AGPL-2.0 License</p>
+      <p><strong>Tech:</strong> Kotlin </p>
+      <p><strong>Time:</strong> Q2Q32025 </p>
+      <p>Android app to create own background noise out of premade sounds and manually added ones  </p>
+      <p>Designed as a on the fly solution to misophonia triggering environments.</p>
+      <a href="https://github.com/mklemmingen/AudioBlendr">
+        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=AudioBlendr&color=white&logo=github" alt="GitHub Repo">
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="width:50%;">
+      <h3>BrandAway - Brand Origin Identification</h3>
+      <p> 🔄 Development in Backlog </p>
+       <p>📜 MIT License</p>
+      <p><strong>Tech:</strong> Kotlin, Firebase</p>
+      <p><strong>Time:</strong> Q2Q32025 </p>
+      <p>App for android letting you look up where a brand is from by manual input or scanning. build in Kotlin with a Firebase Backend. </p>
+      <p>Designed as a tool for BuyFrom...-Movements as a on-the-fly solution. </p>
+      <a href="https://github.com/mklemmingen/BrandAway">
+        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=BrandAway&color=blue&logo=github" alt="GitHub Repo">
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3>Retro-Game Guides</h3>
