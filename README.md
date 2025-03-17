@@ -112,7 +112,7 @@
     </td>
   <td align="center"  style="width:50%;">
       <a>
-        <img src="classification.gif" alt="gif showing detective pikachu" height="150">
+        <img src="machineLearning.png" alt="png of a neural network with NSFW written over its hidden layers" height="150">
       </a>
     </td>
   </tr>
