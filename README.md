@@ -43,14 +43,14 @@
       <p><strong>Tech:</strong> C++</p>
       <p><strong>Time:</strong> Q2 2025</p>
       <p>This project involves an Arduino equipped with a gas meter, temperature/humidity sensor, sound meter, display, and LED strip. It uses sensor data to generate randomness, visualizes it with colors on the LED strip, and outputs a random long unsigned integer via its serial interface, which can be read in to try to get close to true randomness.</p>
-      <p>Though to the analog data (0-1023) of the microphone and the gas sensor, and the patterned fluctuations it thereby experiences, I suggest testing it out first on any new system to determine the amount of actuall entropy achievable in your environment. </p>
+      <p>Though to the analog data (0-1023) of the microphone and the gas sensor, and the patterned fluctuations it thereby experiences, I suggest testing it out first on any new system to determine the amount of actual entropy achievable in your environment. </p>
       <a href="https://github.com/mklemmingen/EntropyVisualizer">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=EntropyVisualizer&color=yellow&logo=github" alt="GitHub Repo">
       </a>
     </td>
   <td align="center"  style="width:50%;">
       <a>
-        <img src="EntropyVisualizer.png" alt="png of working Entropy Visualization" height="150">
+        <img src="https://raw.githubusercontent.com/mklemmingen/EntropyVisualizer/refs/heads/main/EntropyVisualization.gif" alt="gif of working Entropy Visualization" height="150">
       </a>
     </td>
   </tr>
