@@ -68,6 +68,11 @@
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=TelegramToMap&color=red&logo=github" alt="GitHub Repo">
       </a>
     </td>
+  <td align="center"  style="width:50%;">
+      <a>
+        <img src="ukraineHeat.png" alt="png of a QGIS user interface with the ukraine map highlighted" height="150">
+      </a>
+    </td>
   </tr>
   
 <!--- MASK - Machine-Learning Assisted Skeleton Kinect Tracking -->
@@ -82,6 +87,11 @@
       <p>Designed for triggering subroutines while tracking in a light-noisy environment with relatively fast-moving bodies</p>
       <a href="https://github.com/mklemmingen/MASK">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=MASK&color=yellow&logo=github" alt="GitHub Repo">
+      </a>
+    </td>
+  <td align="center"  style="width:50%;">
+      <a>
+        <img src="kinect.png" alt="png of a skeletan with nodes" height="150">
       </a>
     </td>
   </tr>
