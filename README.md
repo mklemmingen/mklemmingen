@@ -48,6 +48,11 @@
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=EntropyVisualizer&color=yellow&logo=github" alt="GitHub Repo">
       </a>
     </td>
+  <td align="center"  style="width:50%;">
+      <a>
+        <img src="EntropyVisualizer.png" alt="png of working Entropy Visualization" height="150">
+      </a>
+    </td>
   </tr>
 
 <tr>
@@ -77,11 +82,6 @@
       <p>Designed for triggering subroutines while tracking in a light-noisy environment with relatively fast-moving bodies</p>
       <a href="https://github.com/mklemmingen/MASK">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=MASK&color=yellow&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-   <td align="center"  style="width:50%;">
-      <a>
-        <img src="EntropyVisualizer.png" alt="png of working Entropy Visualization" height="150">
       </a>
     </td>
   </tr>
