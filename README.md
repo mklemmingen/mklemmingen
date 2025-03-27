@@ -47,11 +47,7 @@
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=LogChirpy&color=brown&logo=github" alt="GitHub Repo">
       </a>
     </td>
-  <td align="center"  style="width:50%;">
-      <a>
   
-      </a>
-    </td>
   </tr>
 
 <tr>
