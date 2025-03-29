@@ -43,7 +43,7 @@
       <p><strong>Tech:</strong> Javascript, React Native, SQL, Firebase</p>
       <p><strong>Time:</strong> Q2-Q3 2025</p>
       <p></p>
-      <a href="[https://github.com/mklemmingen/EntropyVisualizer](https://github.com/mklemmingen/LogChirpy)">
+      <a href="https://github.com/mklemmingen/LogChirpy">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=LogChirpy&color=brown&logo=github" alt="GitHub Repo">
       </a>
     </td>
