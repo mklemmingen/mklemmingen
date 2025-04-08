@@ -96,7 +96,7 @@
       <h3>MASK - Machine-Learning Assisted Skeleton Kinect Tracking </h3>
       <p> 🔄 Ongoing Develoment </p>
       <p>🌐 AGPL-2.0 License</p>
-      <p><strong>Tech:</strong> Kotlin, Firebase</p>
+      <p><strong>Tech:</strong> Python, lots of Python</p>
       <p><strong>Time:</strong> Q2Q32025 </p>
       <p>Approach for threshold-based pose recognition in TouchDesigner using a KinectV2, MediaPipe, and their connection via data synchronization and a Kalman filter. The system utilizes machine learning to improve Kinect skeleton tracking and aims to enable precise pose recognition.  </p>
       <p>Designed for triggering subroutines while tracking in a light-noisy environment with relatively fast-moving bodies</p>
