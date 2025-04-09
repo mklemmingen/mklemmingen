@@ -37,21 +37,6 @@
 
 <tr>
     <td style="width:50%;">
-      <h3>LogChirpy - ornithological archival app</h3>
-       <p> 🔄 Ongoing Develoment </p>
-      <p>🌐 AGPL-3.0 License</p>
-      <p><strong>Tech:</strong> Javascript, React Native, SQL, Firebase</p>
-      <p><strong>Time:</strong> Q2-Q3 2025</p>
-      <p></p>
-      <a href="https://github.com/mklemmingen/LogChirpy">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=LogChirpy&color=brown&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-  
-  </tr>
-
-<tr>
-    <td style="width:50%;">
       <h3>EntropyVisualizer - Arduino-based sensor read-in to serial and LED strip</h3>
       <p>✅ Finished and in Production/Archive</p>
       <p>🌐 AGPL-3.0 License</p>
@@ -451,6 +436,23 @@
 <h3>Development Backlog</h3>
 
 <table style="width:100%;">
+
+<tr>
+    <td style="width:50%;">
+      <h3>LogChirpy - ornithological archival app</h3>
+       <p> 🔄 Ongoing Develoment </p>
+      <p>🌐 AGPL-3.0 License</p>
+      <p><strong>Tech:</strong> Javascript, React Native, SQL, Firebase</p>
+      <p><strong>Time:</strong> Q2-Q3 2025</p>
+      <p></p>
+      <a href="https://github.com/mklemmingen/LogChirpy">
+        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=LogChirpy&color=brown&logo=github" alt="GitHub Repo">
+      </a>
+    </td>
+  
+  </tr>
+
+
 
 <!--- AudioBlendr - android app to create own background noise out of premade sounds and manually added ones -->
 <tr>
