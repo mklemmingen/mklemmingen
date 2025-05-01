@@ -95,7 +95,7 @@
 <tr>
     <td style="width:50%;">
       <h3>MASK - Machine-Learning Assisted Skeleton Kinect Tracking </h3>
-      <p> 🔄 Ongoing Develoment </p>
+      <p>✅ Finished and in Production/Archive</p>
       <p>🌐 AGPL-2.0 License</p>
       <p><strong>Tech:</strong> Python, lots of Python</p>
       <p><strong>Time:</strong> Q2Q32025 </p>
