@@ -47,6 +47,11 @@
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=LogChirpy&color=brown&logo=github" alt="GitHub Repo">
       </a>
     </td>
+    <td align="center"  style="width:50%;">
+      <a>
+        <img src="LogChirpy.gif" alt="gif of working LogChirpy Object Detection and Classification" height="150">
+      </a>
+    </td>
   
   </tr>
 
