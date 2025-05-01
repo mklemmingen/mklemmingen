@@ -40,7 +40,7 @@
       <h3>LogChirpy - ornithological archival app</h3>
        <p> 🔄 Ongoing Develoment </p>
       <p>🌐 AGPL-3.0 License</p>
-      <p><strong>Tech:</strong> Javascript, React Native, SQL, Firebase</p>
+      <p><strong>Tech:</strong> TensorflowJs, Typescript, Javascript, React Native, Expo, SQL, Firebase, Relational Databasing, Batch Scripts, Android and Ios Building</p>
       <p><strong>Time:</strong> Q2-Q3 2025</p>
       <p></p>
       <a href="https://github.com/mklemmingen/LogChirpy">
