@@ -42,7 +42,7 @@
       <p>🌐 AGPL-3.0 License</p>
       <p><strong>Tech:</strong> TensorflowJs, Typescript, Javascript, React Native, Expo, SQL, Firebase, Relational Databasing, Batch Scripts, Android and Ios Building</p>
       <p><strong>Time:</strong> Q2-Q3 2025</p>
-      <p></p>
+      <p>App to live-camera-feed identify birds, as well as archive log, identify on picture and sounds, synchronise and display.</p>
       <a href="https://github.com/mklemmingen/LogChirpy">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=LogChirpy&color=brown&logo=github" alt="GitHub Repo">
       </a>
