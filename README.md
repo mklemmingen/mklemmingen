@@ -9,8 +9,6 @@
   </div>
 </div>
 
-</br>
-
 <h3>Projects Chronologically</h3>
 
 <table style="width:100%;">
@@ -84,7 +82,7 @@
       <p>🌐 AGPL-2.0 License</p>
       <p><strong>Tech:</strong> Python, lots of Python</p>
       <p><strong>Time:</strong> Q2Q32025 </p>
-      <p>Approach for threshold-based pose recognition in TouchDesigner using a KinectV2, MediaPipe, and their connection via data synchronization and a Kalman filter. The system utilizes machine learning to improve Kinect skeleton tracking and aims to enable precise pose recognition.  </p>
+      <p>M.A.S.K. (Machine-Learning Assisted Skeleton Kinect Tracking) is a system for threshold-based pose and 2D position recognition in TouchDesigner using a Kinect V2 camera and MediaPipe. By integrating advanced machine learning models, M.A.S.K. significantly enhances skeleton tracking compared to traditional Kinect nodes. It features a MediaPipe pipeline that extracts and processes skeleton data for real-time visualization, threshold analysis, and coordinate system integration. Embedded Python scripts enable distance and angle calculations to drive TouchDesigner nodes, allowing for responsive body-relative visuals—ideal for dance or performance setups. Designed as part of a student project at Filmakademie Ludwigsburg, M.A.S.K. targets applications in interactive media and performance art.</p>
       <p>Designed for triggering subroutines while tracking in a light-noisy environment with relatively fast-moving bodies</p>
       <a href="https://github.com/mklemmingen/MASK">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=MASK&color=yellow&logo=github" alt="GitHub Repo">
