@@ -11,26 +11,6 @@
 
 </br>
 
-<p align="center">
-    <a href="https://katzenkaffee.vercel.app/">
-        <img height="150" src="KatzenKaffeClickMe.png" alt="Boom Chess">
-    </a>
-    </br>
-    (Q1 2025)
-</p>
-
-</br>
-
-<p align="center">
-    <a href="https://gardeningcat.itch.io/boom-chess">
-        <img height="150" src="bommchessitchio.png" alt="Boom Chess">
-    </a>
-    </br>
-    (Q1 2024)
-</p>
-
-</br>
-
 <h3>Projects Chronologically</h3>
 
 <table style="width:100%;">
@@ -230,6 +210,13 @@
       <a href="https://github.com/mklemmingen/KatzenKaffeeWeb">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=KatzenKaffee&color=yellow&logo=github" alt="GitHub Repo">
       </a>
+      <p align="center">
+    <a href="https://katzenkaffee.vercel.app/">
+        <img height="150" src="KatzenKaffeClickMe.png" alt="Boom Chess">
+    </a>
+    </br>
+    (Q1 2025)
+</p>
     </td>
     <td align="center"  style="width:50%;">
       <img src="https://github.com/mklemmingen/mklemmingen/raw/main/KatzenKaffee.gif" alt="KatzenKaffee" height="150">
@@ -360,6 +347,15 @@
       <a href="https://github.com/mklemmingen/BoomChess-Android">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessAndroid&color=blue&logo=applearcade" alt="GitHub Repo">
       </a>
+      <p align="center">
+    <a href="https://gardeningcat.itch.io/boom-chess">
+        <img height="150" src="bommchessitchio.png" alt="Boom Chess">
+    </a>
+    </br>
+    (Q1 2024)
+</p>
+
+</br>
     </td>
     <td align="center" style="width:50%;">
       <img align="right" height="200" src="https://github.com/mklemmingen/mklemmingen/raw/main/boomChessGiffy.gif"  />
