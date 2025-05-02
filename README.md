@@ -49,7 +49,7 @@
     </td>
     <td align="center"  style="width:50%;">
       <a>
-        <img src="LogChirpy.gif" alt="gif of working LogChirpy Object Detection and Classification" height="150">
+        <img src="https://github.com/mklemmingen/mklemmingen/blob/2e0097a5f41866463d8746eed09821d5a46f3e6e/LogChirpy%20(2).gif" alt="gif of working LogChirpy Object Detection and Classification" height="150">
       </a>
     </td>
   
