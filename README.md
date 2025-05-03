@@ -20,7 +20,7 @@
       <p>🌐 AGPL-3.0 License</p>
       <p><strong>Tech:</strong> TensorflowJs, Typescript, Javascript, React Native, Expo, SQL, Firebase, Relational Databasing, Batch Scripts, Android and Ios Building</p>
       <p><strong>Time:</strong> Q2-Q3 2025</p>
-      <p>App to live-camera-feed identify birds, as well as archive log, identify on picture and sounds, synchronise and display. Uses mobile object detection and classification of image and audio data, completely local. And optionally syncs to firestore with authentication and DSGVO-conformity.</p>
+      <p>Mobile app to live-camera-feed identify birds, computed completly local, archive sightings, identify on picture & sounds after the fact, synchronise logs and display visually. Uses a mix of wrapping mobile object detection and classification with converted open-source models. Optionally syncs to firestore with authentication and DSGVO-conformity.</p>
       <a href="https://github.com/mklemmingen/LogChirpy">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=LogChirpy&color=brown&logo=github" alt="GitHub Repo">
       </a>
