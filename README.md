@@ -29,7 +29,7 @@
     </td>
     <td align="center"  style="width:50%;">
       <a>
-        <img src="https://raw.githubusercontent.com/mklemmingen/EntropyVisualizer/refs/heads/main/CVwebsiteDD.gif alt="gif of the CV website I built" height="150">
+        <img src="https://github.com/mklemmingen/mklemmingen/blob/main/CVwebsiteDD.gif" alt="gif of the CV website I built" height="150">
       </a>
       <a>
         <img src="https://github.com/mklemmingen/mklemmingen/blob/main/CBS.svg" alt="logo of the cologne university of applied sciences" height="150">
