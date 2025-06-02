@@ -13,6 +13,27 @@
 
 <table style="width:100%;">
 
+https://github.com/Wambutz/Automatisierungs-Tool
+
+<tr>
+    <td style="width:50%;">
+      <h3> Customer CV and Project Portfolio HR Automation Tool Framework</h3>
+       <p> 🔄 Ongoing Develoment </p>
+      <p>🌐 AGPL-3.0 License</p>
+      <p><strong>Tech:</strong> React, Typescript, Tailwind, serer-side-rendering architecture </p>
+      <p><strong>Time:</strong> Q3 2025</p>
+      <p>Portfolio and CV website with the technological framework for a bachelor thesis on Human Resource Automation Evaluation Tooling for Wambutz @ David Dronia</p>
+      <a href="https://github.com/Wambutz/Automatisierungs-Tool">
+        <img src="https://img.shields.io/static/v1?label=Wambutz&message=DavidDPortfolio&color=red&logo=github" alt="GitHub Repo">
+      </a>
+    </td>
+    <td align="center"  style="width:50%;">
+      <a>
+        <img src="" alt="logo of the cologne university of applied sciences" height="150">
+      </a>
+    </td>
+  </tr>
+
 <tr>
     <td style="width:50%;">
       <h3>Bogenliga - Digitaler Schusszettel</h3>
