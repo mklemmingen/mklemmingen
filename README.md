@@ -123,7 +123,7 @@
       <a>
         <img src="kinect.png" alt="png of a skeletan with nodes" height="150">
       </a>
-        <img src="filmakademie.svg" alt="svg logo of the cooperation hochschule" height="150">
+        <img src="https://github.com/mklemmingen/mklemmingen/blob/main/filmakadadmie.svg" alt="svg logo of the cooperation hochschule" height="150">
         <a>
         <img src="https://www.reutlingen-university.de/typo3conf/ext/rt_content/Resources/Public/Icons/logo-main.svg" alt="svg logo of reutlingen university" height="150">
     </a>
