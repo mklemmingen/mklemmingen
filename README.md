@@ -29,6 +29,9 @@
       <a>
         <img src="https://github.com/mklemmingen/mklemmingen/blob/main/CBS.svg" alt="logo of the cologne university of applied sciences" height="150">
       </a>
+      <a>
+        <img src="https://www.dhl.de/.resources/dhl/webresources/assets/img//dhl-official.svg" alt="logo of DHL, the business partner of the customer" height="150">
+      </a>
     </td>
   </tr>
 
