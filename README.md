@@ -24,6 +24,7 @@
       <a href="https://github.com/Wambutz/Automatisierungs-Tool">
         <img src="https://img.shields.io/static/v1?label=Wambutz&message=DavidDPortfolio&color=red&logo=github" alt="GitHub Repo">
       </a>
+      <p>Private</p>
     </td>
     <td align="center"  style="width:50%;">
       <a>
