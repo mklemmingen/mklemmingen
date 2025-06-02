@@ -21,6 +21,9 @@
       <p><strong>Tech:</strong> React, Typescript, Tailwind, serer-side-rendering architecture </p>
       <p><strong>Time:</strong> Q3 2025</p>
       <p>Portfolio and CV website with the technological framework for a bachelor thesis on Human Resource Automation Evaluation Tooling for Wambutz @ David Dronia</p>
+      <br>
+      <p>https://daviddronia.vercel.app/</p>
+      <br>
       <a href="https://github.com/Wambutz/Automatisierungs-Tool">
         <img src="https://img.shields.io/static/v1?label=Wambutz&message=DavidDPortfolio&color=red&logo=github" alt="GitHub Repo">
       </a>
