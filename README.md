@@ -13,11 +13,9 @@
 
 <table style="width:100%;">
 
-https://github.com/Wambutz/Automatisierungs-Tool
-
 <tr>
     <td style="width:50%;">
-      <h3> Customer CV and Project Portfolio HR Automation Tool Framework</h3>
+      <h3> Customer CV & Framework for a Automation Acquisition Evaluation Tool Framework</h3>
        <p> 🔄 Ongoing Develoment </p>
       <p>🌐 AGPL-3.0 License</p>
       <p><strong>Tech:</strong> React, Typescript, Tailwind, serer-side-rendering architecture </p>
@@ -29,7 +27,7 @@ https://github.com/Wambutz/Automatisierungs-Tool
     </td>
     <td align="center"  style="width:50%;">
       <a>
-        <img src="" alt="logo of the cologne university of applied sciences" height="150">
+        <img src="https://github.com/mklemmingen/mklemmingen/blob/main/CBS.svg" alt="logo of the cologne university of applied sciences" height="150">
       </a>
     </td>
   </tr>
