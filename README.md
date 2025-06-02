@@ -16,8 +16,8 @@
 <tr>
     <td style="width:50%;">
       <h3> Customer CV & Framework for a HR Automation Acquisition Evaluation Tool</h3>
-       <p> 🔄 Ongoing Develoment </p>
-      <p>🌐 AGPL-3.0 License</p>
+       <p>🔄 Ongoing Develoment</p>
+      <p>All Rights included, Property of github.com/Wumbatz</p>
       <p><strong>Tech:</strong> React, Typescript, Tailwind, serer-side-rendering architecture </p>
       <p><strong>Time:</strong> Q3 2025</p>
       <p>Portfolio and CV website with the technological framework for a bachelor thesis on Human Resource Automation Evaluation Tooling for Wambutz @ David Dronia</p>
@@ -40,8 +40,8 @@
 <tr>
     <td style="width:50%;">
       <h3>Bogenliga - Digitaler Schusszettel</h3>
-       <p> 🔄 Ongoing Develoment </p>
-      <p>🌐 AGPL-3.0 License</p>
+      <p>✅ Finished and in Production/Archive</p>
+      <p>All rights included with BetterCallPaul and Bogenliga Deutschland</p>
       <p><strong>Tech:</strong> Spring Boot, Java, REST APIs, Typescript </p>
       <p><strong>Time:</strong> Q2-Q3 2025</p>
       <p>Module for app.bogenliga.de in existing Front- and Backend to facilitate a fully digital passe entry in official archery tournaments by leveraging state machines, admin oversight, and backend-controlled frontend servicing.</p>
