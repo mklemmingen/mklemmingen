@@ -15,7 +15,7 @@
 
 <tr>
     <td style="width:50%;">
-      <h3> Customer CV & Framework for a Automation Acquisition Evaluation Tool Framework</h3>
+      <h3> Customer CV & Framework for a HR Automation Acquisition Evaluation Tool</h3>
        <p> 🔄 Ongoing Develoment </p>
       <p>🌐 AGPL-3.0 License</p>
       <p><strong>Tech:</strong> React, Typescript, Tailwind, serer-side-rendering architecture </p>
