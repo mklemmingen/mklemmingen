@@ -278,7 +278,7 @@
       </a>
       <p align="center">
     <a href="https://katzenkaffee.vercel.app/">
-        <img height="150" src="KatzenKaffeClickMe.png" alt="Boom Chess">
+        <img height="150" src="KatzenKaffeClickMe.png" alt="KatzenKaffee Click Me">
     </a>
     </br>
     (Q1 2025)
@@ -426,9 +426,6 @@
     <a href="https://gardeningcat.itch.io/boom-chess">
         <img height="150" src="bommchessitchio.png" alt="Boom Chess">
     </a>
-        <a>
-        <img src="https://www.reutlingen-university.de/typo3conf/ext/rt_content/Resources/Public/Icons/logo-main.svg" alt="svg logo of reutlingen university" height="150">
-  </a>
     </br>
     (Q1 2024)
 </p>
@@ -437,6 +434,9 @@
     </td>
     <td align="center" style="width:50%;">
       <img align="right" height="200" src="https://github.com/mklemmingen/mklemmingen/raw/main/boomChessGiffy.gif"  />
+      <a>
+        <img src="https://www.reutlingen-university.de/typo3conf/ext/rt_content/Resources/Public/Icons/logo-main.svg" alt="svg logo of reutlingen university" height="150">
+  </a>
   </td>
   </tr>
 
