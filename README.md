@@ -59,6 +59,9 @@
       </a>
     </td>
     <td align="center"  style="width:50%;">
+       <a>
+        <img src="https://github.com/mklemmingen/mklemmingen/blob/a15d7053dc4e591cd992797df398a85e531b7bf1/stateMachineDigitalerSchusszettel.png" alt="state machine of the digital schusszettel" height="150">
+      </a>
       <a>
         <img src="https://bcxp.de/wp-content/themes/bcxp/assets/img/logo.svg?original4" alt="svg logo of the cooperation company" height="150">
       </a>
