@@ -1,0 +1,131 @@
+@startuml
+!theme plain
+
+title Tablet Schusszettel Session State Machine
+
+[*] --> NOT_ALLOWED : invalid/missing token
+
+state NOT_ALLOWED {
+  NOT_ALLOWED : Status returned when
+  NOT_ALLOWED : token is invalid or missing
+  NOT_ALLOWED : --
+  NOT_ALLOWED : Methods: getStatus() + sync
+  NOT_ALLOWED : Returns: notAllowed()
+}
+
+state SCHUETZENMELDUNG {
+  SCHUETZENMELDUNG : Teams register their 3 shooters
+  SCHUETZENMELDUNG : for the current match
+  SCHUETZENMELDUNG : --
+  SCHUETZENMELDUNG : Entry: initializeForWettkampf()
+  SCHUETZENMELDUNG : Methods: submitSchuetzen(), getStatus() + sync
+  SCHUETZENMELDUNG : Handlers: handleSchuetzenmeldung()
+  SCHUETZENMELDUNG : Validates: exactly 3 shooters
+  SCHUETZENMELDUNG : Creates: empty Passen (1-5)
+}
+
+state SATZEINGABE {
+  SATZEINGABE : Teams enter shot data
+  SATZEINGABE : for current passe/set
+  SATZEINGABE : --
+  SATZEINGABE : Methods: submitSatz(), getStatus() + sync
+  SATZEINGABE : Handlers: handleSatzeingabe()
+  SATZEINGABE : Validates: 3 shooters' scores
+  SATZEINGABE : Updates: Passen with arrow data
+}
+
+state WARTE {
+  WARTE : Waiting for opponent team
+  WARTE : to complete their shots
+  WARTE : --
+  WARTE : Methods: getStatus() + sync
+  WARTE : Handlers: handleWarte()
+  WARTE : Checks: opponent status
+  WARTE : Synchronizes: with opponent progress
+}
+
+state WETTKAMPF_ENDE {
+  WETTKAMPF_ENDE : Competition day finished
+  WETTKAMPF_ENDE : All matches completed
+  WETTKAMPF_ENDE : --
+  WETTKAMPF_ENDE : Methods: getStatus() + sync
+  WETTKAMPF_ENDE : Handlers: handleEnde()
+  WETTKAMPF_ENDE : Shows: final match results
+  WETTKAMPF_ENDE : Cleanup: session data
+}
+
+NOT_ALLOWED --> SCHUETZENMELDUNG : valid token\ninitializeForWettkampf()
+
+SCHUETZENMELDUNG --> SATZEINGABE : submitSchuetzen()\n3 shooters registered\nstatus = SATZEINGABE
+
+SATZEINGABE --> WARTE : submitSatz()\nteam completed passe\nopponent not ready
+
+SATZEINGABE --> SATZEINGABE : submitSatz()\nboth teams ready\nmatch continues\nnext passe
+
+WARTE --> SATZEINGABE : opponent ready\nmatch continues\nsynchronizeSession()
+
+WARTE --> SCHUETZENMELDUNG : both teams ready\nmatch complete\nnext match available\nadvanceToNextMatchOrEnd()
+
+WARTE --> WETTKAMPF_ENDE : both teams ready\nmatch complete\nno more matches\nadvanceToNextMatchOrEnd()
+
+SCHUETZENMELDUNG --> WETTKAMPF_ENDE : no more matches\nadvanceToNextMatchOrEnd()
+
+note top of SATZEINGABE
+submitSatz() logic:
+- Save shot data for 3 shooters
+- Check opponent status
+- If opponent not WARTE: go to WARTE
+- If opponent WARTE: check match completion
+  - Match complete: advance both teams
+  - Match continues: next passe for both
+
+getStatus() + sync on EVERY call:
+- synchronizeSession(updateDatabase=true)
+- May auto-advance state if out of sync
+end note
+
+note right of WARTE
+handleWarte() checks:
+- Re-read session status from DB
+- If status changed: handle new status
+- Otherwise: wait for opponent
+- Uses SyncComponent for consistency
+
+Every getStatus() triggers sync!
+end note
+
+note bottom of WETTKAMPF_ENDE
+Admin methods (callable from ANY state):
+- initializeForWettkampf()
+- deleteForWettkampf() 
+- reTokenize()
+- generateSchusszettelSessions() + sync
+  (updateDatabase=true - same as users!)
+
+Both admin and user sync now update DB:
+- Ensures consistency across all interfaces
+- Admin actions can trigger state corrections
+- No difference between user/admin sync behavior
+end note
+
+state SyncLayer {
+  state "SyncComponent.synchronizeSession()" as sync_comp
+  sync_comp : Called on EVERY getStatus()
+  sync_comp : User calls: updateDatabase=true
+  sync_comp : Admin calls: updateDatabase=true
+  sync_comp : --
+  sync_comp : • Validates current match
+  sync_comp : • Finds correct match if wrong
+  sync_comp : • Updates passe numbers
+  sync_comp : • Sets correct opponent
+  sync_comp : • May trigger state transitions!
+  sync_comp : • ALWAYS updates DB when corrections needed
+}
+
+NOT_ALLOWED -[hidden]-> sync_comp
+SCHUETZENMELDUNG -[hidden]-> sync_comp
+SATZEINGABE -[hidden]-> sync_comp
+WARTE -[hidden]-> sync_comp
+WETTKAMPF_ENDE -[hidden]-> sync_comp
+
+@enduml
