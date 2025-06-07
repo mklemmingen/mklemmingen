@@ -4,7 +4,7 @@
 <div style="display: flex; align-items: center; border: 1px solid #ccc; border-radius: 10px; padding: 15px; margin: 20px 0;">
   <div>
     <p>In the following categories, all current and former projects are listed in respect to their finish date and, if applicable, open-source license.</p>
-    <p>If you have any project you would like to collaborate on, a request or just want to talk - please send a quick message to: <strong>contactmarty.certify938@passinbox.com or on Discord via Schmorty54</strong></p>
+    <p>If you have any project you would like to collaborate on, a request or just want to talk - please send a quick message to: <strong>contactmarty.certify938@passinbox.com</strong> or on Discord via <strong>Schmorty54</strong></p>
   </div>
 </div>
 
