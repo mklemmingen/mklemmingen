@@ -14,6 +14,29 @@
 
 <tr>
     <td style="width:50%;">
+      <h3>LogChirpy - ornithological archival app</h3>
+       <p> 🔄 Ongoing Develoment </p>
+      <p>🌐 AGPL-3.0 License</p>
+      <p><strong>Tech:</strong> TensorflowJs, Typescript, Javascript, React Native, Expo, SQL, Firebase, Relational Databasing, Computer Vision, Batch Scripts, Android and Ios Building</p>
+      <p><strong>Time:</strong> Q2-Q3 2025</p>
+      <p>Mobile app to live-camera-feed identify birds, computed completly local, archive sightings, identify on picture & sounds after the fact, synchronise logs and display visually. Uses a mix of wrapping mobile object detection and classification with converted open-source models. Optionally syncs to firestore with authentication and DSGVO-conformity.</p>
+      <a href="https://github.com/mklemmingen/LogChirpy">
+        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=LogChirpy&color=brown&logo=github" alt="GitHub Repo">
+      </a>
+    </td>
+    <td align="center"  style="width:50%;">
+      <a>
+        <img src="https://github.com/mklemmingen/mklemmingen/blob/2e0097a5f41866463d8746eed09821d5a46f3e6e/LogChirpy%20(2).gif" alt="gif of working LogChirpy Object Detection and Classification" height="150">
+      </a>
+      <a>
+        <img src="https://www.reutlingen-university.de/typo3conf/ext/rt_content/Resources/Public/Icons/logo-main.svg" alt="svg logo of reutlingen university" height="150">
+    </a>
+    </td>
+  
+  </tr>
+
+<tr>
+    <td style="width:50%;">
       <h3> Customer CV & Framework for a HR Automation Acquisition Evaluation Tool</h3>
        <p>🔄 Ongoing Develoment</p>
       <p>All Rights included, Property of github.com/Wumbatz</p>
@@ -71,29 +94,6 @@
         <img src="https://www.reutlingen-university.de/typo3conf/ext/rt_content/Resources/Public/Icons/logo-main.svg" alt="svg logo of reutlingen university" height="150">
       </a>
     </td>
-  </tr>
-
-<tr>
-    <td style="width:50%;">
-      <h3>LogChirpy - ornithological archival app</h3>
-       <p> 🔄 Ongoing Develoment </p>
-      <p>🌐 AGPL-3.0 License</p>
-      <p><strong>Tech:</strong> TensorflowJs, Typescript, Javascript, React Native, Expo, SQL, Firebase, Relational Databasing, Computer Vision, Batch Scripts, Android and Ios Building</p>
-      <p><strong>Time:</strong> Q2-Q3 2025</p>
-      <p>Mobile app to live-camera-feed identify birds, computed completly local, archive sightings, identify on picture & sounds after the fact, synchronise logs and display visually. Uses a mix of wrapping mobile object detection and classification with converted open-source models. Optionally syncs to firestore with authentication and DSGVO-conformity.</p>
-      <a href="https://github.com/mklemmingen/LogChirpy">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=LogChirpy&color=brown&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-    <td align="center"  style="width:50%;">
-      <a>
-        <img src="https://github.com/mklemmingen/mklemmingen/blob/2e0097a5f41866463d8746eed09821d5a46f3e6e/LogChirpy%20(2).gif" alt="gif of working LogChirpy Object Detection and Classification" height="150">
-      </a>
-      <a>
-        <img src="https://www.reutlingen-university.de/typo3conf/ext/rt_content/Resources/Public/Icons/logo-main.svg" alt="svg logo of reutlingen university" height="150">
-    </a>
-    </td>
-  
   </tr>
 
 
