@@ -50,6 +50,8 @@
         <img src="https://img.shields.io/static/v1?label=Wambutz&message=DavidDPortfolio&color=red&logo=github" alt="GitHub Repo">
       </a>
       <p>Private</p>
+      <p>The following link is an endresult of the tool that creates, dynamically from a .csv on server-side so the non-technical customer can change questions and logic on the go, the complete questionaire with complex weighted calculation logic, creates a spider diagram, and asks a HuggingFace instance to natural language process the results into a suggestion (as a fun gimmick): </p>
+      <p> daviddronia.vercel.app/projects/hr-automation/results?session=session_1750366741142_gavrz2jos </p>
       <br>
     </td>
     <td align="center"  style="width:50%;">
