@@ -8,6 +8,10 @@
   </div>
 </div>
 
+<a href="https://github.com/mklemmingen/Papers">
+  <img src="https://img.shields.io/static/v1?label=mklemmingen&message=Papers&color=white&logo=science" alt="GitHub Repo of my Papers">
+</a>
+        
 <h3>Projects Chronologically</h3>
 
 <table style="width:100%;">
