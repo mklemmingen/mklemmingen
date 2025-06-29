@@ -19,7 +19,7 @@
 <tr>
     <td style="width:50%;">
       <h3>LogChirpy - ornithological archival app</h3>
-       <p> 🔄 Ongoing Develoment </p>
+       <p>✅ Finished and in Production/Archive</p>
       <p>🌐 AGPL-3.0 License</p>
       <p><strong>Tech:</strong> TensorflowJs, Typescript, Javascript, React Native, Expo, SQL, Firebase, Relational Databasing, Computer Vision, Batch Scripts, Android and Ios Building</p>
       <p><strong>Time:</strong> Q2-Q3 2025</p>
@@ -42,7 +42,7 @@
 <tr>
     <td style="width:50%;">
       <h3> Customer CV & Framework for a HR Automation Acquisition Evaluation Tool</h3>
-       <p>🔄 Ongoing Develoment</p>
+       <p>✅ Finished and in Production/Archive</p>
       <p>All Rights included, Property of github.com/Wumbatz</p>
       <p><strong>Tech:</strong> React, Typescript, Tailwind, serer-side-rendering architecture </p>
       <p><strong>Time:</strong> Q3 2025</p>
