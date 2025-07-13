@@ -593,6 +593,7 @@
 
 <h3 align="center">Thanks for scrolling!</h3>
 
+<!--
 <div align="center">
   <img src="https://profile-counter.glitch.me/mklemmingen/count.svg?" alt="Profile Visitor Counter" />
 </div>
