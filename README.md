@@ -39,6 +39,9 @@
       <p>
         System Local Large Language Model Architecture by mklemmingen
       </p>
+      <p>
+        Website of ALEE (Adaptive Learning in Economics Education): https://www.iwm-tuebingen.de/en/research/projects/ALEE?name=ALEE
+      </p>
       <a href="https://github.com/mklemmingen/ALEE">
         <img src="https://img.shields.io/static/v1?label=K-Laut&message=ALEE&color=pink&logo=github" alt="GitHub Repo">
       </a>
