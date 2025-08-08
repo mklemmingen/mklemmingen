@@ -48,6 +48,8 @@
     </td>
     <td align="center"  style="width:50%;">
       <img src="https://ollama.com/public/ollama.png" alt="png logo of ollama" height="150">
+      <img src="https://www.iwm-tuebingen.de/_next/static/media/iwm-logo.1bc3d452.svg" alt="svg logo of the leibniz institut für wissensmedien" height="150">
+      <img src="https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg" alt="svg logo of the University of Tübingen" height="150">
     </td>
   
   </tr>
