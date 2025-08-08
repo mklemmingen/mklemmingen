@@ -56,16 +56,17 @@
 <tr>
     <td style="width:50%;">
       <h3>Grub2-timeForScience theme</h3>
-       <p> Design Time!</p>
+       <p> Currently in Design Creation Phase</p>
       <p>🌐 GNU GENERAL PUBLIC LICENSE (since grub2 themes has it aswell) </p>
-      <p><strong>Tech:</strong> Linux with a little grub customization sprinkled on top</p>
+      <p><strong>Tech:</strong> Grub</p>
       <p><strong>Time:</strong> Q3 2025</p>
-      <p>Just a little nerdy theme I designed as a heterogen mixture of different STEM fields</p>
+      <p> Sleek minimal modern design as a heterogen mixture of different STEM fields</p>
       <a href="https://github.com/mklemmingen/Grub2-timeForScience">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=Grub2-timeForScience&color=gray&logo=github" alt="GitHub Repo">
       </a>
     </td>
     <td align="center"  style="width:50%;">
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F016%2F828%2F098%2Flarge_2x%2Fabstract-topographic-map-background-abstract-topographic-map-background-imitation-of-a-geographical-map-geographic-map-conceptual-design-elegant-background-for-presentations-free-vector.jpg&f=1&nofb=1&ipt=01994c5346f8c565ca9fc2a110523e817449501c339003d176608e3979202206" alt="abstract vector topographic mountian image representing gelogical science meeting sleek modern design. from vecteezy." height="150">
     </td>
   
   </tr>
