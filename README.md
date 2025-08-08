@@ -18,7 +18,7 @@
 
 <tr>
     <td style="width:50%;">
-      <h3> Multi-layered LLMs educational question generator : ALEE University of Tübingen </h3>
+      <h3> Multi-layered LLMs educational question generator : Leibniz-Institut für Wissensmedien | University of Tübingen </h3>
        <p> In Development through a Research Lab of https://github.com/k-laut </p>
       <p>🌐 MIT </p>
       <p><strong>Tech:</strong> Python, OLLAMA, Shell Scripts, various open-source small language models </p>
