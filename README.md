@@ -386,7 +386,7 @@
       <h3>BoardGame Jam Framework (Blank, Free to Use!)</h3>
       <p> ✅ Finished and in Production/Archive </p>
       <p>🌐 AGPL-3.0 License</p>
-      <p><strong>Tech:</strong> Java</p>
+      <p><strong>Tech:</strong> Java, LibGDX</p>
       <p><strong>Time:</strong> Q3 2024</p>
       <a href="https://github.com/mklemmingen/GameJamFramework">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=BareBoardGameJam&color=purple&logo=github" alt="GitHub Repo">
@@ -404,7 +404,7 @@
       <h3>BoardGame Jam Framework (Chess, Free to Use!)</h3>
       <p> ✅ Finished and in Production/Archive </p>
       <p>🌐 AGPL-3.0 License</p>
-      <p><strong>Tech:</strong> Java</p>
+      <p><strong>Tech:</strong> Java, LibGDX</p>
       <p><strong>Time:</strong> Q3 2024</p>
       <a href="https://github.com/mklemmingen/GameJamChess">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=GameJamChess&color=green&logo=github" alt="GitHub Repo">
@@ -422,7 +422,7 @@
       <h3>BoardGame Jam Framework (Checkers, Free to Use!)</h3>
       <p> ✅ Finished and in Production/Archive </p>
       <p>🌐 AGPL-3.0 License</p>
-      <p><strong>Tech:</strong> Java</p>
+      <p><strong>Tech:</strong> Java, LibGDX</p>
       <p><strong>Time:</strong> Q3 2024</p>
       <a href="https://github.com/mklemmingen/GameJamCheckers">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=GameJamCheckers&color=red&logo=github" alt="GitHub Repo">
