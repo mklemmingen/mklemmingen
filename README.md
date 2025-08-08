@@ -14,7 +14,38 @@
         
 <h3>Projects Chronologically</h3>
 
+Educational AI system that takes in a informational text as well as educational parameters to create refined questions.
+It uses multilayered small language model bouncing to generate expert-refined questions
+(currently set to 3 per Request).
+The system follows a three-layered server architecture (Caller -> Generator -> Experts) defined in SYSARCH.md
+with modular prompt construction from ALEE Tübingen defined educational question parameters
+and intelligent CSV conversion fallbacks.
+
+
 <table style="width:100%;">
+
+<tr>
+    <td style="width:50%;">
+      <h3> Multi-layered LLMs educational question generator : ALEE University of Tübingen </h3>
+       <p> In Development through a Research Lab of https://github.com/k-laut </p>
+      <p>🌐 MIT </p>
+      <p><strong>Tech:</strong> Python, OLLAMA, Shell Scripts, various open-source small language models </p>
+      <p><strong>Time:</strong> Q3 2025</p>
+      <p>
+        Educational AI system that takes in a informational text as well as educational parameters to create refined questions.
+        It uses multilayered small language model bouncing to generate expert-refined questions.
+        The system follows a three-layered server architecture (Caller -> Generator -> Experts) 
+        with modular prompt construction from ALEE Tübingen defined educational question parameters.
+      </p>
+      <a href="https://github.com/mklemmingen/ALEE">
+        <img src="https://img.shields.io/static/v1?label=K-Laut&message=ALEE&color=pink&logo=github" alt="GitHub Repo">
+      </a>
+    </td>
+    <td align="center"  style="width:50%;">
+    </td>
+  
+  </tr>
+
 
 <tr>
     <td style="width:50%;">
