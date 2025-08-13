@@ -15,7 +15,8 @@
 <h3>Projects Chronologically</h3>
 
 <table style="width:100%;">
-
+  
+<!---
 <tr>
     <td style="width:50%;">
       <h3> Multi-layered LLMs educational question generator : Leibniz-Institut für Wissensmedien | University of Tübingen </h3>
@@ -54,6 +55,7 @@
   
   </tr>
 
+-->
 
 <tr>
     <td style="width:50%;">
