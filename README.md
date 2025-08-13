@@ -15,6 +15,29 @@
 <h3>Projects Chronologically</h3>
 
 <table style="width:100%;">
+
+<tr>
+    <td style="width:50%;">
+      <h3> HEIDI | JS13kGAMES competition Entry</h3>
+       <p> In Development </p>
+      <p><strong>Tech:</strong> Javascript </p>
+      <p><strong>Time:</strong> Q3 2025</p>
+      <p>
+        Heidi is a 2.5D Wolfensteinesque arcade shooter game running from a 13KB HTML file that lets you fight FIPV Viruses and the occasional mice as HEIDI.
+      </p>
+      <p>
+        Levels with Waves, Bosses, Health, Ultimate Weapon, Start and Endscreen, Randomness in wave spawns for replayability, sound design with slight self-melodic creation
+      </p>
+      <a href="https://github.com/mklemmingen/Heidi">
+        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=HEIDI&color=black&logo=game" alt="GitHub Repo">
+      </a>
+    </td>
+    <td align="center"  style="width:50%;">
+    </td>
+  
+  </tr>
+
+
   
 <!---
 <tr>
