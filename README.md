@@ -39,48 +39,60 @@
   </tr>
 -->
 
-  
-<!---
-<tr>
-    <td style="width:50%;">
-      <h3> Multi-layered LLMs educational question generator : Leibniz-Institut für Wissensmedien | University of Tübingen </h3>
-       <p> In Development through a Research Lab of https://github.com/k-laut </p>
-      <p>🌐 MIT </p>
-      <p><strong>Tech:</strong> Python, OLLAMA, Shell Scripts, various open-source small language models </p>
-      <p><strong>Time:</strong> Q3 2025</p>
-      <p>
-        Educational AI system that takes in a informational text as well as educational parameters to create refined questions.
-      </p>
-      <p>
-        It uses multilayered small language model bouncing to generate expert-refined questions.
-      </p>
-      <p>
-        The system follows a three-layered server architecture (Caller -> Generator -> Experts) 
-        with modular prompt construction from ALEE Tübingen defined educational question parameters.
-      </p>
-      <p>
-        Stakeholder Managment, Data Analytics and Prompt Design by K-Laut 
-      </p>
-      <p>
-        System Local Large Language Model Architecture by mklemmingen
-      </p>
-      <p>
-        Website of ALEE (Adaptive Learning in Economics Education): https://www.iwm-tuebingen.de/en/research/projects/ALEE?name=ALEE
-      </p>
-      <a href="https://github.com/mklemmingen/ALEE">
-        <img src="https://img.shields.io/static/v1?label=K-Laut&message=ALEE&color=pink&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-    <td align="center"  style="width:50%;">
-      <img src="https://ollama.com/public/ollama.png" alt="png logo of ollama" height="150">
-      <img src="https://www.iwm-tuebingen.de/_next/static/media/iwm-logo.1bc3d452.svg" alt="svg logo of the leibniz institut für wissensmedien" height="150">
-      <img src="https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg" alt="svg logo of the University of Tübingen" height="150">
-    </td>
-  
+  <tr>
+      <td style="width:50%;">
+        <h3>Educational Question Generation System using DSPy Multi-Agent Architecture | Leibniz-Institut für Wissensmedien |
+   University of Tübingen</h3>
+         <p>Research implementation for ALEE (Adaptive Learning in Economics Education) Lab | <a 
+  href="https://github.com/k-laut">K-Laut</a></p>
+        <p>🌐 MIT License</p>
+        <p><strong>Tech:</strong> DSPy, Python, OLLAMA, Pydantic, FastAPI, ROCm</p>
+        <p><strong>Period:</strong> Q3 2024 - Q1 2025</p>
+        <p>
+          Educational question generation system that processes text input and 39 educational parameters to produce three
+  questions per request. Uses DSPy framework to coordinate question generation and validation across multiple language model
+  servers.
+        </p>
+        <p>
+          Implementation consists of three processing layers: HTTP request handler, DSPy orchestrator running on port 8000,
+  and six expert validation modules running on dedicated servers (ports 8001-8007). Each expert evaluates questions based on
+  specific educational criteria including difficulty level, cognitive taxonomy, mathematical complexity, linguistic
+  obstacles, and instruction clarity.
+        </p>
+        <p>
+          The system processes requests through single-pass consensus rather than iterative refinement. Expert feedback is
+  aggregated using Pydantic models and questions are refined based on rating thresholds and format preservation rules. All
+  processing steps are logged with timestamps for research analysis.
+        </p>
+        <p>
+          Current performance: 85-90% successful question generation across four question types (multiple-choice,
+  single-choice, true-false, mapping). Processing time ranges from 25-70 seconds per request depending on parameter
+  complexity and text length.
+        </p>
+        <p>
+          <strong>Implementation roles:</strong><br/>
+          - Educational parameters and stakeholder coordination: K-Laut<br/>
+          - System architecture, PYdantic forms, software modules and DSPy implementation: mklemmingen
+        </p>
+        <p>
+          Part of ALEE research project: <a href="https://www.iwm-tuebingen.de/en/research/projects/ALEE">Adaptive Learning
+  in Economics Education</a>
+        </p>
+        <a href="https://github.com/mklemmingen/ALEE">
+          <img src="https://img.shields.io/static/v1?label=Research&message=Code&color=blue&logo=github" alt="GitHub 
+  Repository">
+        </a>
+      </td>
+      <td align="center" style="width:50%;">
+        <img src="https://ollama.com/public/ollama.png" alt="OLLAMA local LLM server" height="150">
+        <img src="https://www.iwm-tuebingen.de/_next/static/media/iwm-logo.1bc3d452.svg" alt="Leibniz-Institut für 
+  Wissensmedien" height="150">
+        <img src="https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg" 
+  alt="University of Tübingen" height="150">
+      </td>
   </tr>
--->
 
-<!---
+
 <tr>
     <td style="width:50%;">
       <h3>Grub2-timeForScience theme</h3>
@@ -98,7 +110,6 @@
     </td>
   
   </tr>
--->
 
 <tr>
     <td style="width:50%;">
