@@ -16,29 +16,6 @@
 
 <table style="width:100%;">
 
-<!---
-<tr>
-    <td style="width:50%;">
-      <h3> HEIDI | JS13kGAMES competition Entry</h3>
-       <p> In Development </p>
-      <p><strong>Tech:</strong> Javascript </p>
-      <p><strong>Time:</strong> Q3 2025</p>
-      <p>
-        Heidi is a 2.5D Wolfensteinesque arcade shooter game running from a 13KB HTML file that lets you fight FIPV Viruses and the occasional mice as HEIDI.
-      </p>
-      <p>
-        Levels with Waves, Bosses, Health, Ultimate Weapon, Start and Endscreen, Randomness in wave spawns for replayability, sound design with slight self-melodic creation
-      </p>
-      <a href="https://github.com/mklemmingen/Heidi">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=HEIDI&color=black&logo=game" alt="GitHub Repo">
-      </a>
-    </td>
-    <td align="center"  style="width:50%;">
-    </td>
-  
-  </tr>
--->
-
   <tr>
       <td style="width:50%;">
         <h3>Educational Question Generation System using DSPy Multi-Agent Architecture | Leibniz-Institut für Wissensmedien |
@@ -94,12 +71,11 @@
 
 <tr>
     <td style="width:50%;">
-      <h3>Grub2-timeForScience theme</h3>
-       <p> Currently in Design Creation Phase</p>
-      <p>🌐 GNU GENERAL PUBLIC LICENSE (since grub2 themes has it aswell) </p>
+      <h3>Grub2-sleekScience</h3>
+      <p>🌐 GNU GENERAL PUBLIC LICENSE </p>
       <p><strong>Tech:</strong> Grub</p>
       <p><strong>Time:</strong> Q3 2025</p>
-      <p> Sleek minimal modern design as a heterogen mixture of different STEM fields</p>
+      <p> minimal modern design for grub as a heterogen mixture of different STEM fields</p>
       <a href="https://github.com/mklemmingen/Grub2-timeForScience">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=Grub2-timeForScience&color=gray&logo=github" alt="GitHub Repo">
       </a>
