@@ -16,6 +16,7 @@
 
 <table style="width:100%;">
 
+<!---
 <tr>
     <td style="width:50%;">
       <h3> HEIDI | JS13kGAMES competition Entry</h3>
@@ -36,7 +37,7 @@
     </td>
   
   </tr>
-
+-->
 
   
 <!---
@@ -80,6 +81,7 @@
 
 -->
 
+<!---
 <tr>
     <td style="width:50%;">
       <h3>Grub2-timeForScience theme</h3>
@@ -97,7 +99,7 @@
     </td>
   
   </tr>
-
+<---
 
 <tr>
     <td style="width:50%;">
