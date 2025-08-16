@@ -23,7 +23,7 @@
          <p>Research implementation for ALEE (Adaptive Learning in Economics Education) Lab | <a 
   href="https://github.com/k-laut">K-Laut</a></p>
         <p><strong>Tech:</strong> DSPy, Python, OLLAMA, Pydantic, FastAPI, ROCm</p>
-        <p><strong>Period:</strong> Q3 2024 - Q1 2025</p>
+        <p><strong>Period:</strong> Q3 2025</p>
         <p>
           Educational question generation system that processes text input and 39 educational parameters to produce three
   questions per request. Uses DSPy framework to coordinate question generation and validation across multiple language model
