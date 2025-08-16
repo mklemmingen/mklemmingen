@@ -45,7 +45,6 @@
    University of Tübingen</h3>
          <p>Research implementation for ALEE (Adaptive Learning in Economics Education) Lab | <a 
   href="https://github.com/k-laut">K-Laut</a></p>
-        <p>🌐 MIT License</p>
         <p><strong>Tech:</strong> DSPy, Python, OLLAMA, Pydantic, FastAPI, ROCm</p>
         <p><strong>Period:</strong> Q3 2024 - Q1 2025</p>
         <p>
@@ -71,7 +70,7 @@
         </p>
         <p>
           <strong>Implementation roles:</strong><br/>
-          - Educational parameters and stakeholder coordination: K-Laut<br/>
+          - Educational parameters aggregation, Prompt planning and modelling: K-Laut<br/>
           - System architecture, PYdantic forms, software modules and DSPy implementation: mklemmingen
         </p>
         <p>
@@ -79,7 +78,7 @@
   in Economics Education</a>
         </p>
         <a href="https://github.com/mklemmingen/ALEE">
-          <img src="https://img.shields.io/static/v1?label=Research&message=Code&color=blue&logo=github" alt="GitHub 
+          <img src="https://img.shields.io/static/v1?label=Research&message=EducationalQuestionGenerationSystemusingDSPyMulti-AgentArchitecture&color=orange&logo=github" alt="GitHub 
   Repository">
         </a>
       </td>
