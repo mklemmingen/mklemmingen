@@ -24,27 +24,15 @@
   href="https://github.com/k-laut">K-Laut</a></p>
         <p><strong>Tech:</strong> DSPy, Python, OLLAMA, Pydantic, FastAPI, ROCm</p>
         <p><strong>Time:</strong> Q3 2025</p>
-        <p>
-          Educational question generation system that processes text input and 39 educational parameters to produce three
-  questions per request. Uses DSPy framework to coordinate question generation and validation across multiple language model
-  servers.
-        </p>
-        <p>
-          Implementation consists of three processing layers: HTTP request handler, DSPy orchestrator running on port 8000,
-  and six expert validation modules running on dedicated servers (ports 8001-8007). Each expert evaluates questions based on
-  specific educational criteria including difficulty level, cognitive taxonomy, mathematical complexity, linguistic
-  obstacles, and instruction clarity.
-        </p>
-        <p>
-          The system processes requests through single-pass consensus rather than iterative refinement. Expert feedback is
-  aggregated using Pydantic models and questions are refined based on rating thresholds and format preservation rules. All
-  processing steps are logged with timestamps for research analysis.
-        </p>
-        <p>
-          Current performance: 85-90% successful question generation across four question types (multiple-choice,
-  single-choice, true-false, mapping). Processing time ranges from 25-70 seconds per request depending on parameter
-  complexity and text length.
-        </p>
+<p>
+Educational question generation system leveraging DSPy's data-backed optimization to process text and 39 parameters across multiple language model servers, producing three validated questions per request.
+</p>
+<p>
+Six expert validation modules evaluate questions using structured Pydantic parsing for consistent data validation and aggregation. DSPy framework enables systematic prompt optimization and performance tracking across educational criteria including difficulty, cognitive taxonomy, and linguistic complexity.
+</p>
+<p>
+Performance: 85-90% success rate across four question types with 25-70 second processing times.
+</p>
         <p>
           <strong>Implementation roles:</strong><br/>
           - Educational parameters aggregation, Prompt planning and modelling: K-Laut<br/>
