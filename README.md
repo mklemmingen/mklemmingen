@@ -611,7 +611,13 @@ Implementation features include declarative processing modules with external pro
 
 <h3 align="center">Thanks for scrolling!</h3>
 
-<!--
 <div align="center">
   <img src="https://profile-counter.glitch.me/mklemmingen/count.svg?" alt="Profile Visitor Counter" />
 </div>
+
+[1] Khattab, O., Singhvi, A., Maheshwari, P., Zhang, Z., Santhanam, K., Vardhamanan, S., Haq, S., Sharma, A., Joshi, T. T., 
+Moazam, H., Miller, H., Zaharia, M., & Potts, C. (2024). DSPy: Compiling Declarative Language Model Calls into State-of-the-Art 
+Pipelines. In *The Twelfth International Conference on Learning Representations (ICLR 2024)*. 
+[OpenReview](https://openreview.net/forum?id=sY5N0zY5Od) | [ArXiv](https://arxiv.org/abs/2310.03714)
+
+[2] Colvin, S., Jolibois, E., Ramezani, H., Garcia Badaracco, A., Dorsey, T., Montague, D., Matveenko, S., Trylesinski, M., Runkle, S., Hewitt, D., Hall, A., & Plot, V. (2025). *Pydantic: Data validation using Python type hints* (Version 2.12.0) [Software]. [GitHub](https://github.com/pydantic/pydantic) | [Documentation](https://docs.pydantic.dev/latest/)
