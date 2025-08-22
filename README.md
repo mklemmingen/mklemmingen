@@ -611,9 +611,6 @@ Implementation features include declarative processing modules with external pro
 
 <h3 align="center">Thanks for scrolling!</h3>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mklemmingen/count.svg?" alt="Profile Visitor Counter" />
-</div>
 
 [1] Khattab, O., Singhvi, A., Maheshwari, P., Zhang, Z., Santhanam, K., Vardhamanan, S., Haq, S., Sharma, A., Joshi, T. T., 
 Moazam, H., Miller, H., Zaharia, M., & Potts, C. (2024). DSPy: Compiling Declarative Language Model Calls into State-of-the-Art 
