@@ -18,8 +18,7 @@
 
   <tr>
       <td style="width:50%;">
-        <h3>Educational Question Generation System using DSPy Multi-Agent Architecture | Leibniz-Institut für Wissensmedien |
-   University of Tübingen</h3>
+        <h3>Research: Educational Question Generation System for 9th-Grade Economics | using one-shot multi-layered small LMs, refined & validated through aggregated data-backed expert suggestions & their DSPy Chain-of-thought | PYdantic type-safety to JSON inbetween Levels | Leibniz-Institut für Wissensmedien | University of Tübingen</h3>
          <p>Research implementation for ALEE (Adaptive Learning in Economics Education) Lab | <a 
   href="https://github.com/k-laut">K-Laut</a></p>
         <p><strong>Tech:</strong> DSPy, Python, OLLAMA, Pydantic, FastAPI, ROCm</p>
