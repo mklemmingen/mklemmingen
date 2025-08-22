@@ -24,13 +24,13 @@
         <p><strong>Tech:</strong> DSPy, Python, OLLAMA, Pydantic, FastAPI, ROCm</p>
         <p><strong>Time:</strong> Q3 2025</p>
 <p>
-Educational question generation system leveraging DSPy's data-backed optimization to process text and 39 parameters across multiple language model servers, producing three validated questions per request.
+The system implements a three-layered educational architecture with single-pass processing: Caller -> | Orchestrator → Dedicated data backed generator -> Parallel Expert Validators -> Refinement Consensus | -> Callback and Result Save.
 </p>
 <p>
-Six expert validation modules evaluate questions using structured Pydantic parsing for consistent data validation and aggregation. DSPy framework enables systematic prompt optimization and performance tracking across educational criteria including difficulty, cognitive taxonomy, and linguistic complexity.
+The architecture utilizes language model coordination to replace iterative validation cycles with refining single-pass expert consensus.
 </p>
-<p>
-Performance: 85-90% success rate across four question types with 25-70 second processing times.
+<o>
+Implementation features include declarative processing modules with external prompt construction (prompt_builder.py) adapting to request parameters, type safety through validation schemas (Pydantic [2]), and comprehensive educational pipeline tracking (Result_Manager.py).
 </p>
         <p>
           <strong>Implementation roles:</strong><br/>
