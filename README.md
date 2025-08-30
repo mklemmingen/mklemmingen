@@ -225,7 +225,7 @@ Implementation features include declarative processing modules with external pro
     </td>
   </tr>
 
-<!--- Python script to recursively travers a directory structure and check all image files on likelyhood of nsfw by using machine learning -->
+<!--- Python script to recursively travers a directory structure and check all image files on likelyhood of nsfw by using machine learning
 <tr>
     <td style="width:50%;">
       <h3> cleanSmut </h3>
@@ -245,6 +245,7 @@ Implementation features include declarative processing modules with external pro
       </a>
     </td>
   </tr>
+-->
 
 <!--- Javascript Subprocess exif data sorting scripts into media&files -->
 <tr>
@@ -363,7 +364,7 @@ Implementation features include declarative processing modules with external pro
     </td>
   </tr>
 
-<!-- HIDmibbi -->
+<!-- HIDmibbi
   <tr>
     <td style="width:50%;">
       <h3>HIDmibbi</h3>
@@ -380,6 +381,7 @@ Implementation features include declarative processing modules with external pro
       <img src="https://github.com/mklemmingen/mklemmingen/raw/main/HIDmibbi.gif" alt="HIDmibbi" height="150">
     </td>
   </tr>
+-->
 
 <!-- BoardGame Jam Framework (Blank) -->
   <tr>
