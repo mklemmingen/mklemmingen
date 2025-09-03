@@ -62,7 +62,7 @@ Implementation features include declarative processing modules with external pro
       <p>🌐 GNU GENERAL PUBLIC LICENSE </p>
       <p><strong>Tech:</strong> Grub</p>
       <p><strong>Time:</strong> Q3 2025</p>
-      <p> minimal modern design for grub as a heterogen mixture of different STEM fields using programmable procedural graphics to showcase mathematical concepts. </p>
+      <p> minimal modern design for grub showcasing backgrounds with beautiful patterns from a lot of fields of research and development </p>
       <a href="https://github.com/mklemmingen/Grub2-sleekScience">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=Grub2-sleekScience&color=gray&logo=github" alt="GitHub Repo">
       </a>
