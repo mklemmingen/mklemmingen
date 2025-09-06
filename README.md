@@ -41,7 +41,7 @@
         - Template-driven API request generation with validation<br/>
         - Comprehensive audit logging and enterprise security
       </p>
-      <a href="https://github.com/yourusername/combadge">
+      <a href="https://github.com/mklemmingen/combadge">
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=ComBadge&color=blue&logo=github" alt="GitHub Repository">
       </a>
     </td>
