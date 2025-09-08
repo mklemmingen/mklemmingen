@@ -45,10 +45,7 @@
         <img src="https://img.shields.io/static/v1?label=mklemmingen&message=ComBadge&color=blue&logo=github" alt="GitHub Repository">
       </a>
     </td>
-    <td align="center" style="width:50%;">
-      <img src="https://ollama.com/public/ollama.png" alt="Ollama Local LLM Server" height="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Mercedes-Logo.svg" alt="Mercedes-Benz" height="120">
-    </td>
+
 </tr>
   <tr>
       <td style="width:50%;">
