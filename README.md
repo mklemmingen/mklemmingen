@@ -650,3 +650,7 @@ Pipelines. In *The Twelfth International Conference on Learning Representations 
 [OpenReview](https://openreview.net/forum?id=sY5N0zY5Od) | [ArXiv](https://arxiv.org/abs/2310.03714)
 
 [2] Colvin, S., Jolibois, E., Ramezani, H., Garcia Badaracco, A., Dorsey, T., Montague, D., Matveenko, S., Trylesinski, M., Runkle, S., Hewitt, D., Hall, A., & Plot, V. (2025). *Pydantic: Data validation using Python type hints* (Version 2.12.0) [Software]. [GitHub](https://github.com/pydantic/pydantic) | [Documentation](https://docs.pydantic.dev/latest/)
+
+For some free time shenanigans: 
+
+<a href="https://data.typeracer.com/pit/profile?user=mklemmingen&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=mklemmingen" border="0" alt="TypeRacer.com scorecard for user mklemmingen"/></a>
