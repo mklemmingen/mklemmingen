@@ -89,7 +89,7 @@ Implementation features include declarative processing modules with external pro
         <img src="https://github.com/mklemmingen/mklemmingen/blob/2e0097a5f41866463d8746eed09821d5a46f3e6e/LogChirpy%20(2).gif" alt="gif of working LogChirpy Object Detection and Classification" height="150">
       </a>
       <a>
-        <img src="https://www.reutlingen-university.de/typo3conf/ext/rt_content/Resources/Public/Icons/logo-main.svg" alt="svg logo of reutlingen university" height="150">
+        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
     </a>
     </td>
   
@@ -152,7 +152,7 @@ Implementation features include declarative processing modules with external pro
         <img src="http://app.bogenliga.de/assets/img/Logos/BL_Logo/Logo-fuer-Schriftkombination/BL-Logo-Right-Color.svg" alt="svg logo of the bogenliga" height="150">
       </a>
       <a>
-        <img src="https://www.reutlingen-university.de/typo3conf/ext/rt_content/Resources/Public/Icons/logo-main.svg" alt="svg logo of reutlingen university" height="150">
+        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
       </a>
     </td>
   </tr>
@@ -219,7 +219,7 @@ Implementation features include declarative processing modules with external pro
       </a>
         <img src="https://github.com/mklemmingen/mklemmingen/blob/main/filmakadadmie.svg" alt="svg logo of the cooperation hochschule" height="150">
         <a>
-        <img src="https://www.reutlingen-university.de/typo3conf/ext/rt_content/Resources/Public/Icons/logo-main.svg" alt="svg logo of reutlingen university" height="150">
+        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
     </a>
     </td>
   </tr>
@@ -286,7 +286,7 @@ Implementation features include declarative processing modules with external pro
         <img src="Hypothese.jpeg" alt="Image showing a hypothese test" height="150">
       </a>
       <a>
-        <img src="https://www.reutlingen-university.de/typo3conf/ext/rt_content/Resources/Public/Icons/logo-main.svg" alt="svg logo of reutlingen university" height="150">
+        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
     </a>
     </td>
   </tr>
@@ -309,7 +309,7 @@ Implementation features include declarative processing modules with external pro
         <img src="https://img.youtube.com/vi/PLJR0d_Vv370_5z8SbQHiUYpTRRZ9-fPv3/0.jpg" alt="Youtube: Trailer zur Installation (Click me :>)" height="150">
       </a>
       <a>
-        <img src="https://www.reutlingen-university.de/typo3conf/ext/rt_content/Resources/Public/Icons/logo-main.svg" alt="svg logo of reutlingen university" height="150">
+        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
     </a>
     </td>
   </tr>
@@ -330,7 +330,7 @@ Implementation features include declarative processing modules with external pro
     <td align="center"  style="width:50%;">
       <img src="https://github.com/mklemmingen/mklemmingen/raw/main/OutdoorInfotainment.gif" alt="Outdoor Infotainment System" height="150">
       <a>
-        <img src="https://www.reutlingen-university.de/typo3conf/ext/rt_content/Resources/Public/Icons/logo-main.svg" alt="svg logo of reutlingen university" height="150">
+        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
     </a>
     </td>
   </tr>
@@ -358,7 +358,7 @@ Implementation features include declarative processing modules with external pro
     <td align="center"  style="width:50%;">
       <img src="https://github.com/mklemmingen/mklemmingen/raw/main/KatzenKaffee.gif" alt="KatzenKaffee" height="150">
       <a>
-        <img src="https://www.reutlingen-university.de/typo3conf/ext/rt_content/Resources/Public/Icons/logo-main.svg" alt="svg logo of reutlingen university" height="150">
+        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
     </a>
     </td>
   </tr>
@@ -474,7 +474,7 @@ Implementation features include declarative processing modules with external pro
    <td align="center" style="width:50%;">
      <img align="right" height="230" src="https://github.com/mklemmingen/mklemmingen/raw/main/StudyProjects2024Q12.gif"  />
      <a>
-        <img src="https://www.reutlingen-university.de/typo3conf/ext/rt_content/Resources/Public/Icons/logo-main.svg" alt="svg logo of reutlingen university" height="150">
+        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
   </a>
     </td>
   </tr>
@@ -507,7 +507,7 @@ Implementation features include declarative processing modules with external pro
     <td align="center" style="width:50%;">
       <img align="right" height="200" src="https://github.com/mklemmingen/mklemmingen/raw/main/boomChessGiffy.gif"  />
       <a>
-        <img src="https://www.reutlingen-university.de/typo3conf/ext/rt_content/Resources/Public/Icons/logo-main.svg" alt="svg logo of reutlingen university" height="150">
+        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
   </a>
   </td>
   </tr>
@@ -582,7 +582,7 @@ Implementation features include declarative processing modules with external pro
     <td align="center" style="width:50%;">
       <img align="right" height="200" src="https://github.com/mklemmingen/hangman-2/blob/e97240877eaf6d5c9ca147802d78cb2639509e25/hangman2_intro.gif"  />
       <a>
-        <img src="https://www.reutlingen-university.de/typo3conf/ext/rt_content/Resources/Public/Icons/logo-main.svg" alt="svg logo of reutlingen university" height="150">
+        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
   </a>
     </td>
   </tr>
