@@ -16,37 +16,6 @@
 
 <table style="width:100%;">
 
-  
-<tr>
-    <td style="width:50%;">
-      <h3>ComBadge: Natural Language to API Interface | Local LLM-powered email & command processing with Chain-of-Though</h3>
-       <p>Enterprise desktop application for management automation | Star Trek ComBadge inspired NLP interface</p>
-      <p><strong>Tech:</strong> Python, CustomTkinter, Ollama, Qwen 2.5-14B, Pydantic, SQLite, Requests</p>
-      <p><strong>Time:</strong> Q4 2025</p>
-      <p>
-      The system implements a three-tier local architecture with real-time processing: Input Processing -> | NLP Engine → Intent Classification & Entity Extraction -> Template Selection & JSON Generation -> Human Approval Workflow | -> Authenticated API Execution & Audit Logging.
-      </p>
-      <p>
-      The architecture utilizes local language models with transparent Chain-of-Thought reasoning to convert unstructured management communications and user NL commands into structured API requests with complete data privacy.
-      Implementation features include single unified text input interface, real-time LLM streaming with semantic highlighting, template-based JSON generation with validation, comprehensive audit trails, and offline-first operation with no cloud dependencies. 
-      </p>
-      <p>
-        The displayed framework is the bare NLP 2 API solution without any configuration to existing systems. No actual api documentation was used in documentating and planning this repo. It was created outside of work-time and is inspired by the need of real-world systems to have fully-private non-cloud solutions for intent detection and json population for process optimization and automation. As such, you are free to fork and use this repo in the state in which it is here while crediting is required. The system will not receive bug fixes or changes that could correlate to real world enterprise patterns.
-      </p>
-      <p>
-        <strong>Key Features:</strong><br/>
-        - Natural language email and command processing<br/>
-        - Local Qwen 2.5-14B model with Chain-of-Thought visualization<br/>
-        - Human-in-the-loop approval with request preview and editing<br/>
-        - Template-driven API request generation with validation<br/>
-        - Comprehensive audit logging and enterprise security
-      </p>
-      <a href="https://github.com/mklemmingen/combadge">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=ComBadge&color=blue&logo=github" alt="GitHub Repository">
-      </a>
-    </td>
-
-</tr>
   <tr>
       <td style="width:50%;">
         <h3>Research: Educational Question Generation System for 9th-Grade Economics | using one-shot multi-layered small LMs, refined & validated through aggregated data-backed expert suggestions & their DSPy Chain-of-thought | PYdantic type-safety to JSON inbetween Levels | Leibniz-Institut für Wissensmedien | University of Tübingen</h3>
@@ -654,3 +623,36 @@ Pipelines. In *The Twelfth International Conference on Learning Representations 
 For some free time shenanigans: 
 
 <a href="https://data.typeracer.com/pit/profile?user=mklemmingen&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=mklemmingen" border="0" alt="TypeRacer.com scorecard for user mklemmingen"/></a>
+
+
+<!---
+<tr>
+    <td style="width:50%;">
+      <h3>ComBadge: Natural Language to API Interface | Local LLM-powered email & command processing with Chain-of-Though</h3>
+       <p>Enterprise desktop application for management automation | Star Trek ComBadge inspired NLP interface</p>
+      <p><strong>Tech:</strong> Python, CustomTkinter, Ollama, Qwen 2.5-14B, Pydantic, SQLite, Requests</p>
+      <p><strong>Time:</strong> Q4 2025</p>
+      <p>
+      The system implements a three-tier local architecture with real-time processing: Input Processing -> | NLP Engine → Intent Classification & Entity Extraction -> Template Selection & JSON Generation -> Human Approval Workflow | -> Authenticated API Execution & Audit Logging.
+      </p>
+      <p>
+      The architecture utilizes local language models with transparent Chain-of-Thought reasoning to convert unstructured management communications and user NL commands into structured API requests with complete data privacy.
+      Implementation features include single unified text input interface, real-time LLM streaming with semantic highlighting, template-based JSON generation with validation, comprehensive audit trails, and offline-first operation with no cloud dependencies. 
+      </p>
+      <p>
+        The displayed framework is the bare NLP 2 API solution without any configuration to existing systems. No actual api documentation was used in documentating and planning this repo. It was created outside of work-time and is inspired by the need of real-world systems to have fully-private non-cloud solutions for intent detection and json population for process optimization and automation. As such, you are free to fork and use this repo in the state in which it is here while crediting is required. The system will not receive bug fixes or changes that could correlate to real world enterprise patterns.
+      </p>
+      <p>
+        <strong>Key Features:</strong><br/>
+        - Natural language email and command processing<br/>
+        - Local Qwen 2.5-14B model with Chain-of-Thought visualization<br/>
+        - Human-in-the-loop approval with request preview and editing<br/>
+        - Template-driven API request generation with validation<br/>
+        - Comprehensive audit logging and enterprise security
+      </p>
+      <a href="https://github.com/mklemmingen/combadge">
+        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=ComBadge&color=blue&logo=github" alt="GitHub Repository">
+      </a>
+    </td>
+
+</tr>
