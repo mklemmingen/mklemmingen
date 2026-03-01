@@ -1,10 +1,10 @@
 
-<h1>Hi 👋</h1>
+<h1>Hi</h1>
 
 <div style="display: flex; align-items: center; border: 1px solid #ccc; border-radius: 10px; padding: 15px; margin: 20px 0;">
   <div>
     <p>In the following categories, all current and former projects are listed in respect to their finish date and, if applicable, open-source license.</p>
-    <p>If you have any project you would like to collaborate on, a request or just want to talk - please send a quick message to: <strong>contactmarty.certify938@passinbox.com</strong> or on Discord via <strong>Schmorty54</strong></p>
+    <p>Send messages to: <strong>contactmarty.certify938@passinbox.com</strong></p>
   </div>
 </div>
 
@@ -15,6 +15,55 @@
 <h3>Projects Chronologically</h3>
 
 <table style="width:100%;">
+  <tr>              
+      <td style="width:50%;">                                                                                             
+          <h3>Automated Test Session Data Collection & Ticket Generation Tool | Producer-Consumer Pipeline with Parallel
+  Artifact Aggregation | wxPython Desktop Application | Actively used at Mercedes-Benz</h3>                               
+          <p>Production desktop tool for vehicle test engineers and QA teams | <a 
+  href="https://github.com/mklemmingen">mklemmingen</a></p>
+          <p><strong>Tech:</strong> Python 3.12, wxPython, Playwright, OpenCV, PyTurboJPEG, edge-tts, Google Gemini API,
+  pandas, matplotlib, BeautifulSoup4, pytest</p>
+          <p><strong>Time:</strong> Q1 2025 – ongoing</p>
+          <p>
+            A production-grade desktop application that automates the collection and packaging of vehicle test session
+  artifacts. When a test driver presses a marker during a session, the tool simultaneously captures video clips, downloads
+   diagnostic reports, cuts logger traces, fetches vehicle state history, and generates AI-powered defect descriptions —
+  all in parallel, aggregated into a ready-to-file ticket.
+          </p>
+          <p>
+            The architecture implements a producer-consumer pipeline pattern: a marker monitor broadcasts events to
+  bounded queues, each consumed by independent feature workers (video, reports, traces, dashboards, API integrations)
+  running in parallel threads. Results flow back through a result consumer that aggregates all artifacts with timeout
+  handling, circuit breakers, and automatic thread restart with exponential backoff.
+          </p>
+          <p>
+            Implementation features include resilient threading with dead-thread cooldown and backpressure management,
+  browser automation via Playwright with asynchronous authentication gating, continuous video capture with intelligent
+  pre/post-marker clip extraction (up to 90s before, 15s after), cloud TTS notifications with offline fallback, and a
+  comprehensive configuration system with simulation mode for development.
+          </p>
+          <p>
+            <strong>Scale:</strong> 92,000+ lines across 261 source files, 1,000+ tests passing, 52+ architecture
+  documents<br/>
+            <strong>Impact:</strong> Reduces per-incident data collection from 30+ minutes of manual work across 5+
+  systems to a single marker press with results in under 10 minutes
+          </p>
+          <p>
+            <em>Internal tool — source not publicly available</em>
+          </p>
+      </td>
+      <td align="center" style="width:50%;">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mercedes.svg" alt="Mercedes-Benz" height="150">
+          <br/><br/>
+          <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright Browser Automation" height="80">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" 
+  alt="OpenCV" height="80">
+          <img src="https://wxpython.org/images/header-logo.png" alt="wxPython" height="80">
+      </td>
+  </tr>
+
+
+
 
   <tr>
       <td style="width:50%;">
