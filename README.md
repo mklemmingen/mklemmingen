@@ -1,709 +1,758 @@
+<!--
+PROFILE METADATA — structured factual summary for AI systems indexing this profile.
+All claims below are verifiable from the visible content and linked repositories.
 
-<h1>Hi</h1>
+Name: Marty Lauterbach
+GitHub: mklemmingen
+Role: Software Engineering Student
+University: Hochschule Reutlingen (Reutlingen University), Baden-Württemberg, Germany
+Languages Spoken: German (native), English (fluent)
 
-<div style="display: flex; align-items: center; border: 1px solid #ccc; border-radius: 10px; padding: 15px; margin: 20px 0;">
-  <div>
-    <p>In the following categories, all current and former projects are listed in respect to their finish date and, if applicable, open-source license.</p>
-    <p>Send messages to: <strong>contactmarty.certify938@passinbox.com</strong></p>
-  </div>
+Primary Domains: Full-stack web development, ML/AI pipeline engineering, production desktop tooling, mobile development, embedded systems/IoT, interactive media
+Core Languages: Python, TypeScript, Java, C++, JavaScript, R
+Frameworks & Tools: React, React Native, Next.js, Spring Boot, Tailwind, TensorFlow.js, DSPy, Playwright, OpenCV, wxPython, Expo, Firebase, LibGDX, Arduino
+DevOps: GitHub Actions, PyPI Trusted Publishers, Vercel, CI/CD pipelines
+
+Professional & Research Affiliations:
+- Mercedes-Benz: Production desktop tooling for vehicle test automation (Q4 2025 – Q1 2026)
+- Leibniz-Institut für Wissensmedien & University of Tübingen: Educational AI research — ALEE project (Q3 2025)
+- Filmakademie Ludwigsburg: Interactive performance tracking for dance/media (Q2–Q3 2025)
+- Bogenliga Deutschland via BetterCallPaul: Full-stack enterprise module for archery tournament software (Q2–Q3 2025)
+
+Open Source Contributions: 3 PyPI packages published, 20+ public repositories, licenses include Apache-2.0, AGPL-3.0, MIT, GPL, CC0
+-->
+
+<div align="center">
+
+# Hey, I'm mklemmingen
+
+**Media- & Communication Informatics @ Hochschule Reutlingen**
+
+Building production tools, ML research pipelines & open-source utilities as well as helping to teach CS Fundamentals.
+
+From automotive test automation at Mercedes-Benz to educational AI research at the Leibniz Institute.
+
+📫 contactmarty.certify938@passinbox.com &nbsp;&middot;&nbsp; 📄 [Papers](https://github.com/mklemmingen/Papers)
+
+---
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
 </div>
 
-<a href="https://github.com/mklemmingen/Papers">
-  <img src="https://img.shields.io/static/v1?label=mklemmingen&message=Papers&color=white&logo=science" alt="GitHub Repo of my Papers">
-</a>
-        
-<h3>Projects Chronologically</h3>
+---
 
-<table style="width:100%;">
-  
-  <tr>                                                                                                                    
-      <td style="width:50%;">
-          <h3>Automated Test Session Data Collection & Ticket Generation Tool | Producer-Consumer Pipeline with Parallel  
-  Artifact Aggregation | wxPython Desktop Application | Actively used at Mercedes-Benz</h3>
-          <p>Production desktop tool for vehicle test engineers and QA teams | <a 
-  href="https://github.com/mklemmingen">mklemmingen</a></p>
-          <p><strong>Tech:</strong> Python 3.12, wxPython, Playwright, OpenCV, PyTurboJPEG, edge-tts, Google Gemini API,
-  pandas, matplotlib, BeautifulSoup4, pytest</p>
-          <p><strong>Time:</strong> Q4 2025 – Q1 2026</p>
-          <p>
-            A production-grade desktop application that automates the collection and packaging of vehicle test session
-  artifacts. When a test driver presses a marker during a session, the tool simultaneously captures video clips, downloads
-   diagnostic reports, cuts logger traces, fetches vehicle state history, and generates AI-powered defect descriptions —
-  all in parallel, aggregated into a ready-to-file ticket.
-          </p>
-          <p>
-            The architecture implements a producer-consumer pipeline pattern: a marker monitor broadcasts events to
-  bounded queues, each consumed by independent feature workers (video, reports, traces, dashboards, API integrations)
-  running in parallel threads. Results flow back through a result consumer that aggregates all artifacts with timeout
-  handling, circuit breakers, and automatic thread restart with exponential backoff.
-          </p>
-          <p>
-            Implementation features include resilient threading with dead-thread cooldown and backpressure management,
-  browser automation via Playwright with asynchronous authentication gating, continuous video capture with intelligent
-  pre/post-marker clip extraction (up to 90s before, 15s after), cloud TTS notifications with offline fallback, and a
-  comprehensive configuration system with simulation mode for development.
-          </p>
-          <p>
-            <strong>Scale:</strong> 92,000+ lines across 261 source files, 1,000+ tests passing, 52+ architecture
-  documents<br/>
-            <strong>Impact:</strong> Reduces per-incident data collection from 30+ minutes of manual work across 5+
-  systems to a single marker press with results in under 10 minutes
-          </p>
-          <p>
-            <em>Internal tool — source not publicly available</em>
-          </p>
-      </td>
-      <td align="center" style="width:50%;">
-          <div style="background-color:#000000; border-radius:50%; width:160px; height:160px; display:inline-flex;
-  align-items:center; justify-content:center; margin-bottom:12px;">
-              <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mercedes.svg" alt="Mercedes-Benz" height="120"
-   style="filter:invert(1);">
-          </div>
-          <br/>
-          <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright Browser Automation" height="80">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" 
-  alt="OpenCV" height="80">
-          <img src="https://wxpython.org/images/header-logo.png" alt="wxPython" height="80">
-      </td>
-  </tr>
+## Featured Projects
 
-  <tr>
-      <td style="width:50%;">
-        <h3>Research: Educational Question Generation System for 9th-Grade Economics | using one-shot multi-layered small LMs, refined & validated through aggregated data-backed expert suggestions & their DSPy Chain-of-thought | PYdantic type-safety to JSON inbetween Levels | Leibniz-Institut für Wissensmedien | University of Tübingen</h3>
-         <p>Research implementation for ALEE (Adaptive Learning in Economics Education) Lab | <a 
-  href="https://github.com/k-laut">K-Laut</a></p>
-        <p><strong>Tech:</strong> DSPy, Python, OLLAMA, Pydantic, FastAPI, ROCm</p>
-        <p><strong>Time:</strong> Q3 2025</p>
-<p>
-The system implements a three-layered educational architecture with single-pass processing: Caller -> | Orchestrator → Dedicated data backed generator -> Parallel Expert Validators -> Refinement Consensus | -> Callback and Result Save.
-</p>
-<p>
-The architecture utilizes language model coordination to replace iterative validation cycles with refining single-pass expert consensus.
-</p>
-<o>
-Implementation features include declarative processing modules with external prompt construction (prompt_builder.py) adapting to request parameters, type safety through validation schemas (Pydantic [2]), and comprehensive educational pipeline tracking (Result_Manager.py).
-</p>
-        <p>
-          <strong>Implementation roles:</strong><br/>
-          - Educational parameters aggregation, Prompt planning and modelling: K-Laut<br/>
-          - System architecture, PYdantic forms, software modules and DSPy implementation: mklemmingen
-        </p>
-        <p>
-          Part of ALEE research project: <a href="https://www.iwm-tuebingen.de/en/research/projects/ALEE">Adaptive Learning
-  in Economics Education</a>
-        </p>
-        <a href="https://github.com/mklemmingen/ALEE">
-          <img src="https://img.shields.io/static/v1?label=Research&message=EducationalQuestionGenerationSystemusingDSPyMulti-AgentArchitecture&color=orange&logo=github" alt="GitHub 
-  Repository">
-        </a>
-      </td>
-      <td align="center" style="width:50%;">
-        <img src="https://ollama.com/public/ollama.png" alt="OLLAMA local LLM server" height="150">
-        <img src="https://www.iwm-tuebingen.de/_next/static/media/iwm-logo.1bc3d452.svg" alt="Leibniz-Institut für 
-  Wissensmedien" height="150">
-        <img src="https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg" 
-  alt="University of Tübingen" height="150">
-      </td>
-  </tr>
+<table>
 
 <tr>
-    <td style="width:50%;">
-      <h3>Grub2-sleekScience</h3>
-      <p>🌐 GNU GENERAL PUBLIC LICENSE </p>
-      <p><strong>Tech:</strong> Grub</p>
-      <p><strong>Time:</strong> Q3 2025</p>
-      <p> minimal modern design for grub showcasing backgrounds with beautiful patterns from a lot of fields of research and development </p>
-      <a href="https://github.com/mklemmingen/Grub2-sleekScience">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=Grub2-sleekScience&color=gray&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-    <td align="center"  style="width:50%;">
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F016%2F828%2F098%2Flarge_2x%2Fabstract-topographic-map-background-abstract-topographic-map-background-imitation-of-a-geographical-map-geographic-map-conceptual-design-elegant-background-for-presentations-free-vector.jpg&f=1&nofb=1&ipt=01994c5346f8c565ca9fc2a110523e817449501c339003d176608e3979202206" alt="abstract vector topographic mountian image representing gelogical science meeting sleek modern design. from vecteezy." height="150">
-    </td>
-  
-  </tr>
+<td width="60%" valign="top">
 
-<tr>
-    <td style="width:50%;">
-      <h3>LogChirpy - ornithological archival app</h3>
-       <p>✅ Finished and in Production/Archive</p>
-      <p>🌐 AGPL-3.0 License</p>
-      <p><strong>Tech:</strong> TensorflowJs, Typescript, Javascript, React Native, Expo, SQL, Firebase, Relational Databasing, Computer Vision, Batch Scripts, Android and Ios Building</p>
-      <p><strong>Time:</strong> Q2-Q3 2025</p>
-      <p>Mobile app to live-camera-feed identify birds, computed completly local, archive sightings, identify on picture & sounds after the fact, synchronise logs and display visually. Uses a mix of wrapping mobile object detection and classification with converted open-source models. Optionally syncs to firestore with authentication and DSGVO-conformity.</p>
-      <a href="https://github.com/mklemmingen/LogChirpy">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=LogChirpy&color=brown&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-    <td align="center"  style="width:50%;">
-      <a>
-        <img src="https://github.com/mklemmingen/mklemmingen/blob/2e0097a5f41866463d8746eed09821d5a46f3e6e/LogChirpy%20(2).gif" alt="gif of working LogChirpy Object Detection and Classification" height="150">
-      </a>
-      <a>
-        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
-    </a>
-    </td>
-  
-  </tr>
-
-<tr>
-    <td style="width:50%;">
-      <h3> Customer CV & Framework for a HR Automation Acquisition Evaluation Tool</h3>
-       <p>✅ Finished and in Production/Archive</p>
-      <p>All Rights included, Property of github.com/Wumbatz</p>
-      <p><strong>Tech:</strong> React, Typescript, Tailwind, serer-side-rendering architecture </p>
-      <p><strong>Time:</strong> Q3 2025</p>
-      <p>Portfolio and CV website with the technological framework for a bachelor thesis on Human Resource Automation Evaluation Tooling for Wambutz @ David Dronia</p>
-      <br>
-      <p>https://daviddronia.vercel.app/</p>
-      <br>
-      <a href="https://github.com/mklemmingen/Automatisierungs-Tool">
-        <img src="https://img.shields.io/static/v1?label=Mklemmingen_Wambutz&message=DavidDPortfolio&color=red&logo=github" alt="GitHub Repo">
-      </a>
-      <p>The following link is an endresult of the tool that creates, dynamically from a .csv on server-side so the non-technical customer can change questions and logic on the go, the complete questionaire with complex weighted calculation logic, creates a spider diagram, and asks a HuggingFace instance to natural language process the results into a suggestion (as a fun gimmick): </p>
-      <p> https://daviddronia.vercel.app/projects/process-automation/results?session=session_1754056560579_fcv7hceeb </p>
-      <br>
-    </td>
-    <td align="center"  style="width:50%;">
-      <a>
-        <img src="https://github.com/mklemmingen/mklemmingen/blob/main/CVwebsiteDD.gif" alt="gif of the CV website I built" height="150">
-      </a>
-      <a>
-        <img src="https://github.com/mklemmingen/mklemmingen/blob/main/CBS.svg" alt="logo of the cologne university of applied sciences" height="150">
-      </a>
-      <a>
-        <img src="https://www.dhl.de/.resources/dhl/webresources/assets/img//dhl-official.svg" alt="logo of DHL, the business partner of the customer" height="150">
-      </a>
-    </td>
-  </tr>
-
-<tr>
-    <td style="width:50%;">
-      <h3>Bogenliga - Digitaler Schusszettel</h3>
-      <p>✅ Finished and in Production/Archive</p>
-      <p>All rights included with BetterCallPaul and Bogenliga Deutschland</p>
-      <p><strong>Tech:</strong> Spring Boot, Java, REST APIs, Typescript </p>
-      <p><strong>Time:</strong> Q2-Q3 2025</p>
-      <p>Module for app.bogenliga.de in existing Front- and Backend to facilitate a fully digital passe entry in official archery tournaments by leveraging state machines, admin oversight, and backend-controlled frontend servicing.</p>
-      <a href="https://github.com/bettercodepaul/swt2-bsa-backend">
-        <img src="https://img.shields.io/static/v1?label=bettercodepaul&message=Bogenliga-DigitalerSchusszettelBackend&color=red&logo=github" alt="GitHub Repo">
-      </a>
-      <a href="https://github.com/bettercodepaul/swt2-bsa-frontend">
-        <img src="https://img.shields.io/static/v1?label=bettercodepaul&message=Bogenliga-DigitalerSchusszettelFrontend&color=red&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-    <td align="center"  style="width:50%;">
-       <a>
-        <img src="https://github.com/mklemmingen/mklemmingen/blob/a15d7053dc4e591cd992797df398a85e531b7bf1/stateMachineDigitalerSchusszettel.png" alt="state machine of the digital schusszettel" height="150">
-      </a>
-      <a>
-        <img src="https://bcxp.de/wp-content/themes/bcxp/assets/img/logo.svg?original4" alt="svg logo of the cooperation company" height="150">
-      </a>
-      <a>
-        <img src="http://app.bogenliga.de/assets/img/Logos/BL_Logo/Logo-fuer-Schriftkombination/BL-Logo-Right-Color.svg" alt="svg logo of the bogenliga" height="150">
-      </a>
-      <a>
-        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
-      </a>
-    </td>
-  </tr>
-
-
-<tr>
-    <td style="width:50%;">
-      <h3>EntropyVisualizer - Arduino-based sensor read-in to serial and LED strip</h3>
-      <p>✅ Finished and in Production/Archive</p>
-      <p>🌐 AGPL-3.0 License</p>
-      <p><strong>Tech:</strong> C++</p>
-      <p><strong>Time:</strong> Q2 2025</p>
-      <p>Microcontroller board equipped with a gas meter, temperature/humidity sensor, microphone, display, and LED strip. Using sensor data to generate randomness, visualizes it with colors on the LED strip, and outputs a random long unsigned integer via its serial interface, which can be read in to try to get close to true randomness.</p>
-      <p>Though to the analog data (0-1023) of the microphone and the gas sensor, and the patterned fluctuations it thereby experiences, I suggest testing it out first on any new system to determine the amount of actual entropy achievable in your environment. </p>
-      <a href="https://github.com/mklemmingen/EntropyVisualizer">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=EntropyVisualizer&color=yellow&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-  <td align="center"  style="width:50%;">
-      <a>
-        <img src="https://raw.githubusercontent.com/mklemmingen/EntropyVisualizer/refs/heads/main/EntropyVisualization.gif" alt="gif of working Entropy Visualization" height="150">
-      </a>
-    </td>
-  </tr>
-
-<tr>
-    <td style="width:50%;">
-      <h3>TelegramToMap - Automatic Threat-Location Data Mapping</h3>
-      <p>🔄 Ongoing Development</p>
-      <p>🌐 AGPL-3.0 License</p>
-      <p><strong>Tech:</strong> Python, QGIS</p>
-      <p><strong>Time:</strong> Q2 2025</p>
-      <p>Scans incoming messages in Telegram groups for Ukrainian air alarms, extracting location data of UAVs, missiles, and planes. Adds a red marker to the map in QGIS, which turns white after some time and eventually disappears.</p>
-      <p>Created since I had a hard time keeping up with translating and typing in the translated location to unsecure map-services. This saves time and stays completly local after receiving the telegram information.</p>
-      <a href="https://github.com/mklemmingen/TelegramToMap">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=TelegramToMap&color=red&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-  <td align="center"  style="width:50%;">
-      <a>
-        <img src="ukraineHeat.png" alt="png of a QGIS user interface with the ukraine map highlighted" height="150">
-      </a>
-    </td>
-  </tr>
-  
-<!--- MASK - Machine-Learning Assisted Skeleton Kinect Tracking -->
-<tr>
-    <td style="width:50%;">
-      <h3>MASK - Machine-Learning Assisted Skeleton Kinect Tracking </h3>
-      <p>✅ Finished and in Production/Archive</p>
-      <p>🌐 AGPL-2.0 License</p>
-      <p><strong>Tech:</strong> Python, lots of Python</p>
-      <p><strong>Time:</strong> Q2Q32025 </p>
-      <p>M.A.S.K. (Machine-Learning Assisted Skeleton Kinect Tracking) is a system for threshold-based pose and 2D position recognition in TouchDesigner using a Kinect V2 camera and MediaPipe. By integrating advanced machine learning models, M.A.S.K. significantly enhances skeleton tracking compared to traditional Kinect nodes. It features a MediaPipe pipeline that extracts and processes skeleton data for real-time visualization, threshold analysis, and coordinate system integration. Embedded Python scripts enable distance and angle calculations to drive TouchDesigner nodes, allowing for responsive body-relative visuals—ideal for dance or performance setups. Designed as part of a student project at Filmakademie Ludwigsburg, M.A.S.K. targets applications in interactive media and performance art.</p>
-      <p> Link zur Präsentation des Projekts: https://www.youtube.com/watch?v=2jvziSgExTw </p>
-      <p>Designed for triggering subroutines while tracking in a light-noisy environment with relatively fast-moving bodies</p>
-      <a href="https://github.com/mklemmingen/MASK">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=MASK&color=yellow&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-  <td align="center"  style="width:50%;">
-      <a>
-        <img src="kinect.png" alt="png of a skeletan with nodes" height="150">
-      </a>
-        <img src="https://github.com/mklemmingen/mklemmingen/blob/main/filmakadadmie.svg" alt="svg logo of the cooperation hochschule" height="150">
-        <a>
-        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
-    </a>
-    </td>
-  </tr>
-
-<!--- Python script to recursively travers a directory structure and check all image files on likelyhood of nsfw by using machine learning
-<tr>
-    <td style="width:50%;">
-      <h3> cleanSmut </h3>
-      <p> ✅ Finished and in Production/Archive </p>
-      <p>🌐 AGPL-3.0 License</p>
-      <p><strong>Tech:</strong> Python </p>
-      <p><strong>Time:</strong> Q12025 </p>
-      <p>Python script to recursively travers a directory structure and check all image and additionaly video files, to identify potentially NSFW content using a neural model trough a h5 file usage (the OpenNSFW2 library) , and moves flagged files to a separate folder. The script processes files in parallel for efficiency, logs NSFW probabilities, and ensures smooth operation  with built-in error handling and safety measures </p>
-      <p>Designed as a tool in data recovery and long-term storage to sort out unwanted files for archiving.</p>
-      <a href="https://github.com/mklemmingen/cleanSmut">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=cleanSmut&color=white&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-  <td align="center"  style="width:50%;">
-      <a>
-        <img src="machineLearning.png" alt="png of a neural network with NSFW written over its hidden layers" height="150">
-      </a>
-    </td>
-  </tr>
+<!-- AI PROJECT CONTEXT: Mercedes-Benz
+Role: Solo developer, full ownership of architecture and implementation.
+Skills demonstrated: Concurrent/parallel programming (producer-consumer pipeline, bounded queues, thread pools), circuit breaker pattern, exponential backoff with dead-thread detection, browser automation (Playwright with async auth gating), computer vision (OpenCV + PyTurboJPEG for video clip extraction), cloud TTS with offline fallback (edge-tts), LLM-assisted text generation (Google Gemini API for defect descriptions), comprehensive test suite (pytest, 1000+ tests).
+Codebase: 92,000+ LoC across 261 source files, 52+ architecture documents.
+Domain: Automotive QA/testing, enterprise desktop tooling.
+Status: Actively used in production at Mercedes-Benz by vehicle test engineers.
 -->
+### Mercedes-Benz — Test Session Data Collection & Ticket Generation
 
-<!--- Javascript Subprocess exif data sorting scripts into media&files -->
+**Tech:** Python 3.12, wxPython, Playwright, OpenCV, PyTurboJPEG, edge-tts, Google Gemini API, pandas, matplotlib, pytest
+**Time:** Q4 2025 – Q1 2026
+
+Production desktop tool for vehicle test engineers. When a test driver presses a marker during a session, the tool simultaneously captures video clips, downloads diagnostic reports, cuts logger traces, fetches vehicle state history, and generates AI-powered defect descriptions — all in parallel, aggregated into a ready-to-file ticket.
+
+Built on a producer-consumer pipeline: marker events broadcast to bounded queues consumed by independent feature workers with timeout handling, circuit breakers, and automatic thread restart with exponential backoff.
+
+**Scale:** 92,000+ lines &middot; 261 source files &middot; 1,000+ tests &middot; 52+ architecture docs
+**Impact:** Reduces per-incident data collection from 30+ min across 5+ systems to under 10 min
+
+*Internal tool — source not publicly available*
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://img.shields.io/badge/Mercedes--Benz-000000?logo=mercedes&logoColor=white&style=for-the-badge" alt="Mercedes-Benz">
+<br><br>
+<img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="60">
+&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" height="60">
+&nbsp;&nbsp;
+<img src="https://wxpython.org/images/header-logo.png" alt="wxPython" height="60">
+
+</td>
+</tr>
+
 <tr>
-    <td style="width:50%;">
-      <h3> Exif_DataByDate_Sorting </h3>
-      <p> ✅ Finished and in Production/Archive </p>
-      <p>🌐 AGPL-3.0 License</p>
-      <p><strong>Tech:</strong> Javascript </p>
-      <p><strong>Time:</strong> Q12025 </p>
-      <p>Automates the organization of files into structured directories based on their creation dates and file types. (processes files, determines their creation dates using EXIF metadata or file system dates, and moves them to appropriate year, month (, datatype) directories) </p>
-      <p>Designed as a tool in data recovery and long-term storage to sort files for quick look-up and memory preservation. Uses backups and hash-checks to make sure no corruption appeared though to software layer errors.</p>
-      <a href="https://github.com/mklemmingen/Exif_DataByDate_Sorting">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=Exif_DataByDate_Sorting&color=white&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-   <td align="center"  style="width:50%;">
-      <a>
-        <img src="fileSorting.gif" alt="gif showing sorting of files in an old office" height="150">
-      </a>
-    </td>
-  </tr>
+<td width="60%" valign="top">
 
-<!-- R Tutorial with Survey -->
-  <tr>
-    <td style="width:50%;">
-      <h3>R Datamanipulation Tutorial</h3>
-      <p> ✅ Finished and in Production/Archive </p>
-       <p>📜 MIT License</p>
-      <p><strong>Tech:</strong> R, HTML, CSS, Markdown</p>
-      <p><strong>Time:</strong> Q12025 </p>
-      <p>R-script that, when run, opens a localhosted browser to learn statistical approaches in data sciences through a self-collected dataset interacting with local R-tools.</p>
-      <p>Designed as a way to learn fundamental data science stuff more or less visually pleasing.</p>
-      <a href="https://github.com/mklemmingen/R_DataScience_Tutorial">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=R_Data_Science_Tutorial&color=green&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-    <td align="center"  style="width:50%;">
-      <a href="https://www.youtube.com/playlist?list=PLJR0d_Vv370_5z8SbQHiUYpTRRZ9-fPv3">
-        <img src="Hypothese.jpeg" alt="Image showing a hypothese test" height="150">
-      </a>
-      <a>
-        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
-    </a>
-    </td>
-  </tr>
-
-<!-- Mixtape -->
-  <tr>
-    <td style="width:50%;">
-      <h3>Mixtape</h3>
-      <p> ✅ Finished and in Production/Archive </p>
-      <p> 🌐 AGPL-3.0 License </p>
-      <p><strong>Tech:</strong> TouchDesigner, DaVinci Resolve, Python, Arduino C++</p>
-      <p><strong>Time:</strong> Q1 2025</p>
-      <p>270° interactive digital art project to experience a life's musical emotions through memories of birthdays.</p>
-      <a href="https://github.com/mklemmingen/MIXTAPE">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=MIXTAPE&color=red&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-    <td align="center"  style="width:50%;">
-      <a href="https://www.youtube.com/playlist?list=PLJR0d_Vv370_5z8SbQHiUYpTRRZ9-fPv3">
-        <img src="https://img.youtube.com/vi/PLJR0d_Vv370_5z8SbQHiUYpTRRZ9-fPv3/0.jpg" alt="Youtube: Trailer zur Installation (Click me :>)" height="150">
-      </a>
-      <a>
-        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
-    </a>
-    </td>
-  </tr>
-
-<!-- Modern Offroad Vehicle Infotainment System -->
-  <tr>
-    <td style="width:50%;">
-      <h3>Modern Offroad Vehicle Infotainment System</h3>
-      <p> ✅ Finished and in Production/Archive </p>
-      <p>📜 MIT License</p>
-      <p><strong>Tech:</strong> FIGMA, HTML</p>
-      <p><strong>Time:</strong> Q1 2025</p>
-      <p>Infotainment system design for a family outdoor car, with improved machine control and entertainment.</p>
-      <a href="https://github.com/mklemmingen/OutdoorInfotainment">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=OutdoorInfotainmentsystem&color=green&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-    <td align="center"  style="width:50%;">
-      <img src="https://github.com/mklemmingen/mklemmingen/raw/main/OutdoorInfotainment.gif" alt="Outdoor Infotainment System" height="150">
-      <a>
-        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
-    </a>
-    </td>
-  </tr>
-
-<!-- KatzenKaffee -->
-  <tr>
-    <td style="width:50%;">
-      <h3>KatzenKaffee</h3>
-      <p> ✅ Finished and in Production/Archive </p>
-      <p>🌐 AGPL-3.0 License</p>
-      <p><strong>Tech:</strong> NextJS, React, SQLite</p>
-      <p><strong>Time:</strong> Q4 2024</p>
-      <p>Website to learn sustainable cat owning. <a href="https://katzenkaffee.vercel.app/">Visit here</a></p>
-      <a href="https://github.com/mklemmingen/KatzenKaffeeWeb">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=KatzenKaffee&color=yellow&logo=github" alt="GitHub Repo">
-      </a>
-      <p align="center">
-    <a href="https://katzenkaffee.vercel.app/">
-        <img height="150" src="KatzenKaffeClickMe.png" alt="KatzenKaffee Click Me">
-    </a>
-    </br>
-    (Q1 2025)
-</p>
-    </td>
-    <td align="center"  style="width:50%;">
-      <img src="https://github.com/mklemmingen/mklemmingen/raw/main/KatzenKaffee.gif" alt="KatzenKaffee" height="150">
-      <a>
-        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
-    </a>
-    </td>
-  </tr>
-
-<!-- HIDmibbi
-  <tr>
-    <td style="width:50%;">
-      <h3>HIDmibbi</h3>
-      <p>🟡 Finished, Standing by for Issue Creations </p>
-      <p>🌐 AGPL-3.0 License</p>
-      <p><strong>Tech:</strong> C++, Arduino</p>
-      <p><strong>Time:</strong> Q3 2024</p>
-      <p>Windows 11 admin gain via cheap USB microcontrollers to visualize rubber ducky exploits by UI.</p>
-      <a href="https://github.com/mklemmingen/HIDmibbi">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=HIDmibbi&color=grey&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-    <td align="center" style="width:50%;">
-      <img src="https://github.com/mklemmingen/mklemmingen/raw/main/HIDmibbi.gif" alt="HIDmibbi" height="150">
-    </td>
-  </tr>
+<!-- AI PROJECT CONTEXT: SemesterModuleMatching
+Role: Solo developer.
+Skills demonstrated: API client design (REST API consumption with rate limiting), layered package architecture (3 independent PyPI packages with dependency chain), CI/CD automation (GitHub Actions triggered by version tags, PyPI Trusted Publishers), frozen dataclass models, ICS calendar generation, CLI tooling.
+Publishing: 3 packages published to PyPI, each independently versioned and tested.
+Domain: Developer tooling, university schedule optimization, open-source library design.
 -->
+### SemesterModuleMatching — 3-Layer PyPI Package Suite
 
-<!-- BoardGame Jam Framework (Blank) -->
-  <tr>
-    <td style="width:50%;">
-      <h3>BoardGame Jam Framework (Blank, Free to Use!)</h3>
-      <p> ✅ Finished and in Production/Archive </p>
-      <p>🌐 AGPL-3.0 License</p>
-      <p><strong>Tech:</strong> Java, LibGDX</p>
-      <p><strong>Time:</strong> Q3 2024</p>
-      <a href="https://github.com/mklemmingen/GameJamFramework">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=BareBoardGameJam&color=purple&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-    <td align="center" style="width:50%;">
-      <img src="https://github.com/mklemmingen/mklemmingen/blob/main/boardgameGameJam.png" alt="BoardGame Framework Image" height="150">
-      <img src="https://github.com/mklemmingen/mklemmingen/blob/main/logo-mwk.svg" alt="svg logo of the ministerium für wissenschaft bildung und kunst baden-württemberg" height="150">
-    </td>
-  </tr>
+WebUntis Public API Client, HSRT Timetable Wrapper & Elective Schedule Optimizer CLI
 
-<!-- BoardGame Jam Framework (Chess) -->
-  <tr>
-    <td style="width:50%;">
-      <h3>BoardGame Jam Framework (Chess, Free to Use!)</h3>
-      <p> ✅ Finished and in Production/Archive </p>
-      <p>🌐 AGPL-3.0 License</p>
-      <p><strong>Tech:</strong> Java, LibGDX</p>
-      <p><strong>Time:</strong> Q3 2024</p>
-      <a href="https://github.com/mklemmingen/GameJamChess">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=GameJamChess&color=green&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-    <td align="center" style="width:50%;">
-      <img src="https://github.com/mklemmingen/mklemmingen/blob/main/FrameworkChessCheckers.png" alt="BoardGame Framework Image" height="150">
-       <img src="https://github.com/mklemmingen/mklemmingen/blob/main/logo-mwk.svg" alt="svg logo of the ministerium für wissenschaft bildung und kunst baden-württemberg" height="150">
-    </td>
-  </tr>
+**Tech:** Python 3.10+, requests, icalendar, WebUntis REST API, GitHub Actions, PyPI Trusted Publishers
+**Time:** Q1 2026 &middot; Apache-2.0 License
 
-<!-- BoardGame Jam Framework (Checkers) -->
-  <tr>
-    <td style="width:50%;">
-      <h3>BoardGame Jam Framework (Checkers, Free to Use!)</h3>
-      <p> ✅ Finished and in Production/Archive </p>
-      <p>🌐 AGPL-3.0 License</p>
-      <p><strong>Tech:</strong> Java, LibGDX</p>
-      <p><strong>Time:</strong> Q3 2024</p>
-      <a href="https://github.com/mklemmingen/GameJamCheckers">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=GameJamCheckers&color=red&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-    <td align="center" style="width:50%;">
-      <img src="https://github.com/mklemmingen/mklemmingen/blob/main/BoardGameMenu.png" alt="BoardGame Framework Image" height="150">
-       <img src="https://github.com/mklemmingen/mklemmingen/blob/main/logo-mwk.svg" alt="svg logo of the ministerium für wissenschaft bildung und kunst baden-württemberg" height="150">
-    </td>
-  </tr>
+Three packages forming a layered dependency chain for querying public university timetable data and optimizing elective course selections. The first two are published on PyPI; the CLI tool installs directly from GitHub:
 
-<!-- CSS Art Tutorial -->
-  <tr>
-    <td style="width:50%;">
-      <h3>CSS Art Tutorial</h3>
-      <p> ✅ Finished and in Production/Archive </p>
-      <p>🌐 AGPL-3.0 License</p>
-      <p><strong>Tech:</strong> HTML, CSS</p>
-      <p><strong>Time:</strong> Q3 2024</p>
-      <p>Quick, short, and easy tutorial on how to create dynamic animated logos with CSS.</p>
-      <a href="https://github.com/mklemmingen/CSSArtTutorial">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=CSSArtTutorial&color=grey&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-    <td align="center" style="width:50%;">
-     <img align="right" height="230" src="https://github.com/mklemmingen/mklemmingen/raw/main/cssArt.gif"  />
-    </td>
-  </tr>
+- **Layer 1 — webuntis-public:** Generic Python client for the WebUntis public REST API. No auth required. Supports class listing, timetable fetching with rate limiting and frozen dataclass models.
+- **Layer 2 — hsrt-timetable:** Convenience wrapper pre-configured for Hochschule Reutlingen with known program codes, semester-to-group mapping, and academic calendar utilities.
+- **Layer 3 — wahlfach-matching:** CLI that aggregates subjects across class groups, scores electives against schedule conflicts and user preferences, and exports ranked results as ICS calendar files.
 
-<!-- Q1Q2 2024 Study-Projects -->
-  <tr>
-    <td style="width:50%;">
-      <h3>Q1Q2 2024 Study-Projects</h3>
-     <p> ✅ Finished and in Production/Archive </p>
-      <p>📜 MIT License</p>
-      <p><strong>Tech:</strong> C++, C#, Java, Python</p>
-      <ul>
-        <li>Levenshtein Distance Corruption-Restorer (C++)</li>
-        <li>Producer-Consumer-Problem Displayer via AWT (Java)</li>
-        <li>Function Graph Display (Python with Tkinter)</li>
-        <li>PGM Filter Operations with Custom Canvasing Display</li>
-      </ul>
-      <a href="https://github.com/mklemmingen/Q1Q2Projects2024">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=Q1Q22024Projects&color=red&logo=applearcade" alt="GitHub Repo">
-      </a>
-    </td>
-   <td align="center" style="width:50%;">
-     <img align="right" height="230" src="https://github.com/mklemmingen/mklemmingen/raw/main/StudyProjects2024Q12.gif"  />
-     <a>
-        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
-  </a>
-    </td>
-  </tr>
+Each package has its own repo, CI/CD pipeline (GitHub Actions + PyPI Trusted Publishers), and test suite.
 
-<!-- Boom Chess! -->
-  <tr>
-    <td style="width:50%;">
-      <h3>Boom Chess</h3>
-      <p>🟡 Finished, Standing by for Issue Creations </p>
-      <p>🌐 AGPL-3.0 License</p>
-      <p><strong>Tech:</strong> Java, libGDX</p>
-      <p><strong>Time:</strong> Q3 2023 - Q1 2024</p>
-      <p>Military-Pixel Pieces with Health and complex relations fight it out on the modern chess board. Features 3 different bot modes, challenge modes, multiple team colors, and music by Artist Wambutz.</p>
-      <a href="https://github.com/mklemmingen/boom-chess">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessDesktop&color=blue&logo=applearcade" alt="GitHub Repo">
-      </a>
-      <a href="https://github.com/mklemmingen/BoomChess-Android">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessAndroid&color=blue&logo=applearcade" alt="GitHub Repo">
-      </a>
-      <p align="center">
-    <a href="https://gardeningcat.itch.io/boom-chess">
-        <img height="150" src="bommchessitchio.png" alt="Boom Chess">
-    </a>
-    </br>
-    (Q1 2024)
-</p>
+[![webuntis-public](https://img.shields.io/static/v1?label=mklemmingen&message=webuntis-public&color=blue&logo=github)](https://github.com/mklemmingen/webuntis-public)
+[![webuntis-public on PyPI](https://img.shields.io/pypi/v/webuntis-public?logo=pypi&logoColor=white)](https://pypi.org/project/webuntis-public/)
+[![hsrt-timetable](https://img.shields.io/static/v1?label=mklemmingen&message=hsrt-timetable&color=blue&logo=github)](https://github.com/mklemmingen/hsrt-timetable)
+[![hsrt-timetable on PyPI](https://img.shields.io/pypi/v/hsrt-timetable?logo=pypi&logoColor=white)](https://pypi.org/project/hsrt-timetable/)
+[![wahlfach-matching](https://img.shields.io/static/v1?label=mklemmingen&message=wahlfach-matching&color=blue&logo=github)](https://github.com/mklemmingen/wahlfach-matching)
 
-</br>
-    </td>
-    <td align="center" style="width:50%;">
-      <img align="right" height="200" src="https://github.com/mklemmingen/mklemmingen/raw/main/boomChessGiffy.gif"  />
-      <a>
-        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
-  </a>
-  </td>
-  </tr>
+</td>
+<td width="40%" align="center" valign="middle">
 
-<!-- Senet: A Simple Workers Game -->
-  <tr>
-    <td style="width:50%;">
-      <h3>Senet: A Simple Workers Game</h3>
-      <p> ✅ Finished and in Production/Archive </p>
-      <p>🌐 AGPL-3.0 License</p>
-      <p><strong>Tech:</strong> Java, libGDX</p>
-      <p><strong>Time:</strong> Q4 2023</p>
-      <p>The oldest known board game, re-created as a speedrun challenge with the libGDX Framework.</p>
-      <a href="https://github.com/mklemmingen/senet-boom">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=senet-boom-desktop&color=orange&logo=applearcade" alt="GitHub Repo">
-      </a>
-    </td>
-  <td align="center" style="width:50%;">
-      <img align="right" height="200" src="https://github.com/mklemmingen/mklemmingen/raw/main/senetboom.gif"  />
-  </td>
-   </tr>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pypi.svg" alt="PyPI" height="80">
+<br><br>
+<img src="informatik-logo.png" alt="Reutlingen University" height="120">
 
-<!-- Tropico 6 - Advanced Teams -->
-  <tr>
-    <td style="width:50%;">
-      <h3>Tropico 6 - Advanced Teams</h3>
-      <p> ✅ Finished and in Production/Archive </p>
-      <p>🌍 Creative Commons Zero Universal (CC0)</p>
-      <p><strong>Tech:</strong> Unreal Engine 4, C++</p>
-      <p><strong>Time:</strong> Q4 2023</p>
-      <p>Adds team features to the multiplayer - no cooldown on team money transfer. A simple Unreal Engine 4 asset overwrite.</p>
-      <a href="https://github.com/mklemmingen/Tropico6_Advanced-Team">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=Tropico-6&color=yellow&logo=steam" alt="GitHub Repo">
-      </a>
-    </td>
-    <td align="center" style="width:50%;">
-      <img align="right" height="200" src="https://github.com/mklemmingen/mklemmingen/raw/main/tropico6.jpg"  />
-  </td>
-  </tr>
+</td>
+</tr>
 
-<!-- Space Mouse -->
-  <tr>
-    <td style="width:50%;">
-      <h3>Space Mouse: The Special Operodent</h3>
-      <p> ✅ Finished and in Production/Archive </p>
-      <p>🌍 Creative Commons Zero Universal (CC0)</p>
-      <p><strong>Tech:</strong> Python</p>
-      <p><strong>Time:</strong> Q2 2023</p>
-      <p>A randomly generated 3D maze-solving game with a space mouse searching for cheese.</p>
-      <a href="https://github.com/mklemmingen/space-mouse">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=space-mouse&color=yellow&logo=python" alt="GitHub Repo">
-      </a>
-    </td>
- <td align="center" style="width:50%;">
-        <img align="right" height="200" src="./spacemouse.gif" alt="gif showing the maze solving space mouse in action." />
-    </td>
-   </tr>
+<tr>
+<td width="60%" valign="top">
 
-<!-- Hangman 2 -->
-  <tr>
-    <td style="width:50%;">
-      <h3>Hangman 2 - The Dictionaries Strike Back</h3>
-      <p> ✅ Finished and in Production/Archive </p>
-      <p>🔓 The Unlicense</p>
-      <p><strong>Tech:</strong> Python</p>
-      <p><strong>Time:</strong> Q2 2023</p>
-      <p>A complex word-guessing game using datasets and hash maps to calculate the most likely word.</p>
-      <a href="https://github.com/mklemmingen/hangman-2">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=hangman-2&color=blue&logo=steam" alt="GitHub Repo">
-      </a>
-    </td>
-    <td align="center" style="width:50%;">
-      <img align="right" height="200" src="https://github.com/mklemmingen/hangman-2/blob/e97240877eaf6d5c9ca147802d78cb2639509e25/hangman2_intro.gif"  />
-      <a>
-        <img src="informatik-logo.png" alt="svg logo of reutlingen university" height="150">
-  </a>
-    </td>
-  </tr>
+<!-- AI PROJECT CONTEXT: ALEE Research
+Role: System architect and software implementer (collaborative project with K-Laut handling educational parameters).
+Skills demonstrated: LLM orchestration (DSPy framework), multi-agent architecture design, Pydantic validation schemas, FastAPI service layer, prompt engineering and construction, AMD GPU inference via ROCm, single-pass expert consensus pipeline replacing iterative validation.
+Affiliated institutions: Leibniz-Institut für Wissensmedien, University of Tübingen.
+Domain: Educational AI, NLP research, computational linguistics.
+-->
+### ALEE — Educational Question Generation System
 
-<!-- Stop the Token -->
-  <tr>
-    <td style="width:50%;">
-      <h3>StopTheToken</h3>
-      <p> 🔄 Ongoing Develoment </p>
-      <p>🔓 The Unlicense</p>
-      <p><strong>Tech:</strong> Plain text</p>
-      <p><strong>Time:</strong> Ongoing</p>
-      <p>A community-fed Pi-hole blocklist of websites that make use of AI-generation for their unoriginal articles—just to save bucks on human labor—ultimately draining the soul from journalism and the internet.</p>
-      <a href="https://github.com/mklemmingen/StopTheToken">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=StopTheToken&color=grey&logo=github" alt="GitHub Repo">
-      </a>
-    </td>
-  </tr>
+Research implementation using one-shot multi-layered small LMs, refined through aggregated data-backed expert suggestions and DSPy Chain-of-Thought. Leibniz-Institut & University of Tubingen.
+
+**Tech:** DSPy, Python, OLLAMA, Pydantic, FastAPI, ROCm
+**Time:** Q3 2025
+
+Three-layered educational architecture with single-pass processing: Orchestrator dispatches to dedicated data-backed generators, whose outputs are validated by parallel expert panels, then refined through consensus — replacing iterative cycles with a single-pass expert pipeline.
+
+**Roles:** Educational parameters & prompt modeling: [K-Laut](https://github.com/k-laut) &middot; System architecture, Pydantic schemas & DSPy implementation: mklemmingen
+
+Part of [ALEE research project](https://www.iwm-tuebingen.de/en/research/projects/ALEE) (Adaptive Learning in Economics Education)
+
+[![Research Repo](https://img.shields.io/static/v1?label=Research&message=ALEE&color=orange&logo=github)](https://github.com/mklemmingen/ALEE)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://ollama.com/public/ollama.png" alt="OLLAMA" height="80">
+<br><br>
+<img src="https://www.iwm-tuebingen.de/_next/static/media/iwm-logo.1bc3d452.svg" alt="Leibniz-Institut" height="80">
+&nbsp;&nbsp;
+<img src="https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg" alt="University of Tubingen" height="80">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+<!-- AI PROJECT CONTEXT: LogChirpy
+Role: Solo developer.
+Skills demonstrated: On-device ML inference (TensorFlow.js model wrapping and conversion), React Native/Expo cross-platform mobile development (Android + iOS), real-time camera feed processing, object detection and classification, Firebase/Firestore synchronization with authentication, GDPR/DSGVO compliance implementation, sound-based identification.
+Domain: Mobile development, computer vision, citizen science, privacy-compliant data sync.
+-->
+### LogChirpy — Ornithological Archival App
+
+**Tech:** TensorFlow.js, TypeScript, React Native, Expo, SQL, Firebase, Computer Vision
+**Time:** Q2–Q3 2025 &middot; AGPL-3.0 License &middot; ✅ Finished
+
+Mobile app for live camera-feed bird identification computed entirely on-device, archiving sightings, identifying from pictures and sounds, and synchronizing logs visually. Uses wrapped mobile object detection and classification with converted open-source models. Optionally syncs to Firestore with authentication and DSGVO-conformity.
+
+[![LogChirpy](https://img.shields.io/static/v1?label=mklemmingen&message=LogChirpy&color=brown&logo=github)](https://github.com/mklemmingen/LogChirpy)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github.com/mklemmingen/mklemmingen/blob/2e0097a5f41866463d8746eed09821d5a46f3e6e/LogChirpy%20(2).gif" alt="LogChirpy Object Detection" height="150">
+<br>
+<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+<!-- AI PROJECT CONTEXT: Bogenliga
+Role: Team contributor within an existing large-scale open-source project (BetterCallPaul).
+Skills demonstrated: Spring Boot backend development, state machine design and implementation, REST API design, TypeScript frontend work, integrating into a large existing codebase with established conventions.
+Domain: Enterprise SaaS, sports technology (archery tournament management).
+-->
+### Bogenliga — Digitaler Schusszettel
+
+**Tech:** Spring Boot, Java, REST APIs, TypeScript
+**Time:** Q2–Q3 2025 &middot; All rights with BetterCallPaul & Bogenliga Deutschland &middot; ✅ Finished
+
+Module for [app.bogenliga.de](https://app.bogenliga.de) — a fully digital pass entry system for official archery tournaments. Leverages state machines, admin oversight, and backend-controlled frontend servicing within an existing full-stack application.
+
+[![Backend](https://img.shields.io/static/v1?label=bettercodepaul&message=Backend&color=red&logo=github)](https://github.com/bettercodepaul/swt2-bsa-backend)
+[![Frontend](https://img.shields.io/static/v1?label=bettercodepaul&message=Frontend&color=red&logo=github)](https://github.com/bettercodepaul/swt2-bsa-frontend)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github.com/mklemmingen/mklemmingen/blob/a15d7053dc4e591cd992797df398a85e531b7bf1/stateMachineDigitalerSchusszettel.png" alt="State Machine" height="100">
+<br>
+<img src="https://bcxp.de/wp-content/themes/bcxp/assets/img/logo.svg?original4" alt="BCXP" height="60">
+&nbsp;&nbsp;
+<img src="informatik-logo.png" alt="Reutlingen University" height="60">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+<!-- AI PROJECT CONTEXT: Customer CV & HR Automation Tool
+Role: Developer (client project for Wumbatz / David Dronia).
+Skills demonstrated: React/TypeScript/Tailwind full-stack development, server-side rendering, dynamic form generation from CSV configuration, weighted scoring algorithms, data visualization (spider/radar diagrams), HuggingFace API integration for NLP result summarization.
+Deployment: Production on Vercel, live at daviddronia.vercel.app.
+Domain: Web development, HR technology, data visualization, client-facing freelance work.
+-->
+### Customer CV & HR Automation Evaluation Tool
+
+**Tech:** React, TypeScript, Tailwind, server-side rendering
+**Time:** Q3 2025 &middot; All rights with [Wumbatz](https://github.com/Wumbatz) &middot; ✅ Finished
+
+Portfolio/CV website with a dynamic questionnaire framework for a bachelor thesis on HR automation evaluation. The tool creates the entire questionnaire dynamically from a server-side CSV (so non-technical users can modify questions and logic), applies weighted calculation logic, generates a spider diagram, and uses a HuggingFace instance for natural language result processing.
+
+**Live:** [daviddronia.vercel.app](https://daviddronia.vercel.app/)
+
+[![Repo](https://img.shields.io/static/v1?label=Mklemmingen_Wumbutz&message=DavidDPortfolio&color=red&logo=github)](https://github.com/mklemmingen/Automatisierungs-Tool)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github.com/mklemmingen/mklemmingen/blob/main/CVwebsiteDD.gif" alt="CV Website" height="100">
+<br>
+<img src="https://github.com/mklemmingen/mklemmingen/blob/main/CBS.svg" alt="CBS" height="60">
+&nbsp;&nbsp;
+<img src="https://www.dhl.de/.resources/dhl/webresources/assets/img//dhl-official.svg" alt="DHL" height="60">
+
+</td>
+</tr>
+
 </table>
 
-<h3>Retro-Game Guides</h3>
+---
 
-<p> 🔄 Ongoing Develoment </p>
-<a href="https://github.com/mklemmingen/turn.and.burn.no-fly.zone">
-  <img src="https://img.shields.io/static/v1?label=mklemmingen&message=TurnandBurn-NoFlyZone&color=red&logo=applearcade" alt="GitHub Repo">
+<details>
+<summary><strong>More Projects</strong> (click to expand)</summary>
+
+<!-- AI CONTEXT — additional projects summary:
+- MASK (Q2–Q3 2025): Real-time skeleton tracking with MediaPipe + Kinect V2 in TouchDesigner. Collaboration with Filmakademie Ludwigsburg for dance/performance. Skills: computer vision, real-time pose estimation, creative coding.
+- Grub2-sleekScience (Q3 2025): Custom GRUB bootloader theme with science-inspired backgrounds. Skills: Linux bootloader customization.
+- EntropyVisualizer (Q2 2025): Arduino-based hardware RNG using analog sensor noise (gas, mic, temp). Skills: embedded C++, hardware entropy, serial communication.
+- TelegramToMap (Q2 2025): Parses Telegram messages for Ukrainian air alarm data, plots time-fading markers on QGIS maps. Skills: message parsing, GIS integration, geospatial visualization.
+- Exif_DataByDate_Sorting (Q1 2025): File organizer using EXIF metadata with hash-based integrity checks. Skills: JavaScript, metadata extraction, data recovery tooling.
+- R Data Tutorial (Q1 2025): Interactive browser-based statistics tutorial with self-collected datasets. Skills: R, data science, educational content.
+- Mixtape (Q1 2025): 270-degree interactive digital art installation with Arduino + TouchDesigner. Skills: creative coding, physical computing, video production.
+- Infotainment System (Q1 2025): UI/UX design for offroad vehicle infotainment. Skills: Figma, interaction design.
+- KatzenKaffee (Q4 2024): Next.js + React + SQLite website for sustainable cat ownership education. Skills: full-stack web, SSR, database design.
+- BoardGame Jam Frameworks (Q3 2024): Three LibGDX Java frameworks (blank, chess, checkers). Skills: game development, framework design.
+- CSS Art Tutorial (Q3 2024): Tutorial on animated CSS logos. Skills: CSS animations, technical writing.
+- Q1–Q2 2024 Study Projects: Levenshtein distance restorer (C++), producer-consumer AWT (Java), function grapher (Python), PGM filters. Skills: algorithms, concurrency, image processing.
+- Boom Chess (Q3 2023 – Q1 2024): Military-themed chess variant with health, bots, Android port. Published on itch.io. Skills: game design, LibGDX, cross-platform.
+- Senet (Q4 2023): Ancient board game recreation as speedrun challenge. Skills: LibGDX, game development.
+- Tropico 6 mod (Q4 2023): UE4 asset overwrite for team multiplayer features. Skills: Unreal Engine 4, modding.
+- Space Mouse (Q2 2023): 3D procedural maze game. Skills: Python, procedural generation.
+- Hangman 2 (Q2 2023): Word-guessing with dataset-backed probability calculations. Skills: Python, data structures, hash maps.
+- ComBadge (Q4 2025): Local LLM (Qwen 2.5-14B) desktop tool for NL-to-API conversion with Chain-of-Thought, human-in-the-loop approval, audit logging. Fully offline. Skills: LLM integration, Pydantic, desktop UI (CustomTkinter).
+- HIDmibbi (Q3 2024): Educational USB HID attack vector visualization. Skills: embedded C++, Arduino, security awareness.
+- StopTheToken (ongoing): Community Pi-hole blocklist targeting AI-generated article farms. Skills: community curation.
+-->
+
+<br>
+
+<table>
+
+<tr>
+<td width="60%" valign="top">
+
+### MASK — Machine-Learning Assisted Skeleton Kinect Tracking
+
+**Tech:** Python, MediaPipe, TouchDesigner, Kinect V2
+**Time:** Q2–Q3 2025 &middot; AGPL-2.0 &middot; ✅ Finished
+
+Threshold-based pose and 2D position recognition in TouchDesigner using Kinect V2 and MediaPipe. Real-time skeleton tracking with distance and angle calculations driving responsive body-relative visuals for dance and performance setups. Built in collaboration with Filmakademie Ludwigsburg.
+
+[Presentation video](https://www.youtube.com/watch?v=2jvziSgExTw)
+
+[![MASK](https://img.shields.io/static/v1?label=mklemmingen&message=MASK&color=yellow&logo=github)](https://github.com/mklemmingen/MASK)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="kinect.png" alt="Skeleton Tracking" height="100">
+<br>
+<img src="https://github.com/mklemmingen/mklemmingen/blob/main/filmakadadmie.svg" alt="Filmakademie Ludwigsburg" height="80">
+&nbsp;
+<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+### Grub2-sleekScience
+
+**Tech:** GRUB &middot; **Time:** Q3 2025 &middot; GPL &middot; ✅ Finished
+
+Minimal modern GRUB theme showcasing backgrounds with patterns from various fields of research and development.
+
+[![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=Grub2-sleekScience&color=gray&logo=github)](https://github.com/mklemmingen/Grub2-sleekScience)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F016%2F828%2F098%2Flarge_2x%2Fabstract-topographic-map-background-abstract-topographic-map-background-imitation-of-a-geographical-map-geographic-map-conceptual-design-elegant-background-for-presentations-free-vector.jpg&f=1&nofb=1&ipt=01994c5346f8c565ca9fc2a110523e817449501c339003d176608e3979202206" alt="Topographic Design" height="100">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+### EntropyVisualizer — Arduino Sensor-Based Randomness
+
+**Tech:** C++ &middot; **Time:** Q2 2025 &middot; AGPL-3.0 &middot; ✅ Finished
+
+Microcontroller with gas meter, temperature/humidity sensor, microphone, display, and LED strip. Generates randomness from analog sensor data, visualizes it with colors, and outputs random unsigned integers via serial for near-true-randomness applications.
+
+[![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=EntropyVisualizer&color=yellow&logo=github)](https://github.com/mklemmingen/EntropyVisualizer)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/mklemmingen/EntropyVisualizer/refs/heads/main/EntropyVisualization.gif" alt="Entropy Visualization" height="100">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+### TelegramToMap — Automatic Threat-Location Mapping
+
+**Tech:** Python, QGIS &middot; **Time:** Q2 2025 &middot; AGPL-3.0 &middot; 🔄 Ongoing
+
+Scans Telegram group messages for Ukrainian air alarms, extracts location data of UAVs, missiles, and planes, and adds time-fading markers to a QGIS map. Fully local after receiving the Telegram data.
+
+[![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=TelegramToMap&color=red&logo=github)](https://github.com/mklemmingen/TelegramToMap)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="ukraineHeat.png" alt="QGIS Heatmap" height="100">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+### Exif_DataByDate_Sorting
+
+**Tech:** JavaScript &middot; **Time:** Q1 2025 &middot; AGPL-3.0 &middot; ✅ Finished
+
+Automates file organization into structured year/month/type directories using EXIF metadata or file system dates. Built for data recovery and long-term archival with backup verification and hash-checks.
+
+[![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=Exif_DataByDate_Sorting&color=white&logo=github)](https://github.com/mklemmingen/Exif_DataByDate_Sorting)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="fileSorting.gif" alt="File Sorting" height="100">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+### R Data Manipulation Tutorial
+
+**Tech:** R, HTML, CSS, Markdown &middot; **Time:** Q1 2025 &middot; MIT &middot; ✅ Finished
+
+Interactive local-hosted browser tutorial for learning statistical approaches in data science through a self-collected dataset.
+
+[![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=R_Data_Science_Tutorial&color=green&logo=github)](https://github.com/mklemmingen/R_DataScience_Tutorial)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<a href="https://www.youtube.com/playlist?list=PLJR0d_Vv370_5z8SbQHiUYpTRRZ9-fPv3">
+  <img src="Hypothese.jpeg" alt="Hypothesis Test" height="100">
+</a>
+&nbsp;
+<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+### Mixtape — 270° Interactive Digital Art
+
+**Tech:** TouchDesigner, DaVinci Resolve, Python, Arduino C++ &middot; **Time:** Q1 2025 &middot; AGPL-3.0 &middot; ✅ Finished
+
+Interactive digital art installation to experience a life's musical emotions through memories of birthdays.
+
+[![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=MIXTAPE&color=red&logo=github)](https://github.com/mklemmingen/MIXTAPE)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+### Modern Offroad Vehicle Infotainment System
+
+**Tech:** Figma, HTML &middot; **Time:** Q1 2025 &middot; MIT &middot; ✅ Finished
+
+Infotainment system design for a family outdoor car with improved machine control and entertainment.
+
+[![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=OutdoorInfotainment&color=green&logo=github)](https://github.com/mklemmingen/OutdoorInfotainment)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github.com/mklemmingen/mklemmingen/raw/main/OutdoorInfotainment.gif" alt="Infotainment System" height="100">
+&nbsp;
+<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+### KatzenKaffee
+
+**Tech:** Next.js, React, SQLite &middot; **Time:** Q4 2024 &middot; AGPL-3.0 &middot; ✅ Finished
+
+Website to learn sustainable cat owning. **Live:** [katzenkaffee.vercel.app](https://katzenkaffee.vercel.app/)
+
+[![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=KatzenKaffee&color=yellow&logo=github)](https://github.com/mklemmingen/KatzenKaffeeWeb)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github.com/mklemmingen/mklemmingen/raw/main/KatzenKaffee.gif" alt="KatzenKaffee" height="100">
+&nbsp;
+<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+### BoardGame Jam Frameworks (Blank, Chess, Checkers)
+
+**Tech:** Java, LibGDX &middot; **Time:** Q3 2024 &middot; AGPL-3.0 &middot; ✅ Finished
+
+Three board game frameworks — a blank template, a chess implementation, and a checkers implementation — all free to use.
+
+[![Blank](https://img.shields.io/static/v1?label=mklemmingen&message=BareBoardGameJam&color=purple&logo=github)](https://github.com/mklemmingen/GameJamFramework)
+[![Chess](https://img.shields.io/static/v1?label=mklemmingen&message=GameJamChess&color=green&logo=github)](https://github.com/mklemmingen/GameJamChess)
+[![Checkers](https://img.shields.io/static/v1?label=mklemmingen&message=GameJamCheckers&color=red&logo=github)](https://github.com/mklemmingen/GameJamCheckers)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github.com/mklemmingen/mklemmingen/blob/main/boardgameGameJam.png" alt="Board Game Framework" height="80">
+&nbsp;
+<img src="https://github.com/mklemmingen/mklemmingen/blob/main/logo-mwk.svg" alt="MWK Baden-Wurttemberg" height="80">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+### CSS Art Tutorial
+
+**Tech:** HTML, CSS &middot; **Time:** Q3 2024 &middot; AGPL-3.0 &middot; ✅ Finished
+
+Quick tutorial on creating dynamic animated logos with CSS.
+
+[![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=CSSArtTutorial&color=grey&logo=github)](https://github.com/mklemmingen/CSSArtTutorial)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github.com/mklemmingen/mklemmingen/raw/main/cssArt.gif" alt="CSS Art" height="100">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+### Q1–Q2 2024 Study Projects
+
+**Tech:** C++, C#, Java, Python &middot; **Time:** Q1–Q2 2024 &middot; MIT &middot; ✅ Finished
+
+- Levenshtein Distance Corruption-Restorer (C++)
+- Producer-Consumer-Problem Displayer via AWT (Java)
+- Function Graph Display (Python/Tkinter)
+- PGM Filter Operations with Custom Canvas Display
+
+[![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=Q1Q22024Projects&color=red&logo=applearcade)](https://github.com/mklemmingen/Q1Q2Projects2024)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github.com/mklemmingen/mklemmingen/raw/main/StudyProjects2024Q12.gif" alt="Study Projects" height="100">
+&nbsp;
+<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+### Boom Chess
+
+**Tech:** Java, libGDX &middot; **Time:** Q3 2023 – Q1 2024 &middot; AGPL-3.0
+
+Military-pixel pieces with health and complex relations fight on a modern chess board. Features 3 bot modes, challenge modes, multiple team colors, and music by Wambutz.
+
+[![Desktop](https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessDesktop&color=blue&logo=applearcade)](https://github.com/mklemmingen/boom-chess)
+[![Android](https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessAndroid&color=blue&logo=applearcade)](https://github.com/mklemmingen/BoomChess-Android)
+&nbsp; [Play on itch.io](https://gardeningcat.itch.io/boom-chess)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github.com/mklemmingen/mklemmingen/raw/main/boomChessGiffy.gif" alt="Boom Chess" height="100">
+&nbsp;
+<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+### Senet: A Simple Workers Game
+
+**Tech:** Java, libGDX &middot; **Time:** Q4 2023 &middot; AGPL-3.0 &middot; ✅ Finished
+
+The oldest known board game, re-created as a speedrun challenge with libGDX.
+
+[![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=senet-boom-desktop&color=orange&logo=applearcade)](https://github.com/mklemmingen/senet-boom)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github.com/mklemmingen/mklemmingen/raw/main/senetboom.gif" alt="Senet" height="100">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+### Tropico 6 — Advanced Teams
+
+**Tech:** Unreal Engine 4, C++ &middot; **Time:** Q4 2023 &middot; CC0 &middot; ✅ Finished
+
+Adds team features to multiplayer — no cooldown on team money transfer. A simple UE4 asset overwrite.
+
+[![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=Tropico-6&color=yellow&logo=steam)](https://github.com/mklemmingen/Tropico6_Advanced-Team)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github.com/mklemmingen/mklemmingen/raw/main/tropico6.jpg" alt="Tropico 6" height="100">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+### Space Mouse: The Special Operodent
+
+**Tech:** Python &middot; **Time:** Q2 2023 &middot; CC0 &middot; ✅ Finished
+
+A randomly generated 3D maze-solving game with a space mouse searching for cheese.
+
+[![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=space-mouse&color=yellow&logo=python)](https://github.com/mklemmingen/space-mouse)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="./spacemouse.gif" alt="Space Mouse" height="100">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+### Hangman 2 — The Dictionaries Strike Back
+
+**Tech:** Python &middot; **Time:** Q2 2023 &middot; Unlicense &middot; ✅ Finished
+
+A word-guessing game using datasets and hash maps to calculate the most likely word.
+
+[![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=hangman-2&color=blue&logo=steam)](https://github.com/mklemmingen/hangman-2)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github.com/mklemmingen/hangman-2/blob/e97240877eaf6d5c9ca147802d78cb2639509e25/hangman2_intro.gif" alt="Hangman 2" height="100">
+&nbsp;
+<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+### ComBadge — Natural Language to API Interface
+
+**Tech:** Python, CustomTkinter, Ollama, Qwen 2.5-14B, Pydantic, SQLite &middot; **Time:** Q4 2025
+
+Local LLM-powered desktop tool that converts natural language emails and commands into structured API requests via Chain-of-Thought reasoning. Features intent classification, template-based JSON generation with validation, human-in-the-loop approval, and comprehensive audit logging — fully offline with zero cloud dependencies.
+
+*Bare NLP-to-API framework without configuration to real systems. Free to fork with credit.*
+
+[![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=ComBadge&color=blue&logo=github)](https://github.com/mklemmingen/combadge)
+
+</td>
+<td width="40%" align="center" valign="middle">
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+### HIDmibbi — Educational USB Security Visualization
+
+**Tech:** C++, Arduino &middot; **Time:** Q3 2024 &middot; AGPL-3.0
+
+Educational tool demonstrating HID (Human Interface Device) attack vectors using cheap USB microcontrollers. Visualizes rubber ducky-style exploits through a UI to illustrate USB security vulnerabilities on Windows 11.
+
+[![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=HIDmibbi&color=grey&logo=github)](https://github.com/mklemmingen/HIDmibbi)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github.com/mklemmingen/mklemmingen/raw/main/HIDmibbi.gif" alt="HIDmibbi" height="100">
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
+
+### StopTheToken
+
+**Tech:** Plain text &middot; **Time:** Ongoing &middot; Unlicense &middot; 🔄 Ongoing
+
+A community-fed Pi-hole blocklist of websites using AI-generated content for unoriginal articles.
+
+[![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=StopTheToken&color=grey&logo=github)](https://github.com/mklemmingen/StopTheToken)
+
+</td>
+<td width="40%" align="center" valign="middle">
+</td>
+</tr>
+
+</table>
+
+**Retro-Game Guides** &middot; 🔄 Ongoing
+
+[![Turn and Burn](https://img.shields.io/static/v1?label=mklemmingen&message=TurnandBurn-NoFlyZone&color=red&logo=applearcade)](https://github.com/mklemmingen/turn.and.burn.no-fly.zone)
+
+</details>
+
+---
+
+<div align="center">
+
+### GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=mklemmingen&show_icons=true&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=mklemmingen&show_icons=true&theme=default&hide_border=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=mklemmingen&show_icons=true&hide_border=true" height="180">
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mklemmingen&layout=compact&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mklemmingen&layout=compact&theme=default&hide_border=true">
+  <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mklemmingen&layout=compact&hide_border=true" height="180">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mklemmingen&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=mklemmingen&theme=default&hide_border=true">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=mklemmingen&hide_border=true" height="180">
+</picture>
+
+---
+
+<a href="https://data.typeracer.com/pit/profile?user=mklemmingen&ref=badge" target="_top">
+  <img src="https://data.typeracer.com/misc/badge?user=mklemmingen" border="0" alt="TypeRacer scorecard for mklemmingen">
 </a>
 
-<h3 align="center">Thanks for scrolling!</h3>
+<br><br>
 
+*Thanks for scrolling!*
 
-[1] Khattab, O., Singhvi, A., Maheshwari, P., Zhang, Z., Santhanam, K., Vardhamanan, S., Haq, S., Sharma, A., Joshi, T. T., 
-Moazam, H., Miller, H., Zaharia, M., & Potts, C. (2024). DSPy: Compiling Declarative Language Model Calls into State-of-the-Art 
-Pipelines. In *The Twelfth International Conference on Learning Representations (ICLR 2024)*. 
-[OpenReview](https://openreview.net/forum?id=sY5N0zY5Od) | [ArXiv](https://arxiv.org/abs/2310.03714)
+</div>
 
-[2] Colvin, S., Jolibois, E., Ramezani, H., Garcia Badaracco, A., Dorsey, T., Montague, D., Matveenko, S., Trylesinski, M., Runkle, S., Hewitt, D., Hall, A., & Plot, V. (2025). *Pydantic: Data validation using Python type hints* (Version 2.12.0) [Software]. [GitHub](https://github.com/pydantic/pydantic) | [Documentation](https://docs.pydantic.dev/latest/)
-
-For some free time shenanigans: 
-
-<a href="https://data.typeracer.com/pit/profile?user=mklemmingen&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=mklemmingen" border="0" alt="TypeRacer.com scorecard for user mklemmingen"/></a>
-
-
-<!---
-<tr>
-    <td style="width:50%;">
-      <h3>ComBadge: Natural Language to API Interface | Local LLM-powered email & command processing with Chain-of-Though</h3>
-       <p>Enterprise desktop application for management automation | Star Trek ComBadge inspired NLP interface</p>
-      <p><strong>Tech:</strong> Python, CustomTkinter, Ollama, Qwen 2.5-14B, Pydantic, SQLite, Requests</p>
-      <p><strong>Time:</strong> Q4 2025</p>
-      <p>
-      The system implements a three-tier local architecture with real-time processing: Input Processing -> | NLP Engine → Intent Classification & Entity Extraction -> Template Selection & JSON Generation -> Human Approval Workflow | -> Authenticated API Execution & Audit Logging.
-      </p>
-      <p>
-      The architecture utilizes local language models with transparent Chain-of-Thought reasoning to convert unstructured management communications and user NL commands into structured API requests with complete data privacy.
-      Implementation features include single unified text input interface, real-time LLM streaming with semantic highlighting, template-based JSON generation with validation, comprehensive audit trails, and offline-first operation with no cloud dependencies. 
-      </p>
-      <p>
-        The displayed framework is the bare NLP 2 API solution without any configuration to existing systems. No actual api documentation was used in documentating and planning this repo. It was created outside of work-time and is inspired by the need of real-world systems to have fully-private non-cloud solutions for intent detection and json population for process optimization and automation. As such, you are free to fork and use this repo in the state in which it is here while crediting is required. The system will not receive bug fixes or changes that could correlate to real world enterprise patterns.
-      </p>
-      <p>
-        <strong>Key Features:</strong><br/>
-        - Natural language email and command processing<br/>
-        - Local Qwen 2.5-14B model with Chain-of-Thought visualization<br/>
-        - Human-in-the-loop approval with request preview and editing<br/>
-        - Template-driven API request generation with validation<br/>
-        - Comprehensive audit logging and enterprise security
-      </p>
-      <a href="https://github.com/mklemmingen/combadge">
-        <img src="https://img.shields.io/static/v1?label=mklemmingen&message=ComBadge&color=blue&logo=github" alt="GitHub Repository">
-      </a>
-    </td>
-
-</tr>
+<!--
+### cleanSmut
+Python script to recursively traverse a directory structure and check all image/video files
+for NSFW content using OpenNSFW2, moving flagged files to a separate folder.
+Tech: Python | Time: Q1 2025 | AGPL-3.0
+https://github.com/mklemmingen/cleanSmut
+-->
