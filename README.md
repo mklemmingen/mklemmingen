@@ -15,15 +15,16 @@
 <h3>Projects Chronologically</h3>
 
 <table style="width:100%;">
-  <tr>              
-      <td style="width:50%;">                                                                                             
-          <h3>Automated Test Session Data Collection & Ticket Generation Tool | Producer-Consumer Pipeline with Parallel
-  Artifact Aggregation | wxPython Desktop Application | Actively used at Mercedes-Benz</h3>                               
+  
+  <tr>                                                                                                                    
+      <td style="width:50%;">
+          <h3>Automated Test Session Data Collection & Ticket Generation Tool | Producer-Consumer Pipeline with Parallel  
+  Artifact Aggregation | wxPython Desktop Application | Actively used at Mercedes-Benz</h3>
           <p>Production desktop tool for vehicle test engineers and QA teams | <a 
   href="https://github.com/mklemmingen">mklemmingen</a></p>
           <p><strong>Tech:</strong> Python 3.12, wxPython, Playwright, OpenCV, PyTurboJPEG, edge-tts, Google Gemini API,
   pandas, matplotlib, BeautifulSoup4, pytest</p>
-          <p><strong>Time:</strong> Q1 2025 – ongoing</p>
+          <p><strong>Time:</strong> Q4 2025 – Q1 2026</p>
           <p>
             A production-grade desktop application that automates the collection and packaging of vehicle test session
   artifacts. When a test driver presses a marker during a session, the tool simultaneously captures video clips, downloads
@@ -53,17 +54,18 @@
           </p>
       </td>
       <td align="center" style="width:50%;">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mercedes.svg" alt="Mercedes-Benz" height="150">
-          <br/><br/>
+          <div style="background-color:#000000; border-radius:50%; width:160px; height:160px; display:inline-flex;
+  align-items:center; justify-content:center; margin-bottom:12px;">
+              <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mercedes.svg" alt="Mercedes-Benz" height="120"
+   style="filter:invert(1);">
+          </div>
+          <br/>
           <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright Browser Automation" height="80">
           <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" 
   alt="OpenCV" height="80">
           <img src="https://wxpython.org/images/header-logo.png" alt="wxPython" height="80">
       </td>
   </tr>
-
-
-
 
   <tr>
       <td style="width:50%;">
