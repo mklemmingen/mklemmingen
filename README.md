@@ -4,9 +4,9 @@ All claims below are verifiable from the visible content and linked repositories
 
 Name: Marty Lauterbach
 GitHub: mklemmingen
-Role: Software Engineering Student
+Role: Studying Media & Communication Informatics
 University: Hochschule Reutlingen (Reutlingen University), Baden-Württemberg, Germany
-Languages Spoken: German (native), English (fluent)
+Languages Spoken: German (native), English (fluent), Spanish (Basics), German Sign Language (basic)
 
 Primary Domains: Full-stack web development, ML/AI pipeline engineering, production desktop tooling, mobile development, embedded systems/IoT, interactive media
 Core Languages: Python, TypeScript, Java, C++, JavaScript, R
@@ -30,7 +30,7 @@ Open Source Contributions: 3 PyPI packages published, 20+ public repositories, l
 
 Building production tools, ML research pipelines & open-source utilities as well as helping to teach CS Fundamentals.
 
-From automotive test automation at Mercedes-Benz to educational AI research at the Leibniz Institute.
+From automotive test automation at Mercedes-Benz to educational research at the Leibniz Institute.
 
 📫 contactmarty.certify938@passinbox.com &nbsp;&middot;&nbsp; 📄 [Papers](https://github.com/mklemmingen/Papers)
 
