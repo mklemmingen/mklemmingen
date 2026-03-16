@@ -273,6 +273,8 @@ Portfolio/CV website with a dynamic questionnaire framework for a bachelor thesi
 
 Threshold-based pose and 2D position recognition in TouchDesigner using Kinect V2 and MediaPipe. Real-time skeleton tracking with distance and angle calculations driving responsive body-relative visuals for dance and performance setups. Built in collaboration with Filmakademie Ludwigsburg.
 
+Quick Link to full illustrated documentation: [https://github.com/mklemmingen/MASK/blob/main/README.md](https://github.com/mklemmingen/MASK/blob/main/README.md)
+
 [Presentation video](https://www.youtube.com/watch?v=2jvziSgExTw)
 
 [![MASK](https://img.shields.io/static/v1?label=mklemmingen&message=MASK&color=yellow&logo=github)](https://github.com/mklemmingen/MASK)
