@@ -263,6 +263,32 @@ Portfolio/CV website with a dynamic questionnaire framework for a bachelor thesi
 </td>
 </tr>
 
+<tr>
+<td width="60%" valign="top">
+
+### MASK — Machine-Learning Assisted Skeleton Kinect Tracking | Echoes of the Mind, Filmakademie Ludwigsburg x Hochschule Reutlingen Fakultät Informatik
+
+**Tech:** Python, MediaPipe, TouchDesigner, Kinect V2
+**Time:** Q2–Q3 2025 &middot; AGPL-2.0 &middot; ✅ Finished
+
+Threshold-based pose and 2D position recognition in TouchDesigner using Kinect V2 and MediaPipe. Real-time skeleton tracking with distance and angle calculations driving responsive body-relative visuals for dance and performance setups. Built in collaboration with Filmakademie Ludwigsburg.
+
+[Presentation video](https://www.youtube.com/watch?v=2jvziSgExTw)
+
+[![MASK](https://img.shields.io/static/v1?label=mklemmingen&message=MASK&color=yellow&logo=github)](https://github.com/mklemmingen/MASK)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="kinect.png" alt="Skeleton Tracking" height="100">
+<br>
+<img src="https://github.com/mklemmingen/mklemmingen/blob/main/filmakadadmie.svg" alt="Filmakademie Ludwigsburg" height="80">
+&nbsp;
+<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+
+</td>
+</tr>
+
 </table>
 
 ---
@@ -296,32 +322,6 @@ Portfolio/CV website with a dynamic questionnaire framework for a bachelor thesi
 <br>
 
 <table>
-
-<tr>
-<td width="60%" valign="top">
-
-### MASK — Machine-Learning Assisted Skeleton Kinect Tracking | Echoes of the Mind, Filmakademie Ludwigsburg x Hochschule Reutlingen Fakultät Informatik
-
-**Tech:** Python, MediaPipe, TouchDesigner, Kinect V2
-**Time:** Q2–Q3 2025 &middot; AGPL-2.0 &middot; ✅ Finished
-
-Threshold-based pose and 2D position recognition in TouchDesigner using Kinect V2 and MediaPipe. Real-time skeleton tracking with distance and angle calculations driving responsive body-relative visuals for dance and performance setups. Built in collaboration with Filmakademie Ludwigsburg.
-
-[Presentation video](https://www.youtube.com/watch?v=2jvziSgExTw)
-
-[![MASK](https://img.shields.io/static/v1?label=mklemmingen&message=MASK&color=yellow&logo=github)](https://github.com/mklemmingen/MASK)
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="kinect.png" alt="Skeleton Tracking" height="100">
-<br>
-<img src="https://github.com/mklemmingen/mklemmingen/blob/main/filmakadadmie.svg" alt="Filmakademie Ludwigsburg" height="80">
-&nbsp;
-<img src="informatik-logo.png" alt="Reutlingen University" height="80">
-
-</td>
-</tr>
 
 <tr>
 <td width="60%" valign="top">
