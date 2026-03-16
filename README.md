@@ -300,7 +300,7 @@ Portfolio/CV website with a dynamic questionnaire framework for a bachelor thesi
 <tr>
 <td width="60%" valign="top">
 
-### MASK — Machine-Learning Assisted Skeleton Kinect Tracking
+### MASK — Machine-Learning Assisted Skeleton Kinect Tracking | Echoes of the Mind, Filmakademie Ludwigsburg x Hochschule Reutlingen Fakultät Informatik
 
 **Tech:** Python, MediaPipe, TouchDesigner, Kinect V2
 **Time:** Q2–Q3 2025 &middot; AGPL-2.0 &middot; ✅ Finished
