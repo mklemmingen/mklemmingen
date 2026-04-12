@@ -85,7 +85,7 @@ Q1 2026 | TEC Faculty HSRT
 
 <!-- AI PROJECT CONTEXT: Mercedes-Benz
 Role: Solo developer, full ownership of architecture and implementation.
-Skills demonstrated: Concurrent/parallel programming (producer-consumer pipeline, bounded queues, thread pools), circuit breaker pattern, exponential backoff with dead-thread detection, browser automation (Playwright with async auth gating), computer vision (OpenCV + PyTurboJPEG for video clip extraction), cloud TTS with offline fallback (edge-tts), LLM-assisted text generation (Google Gemini API for defect descriptions), comprehensive test suite (pytest, 1000+ tests).
+Skills demonstrated: Concurrent/parallel programming (producer-consumer pipeline, bounded queues, thread pools), circuit breaker pattern, exponential backoff with dead-thread detection, browser automation (Playwright with async auth gating), computer vision (OpenCV + PyTurboJPEG for video clip extraction), cloud TTS with offline fallback (edge-tts), LLM-assisted text generation (Google Gemini API for defect descriptions), test suite (pytest, 1000+ tests).
 Codebase: 92,000+ LoC across 261 source files, 52+ architecture documents.
 Domain: Automotive QA/testing, enterprise desktop tooling.
 Status: Actively used in production at Mercedes-Benz by vehicle test engineers.
@@ -94,9 +94,9 @@ Status: Actively used in production at Mercedes-Benz by vehicle test engineers.
 
 Q4 2025 - Q1 2026
 
-Production desktop tool for **vehicle test engineers** that captures video clips, diagnostic reports, logger traces and vehicle state in parallel when a marker is pressed. Aggregates everything into a **ready-to-file ticket** with AI-generated defect descriptions. Reduces per-incident data collection from **30+ minutes across 5+ systems to under 10**.
+Production desktop tool for **vehicle test engineers**. When a marker is pressed, it captures video clips, diagnostic reports, logger traces and vehicle state in parallel. Aggregates everything into a **ready-to-file ticket** with AI-generated defect descriptions. Reduces per-incident data collection from **30+ minutes across 5+ systems to under 10**.
 
-*Internal tool -- source not publicly available*
+**Internal tool. Source not publicly available.**
 
 <sub>Python 3.12, wxPython, Playwright, OpenCV, PyTurboJPEG, edge-tts, Google Gemini API, pandas, matplotlib, pytest</sub>
 
@@ -127,7 +127,7 @@ Domain: Developer tooling, university schedule optimization, open-source library
 
 Q1 2026 | Apache-2.0
 
-Three packages forming a **layered dependency chain** for querying university timetable data and optimizing elective selections. Each layer is independently published to **PyPI with its own CI/CD pipeline**. The CLI scores electives against schedule conflicts and exports **ranked results as ICS calendar files**.
+Three packages forming a **layered dependency chain** for university timetable data. Queries timetables and **optimizes elective selections**. The CLI scores electives against schedule conflicts and exports **ranked results as ICS calendar files**.
 
 [![webuntis-public](https://img.shields.io/static/v1?label=mklemmingen&message=webuntis-public&color=blue&logo=github)](https://github.com/mklemmingen/webuntis-public)
 [![webuntis-public on PyPI](https://img.shields.io/pypi/v/webuntis-public?logo=pypi&logoColor=white)](https://pypi.org/project/webuntis-public/)
@@ -154,9 +154,9 @@ Three packages forming a **layered dependency chain** for querying university ti
 
 Q4 2025
 
-Local LLM-powered desktop tool that converts **natural language commands into structured API requests** via Chain-of-Thought reasoning. Features intent classification, template-based JSON generation with **human-in-the-loop approval** and audit logging. Runs **fully offline** with zero cloud dependencies.
+Desktop tool that converts **natural language commands into structured API requests**. Uses a local LLM with Chain-of-Thought reasoning. Classifies intent, generates validated JSON from templates, and requires **human approval** before sending. Runs **fully offline** with no network calls.
 
-*Bare NLP-to-API framework without configuration to real systems. Free to fork with credit.*
+**Bare NLP-to-API framework without configuration to real systems. Free to fork with credit.**
 
 [![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=ComBadge&color=blue&logo=github)](https://github.com/mklemmingen/combadge)
 
@@ -180,9 +180,9 @@ Domain: Educational AI, NLP research, computational linguistics.
 
 Q3 2025
 
-Research system generating **educational questions** using multi-layered small language models with DSPy Chain-of-Thought. Orchestrator dispatches to data-backed generators whose outputs are validated by **parallel expert panels** in a single pass. Built for the Leibniz-Institut and **University of Tubingen** as part of the [ALEE project](https://www.iwm-tuebingen.de/en/research/projects/ALEE).
+Research system generating **educational questions** using multi-layered small language models with DSPy Chain-of-Thought. An orchestrator dispatches to data-backed generators. **Parallel expert panels** validate the output in a single pass. Built for the Leibniz-Institut and **University of Tubingen** as part of the [ALEE project](https://www.iwm-tuebingen.de/en/research/projects/ALEE).
 
-**Roles:** Educational parameters: [K-Laut](https://github.com/k-laut) -- System architecture and DSPy: mklemmingen
+**Roles:** Educational parameters: [K-Laut](https://github.com/k-laut). System architecture and DSPy: mklemmingen
 
 [![Research Repo](https://img.shields.io/static/v1?label=Research&message=ALEE&color=orange&logo=github)](https://github.com/mklemmingen/ALEE)
 
@@ -213,7 +213,7 @@ Domain: Web development, HR technology, data visualization, client-facing freela
 
 Q3 2025 | All rights with [Wumbatz](https://github.com/Wumbatz) | Finished
 
-Portfolio and questionnaire framework for a bachelor thesis on **HR automation evaluation**. Generates the entire questionnaire dynamically from a **server-side CSV** so non-technical users can modify questions and logic. Produces a **spider diagram** and NLP-powered result summaries via HuggingFace.
+Portfolio and questionnaire framework for a bachelor thesis on **HR automation evaluation**. Reads questions and logic from a **server-side CSV**. Non-technical users can edit the CSV to change the questionnaire. Produces a **spider diagram** and NLP-powered result summaries via HuggingFace.
 
 **Live:** [daviddronia.vercel.app](https://daviddronia.vercel.app/)
 
@@ -240,7 +240,7 @@ Portfolio and questionnaire framework for a bachelor thesis on **HR automation e
 
 Q3 2025 | GPL | Finished
 
-Minimal modern **GRUB bootloader theme** showcasing backgrounds with patterns from various fields of research and development. Drop-in replacement that works with **any Linux distribution** using GRUB2.
+Minimal modern **GRUB bootloader theme** that includes backgrounds with patterns from different research fields. Drop-in replacement that works with **any Linux distribution** using GRUB2.
 
 [![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=Grub2-sleekScience&color=gray&logo=github)](https://github.com/mklemmingen/Grub2-sleekScience)
 
@@ -294,7 +294,7 @@ Domain: Enterprise SaaS, sports technology (archery tournament management).
 
 Q2-Q3 2025 | All rights with BetterCallPaul & Bogenliga Deutschland | Finished
 
-Module for [app.bogenliga.de](https://app.bogenliga.de) providing a **fully digital pass entry system** for official archery tournaments. Uses state machines for **rule-enforced scoring workflows** with admin oversight. Integrates into the existing full-stack application with **backend-controlled frontend servicing**.
+Module for [app.bogenliga.de](https://app.bogenliga.de) providing a **fully digital pass entry system** for official archery tournaments. Uses state machines to enforce **tournament scoring rules** with admin oversight. Integrates into the existing full-stack application as a **new module**.
 
 [![Backend](https://img.shields.io/static/v1?label=bettercodepaul&message=Backend&color=red&logo=github)](https://github.com/bettercodepaul/swt2-bsa-backend)
 [![Frontend](https://img.shields.io/static/v1?label=bettercodepaul&message=Frontend&color=red&logo=github)](https://github.com/bettercodepaul/swt2-bsa-frontend)
@@ -320,9 +320,9 @@ Module for [app.bogenliga.de](https://app.bogenliga.de) providing a **fully digi
 
 Q2-Q3 2025 | AGPL-2.0 | Finished
 
-**Real-time skeleton tracking** in TouchDesigner using Kinect V2 and MediaPipe for dance and performance setups. Calculates distances and angles to drive **responsive body-relative visuals** from pose data. Built in collaboration with **Filmakademie Ludwigsburg**.
+**Real-time skeleton tracking** in TouchDesigner using Kinect V2 and MediaPipe for dance and performance setups. Calculates distances and angles to **move projected visuals** relative to the performer's body. Built in collaboration with **Filmakademie Ludwigsburg**.
 
-[Documentation](https://github.com/mklemmingen/MASK/blob/main/README.md) -- [Presentation video](https://www.youtube.com/watch?v=2jvziSgExTw)
+[Documentation](https://github.com/mklemmingen/MASK/blob/main/README.md) &middot; [Presentation video](https://www.youtube.com/watch?v=2jvziSgExTw)
 
 [![MASK](https://img.shields.io/static/v1?label=mklemmingen&message=MASK&color=yellow&logo=github)](https://github.com/mklemmingen/MASK)
 
@@ -347,7 +347,7 @@ Q2-Q3 2025 | AGPL-2.0 | Finished
 
 Q2 2025 | AGPL-3.0 | Finished
 
-Microcontroller generating **randomness from analog sensor noise** including gas, temperature and microphone data. Visualizes entropy with an LED strip and **outputs random unsigned integers** via serial. Suitable as a **hardware entropy source** for applications needing near-true randomness.
+Microcontroller generating **randomness from analog sensor noise** including gas, temperature and microphone data. Visualizes entropy with an LED strip and **outputs random unsigned integers** over serial. Readable by **any program** on the other end.
 
 [![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=EntropyVisualizer&color=yellow&logo=github)](https://github.com/mklemmingen/EntropyVisualizer)
 
@@ -368,7 +368,7 @@ Microcontroller generating **randomness from analog sensor noise** including gas
 
 Q2 2025 | AGPL-3.0 | Ongoing
 
-Scans Telegram group messages for **Ukrainian air alarm data** and extracts location information on UAVs, missiles and planes. Plots **time-fading markers on a QGIS map** for situational awareness. Runs **fully local** after receiving the Telegram data.
+Scans Telegram group messages for **Ukrainian air alarm data**. Extracts locations of UAVs, missiles and planes. Plots **time-fading markers on a QGIS map**. Runs **fully local** after receiving the Telegram data.
 
 [![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=TelegramToMap&color=red&logo=github)](https://github.com/mklemmingen/TelegramToMap)
 
@@ -435,7 +435,7 @@ Interactive **browser-based statistics tutorial** teaching data science approach
 
 Q1 2025 | AGPL-3.0 | Finished
 
-Interactive art installation projecting across **270 degrees** to experience a life's musical emotions through memories of birthdays. Combines **Arduino sensor input** with TouchDesigner visuals and DaVinci Resolve post-production. Exhibited as a **walk-in immersive experience**.
+Art installation projecting across **270 degrees**. Links birthday audio recordings to reactive visuals. Combines **Arduino sensor input** with TouchDesigner and DaVinci Resolve. Exhibited as a **walk-through projection room**.
 
 [![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=MIXTAPE&color=red&logo=github)](https://github.com/mklemmingen/MIXTAPE)
 
@@ -456,7 +456,7 @@ Interactive art installation projecting across **270 degrees** to experience a l
 
 Q1 2025 | MIT | Finished
 
-UI/UX design for a **family outdoor vehicle infotainment system** with improved machine control and entertainment features. Prototyped in **Figma with interactive flows** and exported to HTML. Focuses on **glove-friendly touch targets** and outdoor readability.
+UI/UX design for a **family outdoor vehicle infotainment system** covering navigation, vehicle controls and media. Prototyped in **Figma with interactive flows** and exported to HTML. Uses **large touch targets** and high-contrast layouts.
 
 [![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=OutdoorInfotainment&color=green&logo=github)](https://github.com/mklemmingen/OutdoorInfotainment)
 
@@ -523,7 +523,7 @@ Educational tool demonstrating **HID attack vectors** using cheap USB microcontr
 
 Q3 2024 | AGPL-3.0 | Finished
 
-Three **ready-to-fork board game frameworks** providing a blank template, a chess implementation and a checkers implementation. Each runs as a **standalone desktop application** with rendering, input and game loop handled. Designed for **game jam participants** who need a working base in minutes.
+Three **ready-to-fork board game frameworks** providing a blank template, a chess implementation and a checkers implementation. Each runs as a **standalone desktop application** with rendering, input and game loop handled. Fork one, have a **running board game** in minutes.
 
 [![Blank](https://img.shields.io/static/v1?label=mklemmingen&message=BareBoardGameJam&color=purple&logo=github)](https://github.com/mklemmingen/GameJamFramework)
 [![Chess](https://img.shields.io/static/v1?label=mklemmingen&message=GameJamChess&color=green&logo=github)](https://github.com/mklemmingen/GameJamChess)
@@ -548,7 +548,7 @@ Three **ready-to-fork board game frameworks** providing a blank template, a ches
 
 Q3 2024 | AGPL-3.0 | Finished
 
-Step-by-step tutorial on creating **dynamic animated logos** using only CSS. Covers keyframes, transforms and transitions to build **visually complex animations** from scratch. Designed as a **self-contained learning resource** with live-editable examples.
+Step-by-step tutorial on creating **animated logos** using only CSS. Covers keyframes, transforms and transitions with **working examples** at each step. Single HTML file with **live-editable code**, no build step.
 
 [![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=CSSArtTutorial&color=grey&logo=github)](https://github.com/mklemmingen/CSSArtTutorial)
 
@@ -569,7 +569,7 @@ Step-by-step tutorial on creating **dynamic animated logos** using only CSS. Cov
 
 Q1-Q2 2024 | MIT | Finished
 
-Four university projects: a **Levenshtein distance corruption restorer** in C++, a producer-consumer concurrency displayer in Java AWT, a function graph plotter in Python/Tkinter, and **PGM filter operations** with a custom canvas display.
+Four university projects. **Levenshtein distance restorer** in C++. Producer-consumer displayer in Java AWT. Function graph plotter in Python. **PGM filter operations** with custom canvas display.
 
 [![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=Q1Q22024Projects&color=red&logo=applearcade)](https://github.com/mklemmingen/Q1Q2Projects2024)
 
@@ -592,7 +592,7 @@ Four university projects: a **Levenshtein distance corruption restorer** in C++,
 
 Q3 2023 - Q1 2024 | AGPL-3.0
 
-Military-pixel chess variant where pieces have **health and complex combat relations** instead of instant captures. Features three **bot difficulty modes**, challenge scenarios and multiple team colors. Available as a **desktop and Android app** with music by Wambutz.
+Military-pixel chess variant where pieces have **health and complex combat relations** instead of instant captures. Includes three **bot difficulty modes**, challenge scenarios and multiple team colors. Available as a **desktop and Android app** with music by Wambutz.
 
 [![Desktop](https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessDesktop&color=blue&logo=applearcade)](https://github.com/mklemmingen/boom-chess)
 [![Android](https://img.shields.io/static/v1?label=mklemmingen&message=BoomChessAndroid&color=blue&logo=applearcade)](https://github.com/mklemmingen/BoomChess-Android)
@@ -680,7 +680,7 @@ A **randomly generated 3D maze** game where a space mouse searches for cheese. E
 
 Q2 2023 | Unlicense | Finished
 
-Word-guessing game that uses datasets and hash maps to calculate the **most likely word** from partial letter reveals. The AI opponent selects words that are **statistically hardest to guess** given current knowledge. A twist on classic hangman with **data-driven difficulty**.
+Word-guessing game that uses datasets and hash maps to calculate the **most likely word** from partial letter reveals. The AI opponent selects words that are **statistically hardest to guess** given current letters. Difficulty scales with the **dataset**.
 
 [![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=hangman-2&color=blue&logo=steam)](https://github.com/mklemmingen/hangman-2)
 
