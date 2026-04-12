@@ -730,40 +730,6 @@ Ongoing
 
 </table>
 
----
-
-<div align="center">
-
-### GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=mklemmingen&show_icons=true&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=mklemmingen&show_icons=true&theme=default&hide_border=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=mklemmingen&show_icons=true&hide_border=true" height="180">
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mklemmingen&layout=compact&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mklemmingen&layout=compact&theme=default&hide_border=true">
-  <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mklemmingen&layout=compact&hide_border=true" height="180">
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mklemmingen&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=mklemmingen&theme=default&hide_border=true">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=mklemmingen&hide_border=true" height="180">
-</picture>
-
----
-
-<a href="https://data.typeracer.com/pit/profile?user=mklemmingen&ref=badge" target="_top">
-  <img src="https://data.typeracer.com/misc/badge?user=mklemmingen" border="0" alt="TypeRacer scorecard for mklemmingen">
-</a>
-
-</div>
-
 <!--
 ### cleanSmut
 Python script to recursively traverse a directory structure and check all image/video files
