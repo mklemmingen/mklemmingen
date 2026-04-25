@@ -61,6 +61,22 @@ Media- & Communication Informatics @ Hochschule Reutlingen
 
 <tr>
 <td width="60%" valign="top">
+
+### InnoLab — DigitalExchangePlattform: Plug & Play Data-Frugal Exchange Platform
+Q2 2026 | INF Faculty HSRT
+
+**Self-hosted, privacy-first exchange platform** with magic-link authentication, SSR React, and a no-log architecture. Designed for institutional deployment with minimal data footprint and full data sovereignty.
+
+<sub>React (SSR), Neon, Magic Link, Postgres</sub>
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="informatik-logo.png" alt="Reutlingen University" height="50">
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="top">
   
 ### VISIR Research Group -- Migraine Prediction Models: XGBoost -> Foundational tabular models -> Explainability -> Medically pretrained models -> Deep Learning
 
