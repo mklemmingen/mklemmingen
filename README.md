@@ -66,6 +66,8 @@ Media- & Communication Informatics @ Hochschule Reutlingen
 
 Q2 2026 | TEC Faculty HSRT
 
+[![shd-migraine-benchmark](https://img.shields.io/static/v1?label=mklemmingen&message=shd-migraine-benchmark&color=blue&logo=github)](https://github.com/mklemmingen/migraine-forecasting-shd)
+
 <sub>Python, XGBoost, TabPFN, SHAP, PyTorch</sub>
 
 </td>
