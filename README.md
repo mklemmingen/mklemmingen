@@ -61,6 +61,26 @@ Media- & Communication Informatics @ Hochschule Reutlingen
 
 <tr>
 <td width="60%" valign="top">
+  
+### VISIR Research Group -- Migraine Prediction Models: XGBoost -> Foundational tabular models -> Explainability -> Medically pretrained models -> Deep Learning
+
+Q2 2026 | TEC Faculty HSRT
+
+<sub>Python, XGBoost, TabPFN, SHAP, PyTorch</sub>
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+  
+<img src="informatik-logo.png" alt="Reutlingen University" height="50">
+<img height="80" alt="image" src="https://github.com/user-attachments/assets/5fc3ac40-31fb-4e14-ae44-6d3f90ec3bae" />
+
+</td>
+
+</tr>
+
+<tr>
+<td width="60%" valign="top">
 
 ### VISIR Research Group -- ModernGL 3D Visualisation of RoboSoccer
 
@@ -75,7 +95,8 @@ Q1 2026 | TEC Faculty HSRT
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+<img src="informatik-logo.png" alt="Reutlingen University" height="50">
+<img height="80" alt="image" src="https://github.com/user-attachments/assets/5fc3ac40-31fb-4e14-ae44-6d3f90ec3bae" />
 
 </td>
 </tr>
