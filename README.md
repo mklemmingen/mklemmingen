@@ -62,12 +62,12 @@ Media- & Communication Informatics @ Hochschule Reutlingen
 <tr>
 <td width="60%" valign="top">
 
-### InnoLab — DigitalExchangePlattform: Plug & Play Data-Frugal Exchange Platform
+### Community-based Everything-Exchange Bulletin Board: Plug & Play, Data-Frugal, for any kind of email-domain-sharing entity 
 Q2 2026 | INF Faculty HSRT
 
 [![relay-zero-host](https://img.shields.io/static/v1?label=InnoLab-2026&message=relay-zero-host&color=teal&logo=github)](https://github.com/InnoLab-2026/relay-zero-host)
 
-**Self-hosted, privacy-first exchange platform** with magic-link authentication, SSR React, and a no-log architecture. Designed for institutional deployment with minimal data footprint and full data sovereignty.
+**Self-hosted, privacy-first connection platform** with magic-link authentication, SSR React, and a no-log architecture. Designed for institutional deployment with minimal data footprint and full data sovereignty.
 
 <sub>React (SSR), Neon, Magic Link, Postgres</sub>
 </td>
