@@ -27,7 +27,7 @@ Open Source Contributions: 3 PyPI packages published, 20+ public repositories, l
 
 Media- & Communication Informatics @ Hochschule Reutlingen
 
-📫 contactmarty.certify938@passinbox.com &nbsp;&middot;&nbsp; 📄 [Papers](https://github.com/mklemmingen/Papers)
+📫 contactmarty.certify938@passinbox.com &nbsp;&middot;&nbsp; 📄 [Works](https://github.com/mklemmingen/Papers)
 
 ---
 
