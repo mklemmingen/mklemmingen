@@ -59,40 +59,28 @@ Media- & Communication Informatics @ Hochschule Reutlingen
 
 <table>
 
-
 <tr>
 <td width="60%" valign="top">
+  
+### VISIR Research Group -- Migraine Prediction Models: XGBoost -> Foundational tabular models -> Explainability -> Data Augmentation and Automated Feature Pruning -> Deep Learning
 
-### Continual μ-Training on Edge Devices: A Survey of On-Device Personalisation
-Q2Q3 2026 | INF Faculty HSRT
+Q2Q3 2026 | TEC Faculty HSRT
 
-[![ContinualEdgeDevicePersonalisation](https://img.shields.io/static/v1?label=ConferencePaper&message=OnDevicePersonalisaton&color=teal&logo=github)](https://github.com/mklemmingen/ContinualEdgeDevicePersonalisation)
+[![shd-migraine-benchmark](https://img.shields.io/static/v1?label=mklemmingen&message=shd-migraine-benchmark&color=blue&logo=github)](https://github.com/mklemmingen/migraine-forecasting-shd)
 
-Wearable health devices and IoT sensors collect physiological data
-that varies between individuals and drifts over time. Pre-trained
-models optimised for population-level distributions miss this
-variability, while sending raw data or training gradients to the
-cloud raises documented privacy risks including Deep Leakage from
-Gradients (DLG) attacks. This paper surveys continual on-device
-mu-training, in which a small subset of a neural network's
-parameters is updated directly on resource-constrained edge
-hardware. Recent work on mu-trainers, metaplastic binary
-networks, and label-free drift detection is organised along the
-four evaluation axes of Huang et al.: calculation
-complexity, privacy, accuracy, and runtime/energy. The survey
-identifies that direct per-update energy measurement on wearable
-hardware is missing from every surveyed $\mu$-training source, and
-proposes three concrete benchmark targets: per-update energy in
-muJ, backward-transfer accuracy on a fixed shift sequence, and
-drift-detection latency in samples.
+<sub>Python, XGBoost, TabPFN, SHAP, PyTorch</sub>
 
-<sub>Pytorch, Raspi5</sub>
 </td>
+
 <td width="40%" align="center" valign="middle">
-
+  
 <img src="informatik-logo.png" alt="Reutlingen University" height="50">
+<img height="80" alt="image" src="https://github.com/user-attachments/assets/5fc3ac40-31fb-4e14-ae44-6d3f90ec3bae" />
+
 </td>
+
 </tr>
+
 
 <tr>
 <td width="60%" valign="top">
@@ -114,24 +102,45 @@ Q2Q3 2026 | INF Faculty HSRT
 
 <tr>
 <td width="60%" valign="top">
-  
-### VISIR Research Group -- Migraine Prediction Models: XGBoost -> Foundational tabular models -> Explainability -> Data Augmentation and Automated Feature Pruning -> Deep Learning
 
-Q2Q3 2026 | TEC Faculty HSRT
+### Continual μ-Training on Edge Devices: A Survey of On-Device Personalisation
+Q2 2026 | Conference Paper | INF Faculty HSRT
 
-[![shd-migraine-benchmark](https://img.shields.io/static/v1?label=mklemmingen&message=shd-migraine-benchmark&color=blue&logo=github)](https://github.com/mklemmingen/migraine-forecasting-shd)
+[![ContinualEdgeDevicePersonalisation](https://img.shields.io/static/v1?label=ConferencePaper&message=OnDevicePersonalisaton&color=teal&logo=github)](https://github.com/mklemmingen/ContinualEdgeDevicePersonalisation)
 
-<sub>Python, XGBoost, TabPFN, SHAP, PyTorch</sub>
+Wearable health and IoT data drifts per-user over time, but pre-trained
+models miss that variability and **uploading gradients to the cloud is
+vulnerable to Deep Leakage from Gradients (DLG) attacks**. This paper
+surveys **continual on-device μ-training** — updating only a small
+intermediate subset of a pre-trained network directly on the device —
+together with **metaplastic binary networks** and **label-free drift
+detection**, organised along the four axes of Huang et al. (complexity,
+privacy, accuracy, runtime/energy). The survey identifies that
+**per-update energy on wearable hardware is unreported** in every
+surveyed μ-training source, and proposes three concrete benchmark
+targets (per-update μJ, backward-transfer accuracy, drift-detection
+latency). A **Raspberry Pi 5 pilot measurement** anchors the central
+claim with a measured **4.0× marginal-energy advantage** of μ-training
+over full-network training on the same device.
 
+<sub>PyTorch · Raspberry Pi 5 · DA9091 PMIC (vcgencmd) · LaTeX (IEEEtran)</sub>
 </td>
-
 <td width="40%" align="center" valign="middle">
-  
+
+<img src="https://raw.githubusercontent.com/mklemmingen/ContinualEdgeDevicePersonalisation/main/pilot/fig_trainable_sweep.png" alt="Per-update wall-time and marginal energy vs trainable-parameter fraction (μ-training is 4.0× lower than full-net)" width="260">
+
+<br><br>
+
 <img src="informatik-logo.png" alt="Reutlingen University" height="50">
-<img height="80" alt="image" src="https://github.com/user-attachments/assets/5fc3ac40-31fb-4e14-ae44-6d3f90ec3bae" />
-
 </td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
+<img src="https://raw.githubusercontent.com/mklemmingen/ContinualEdgeDevicePersonalisation/main/pilot/fig_power_timeline.png" alt="Pi 5 power telemetry over the 440 s pilot run, coloured by pipeline phase" width="100%">
+
+<sub>Live PMIC trace from the 440 s pilot run, phase-coloured: idle → inference / timing → 5-config trainable-fraction sweep → SGD vs Adam → WLV drift detector → BWT proxy → teardown.</sub>
+</td>
 </tr>
 
 <tr>
