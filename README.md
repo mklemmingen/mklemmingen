@@ -74,16 +74,16 @@ models optimised for population-level distributions miss this
 variability, while sending raw data or training gradients to the
 cloud raises documented privacy risks including Deep Leakage from
 Gradients (DLG) attacks. This paper surveys continual on-device
-$\mu$-training, in which a small subset of a neural network's
+mu-training, in which a small subset of a neural network's
 parameters is updated directly on resource-constrained edge
-hardware. Recent work on $\mu$-trainers, metaplastic binary
+hardware. Recent work on mu-trainers, metaplastic binary
 networks, and label-free drift detection is organised along the
-four evaluation axes of Huang et al.~\cite{b1}: calculation
+four evaluation axes of Huang et al.: calculation
 complexity, privacy, accuracy, and runtime/energy. The survey
 identifies that direct per-update energy measurement on wearable
 hardware is missing from every surveyed $\mu$-training source, and
 proposes three concrete benchmark targets: per-update energy in
-$\mu$J, backward-transfer accuracy on a fixed shift sequence, and
+muJ, backward-transfer accuracy on a fixed shift sequence, and
 drift-detection latency in samples.
 
 <sub>Pytorch, Raspi5</sub>
