@@ -64,7 +64,7 @@ Media- & Communication Informatics @ Hochschule Reutlingen
   
 ### VISIR Research Group -- Migraine Prediction Models: XGBoost -> Foundational tabular models -> Explainability -> Data Augmentation and Automated Feature Pruning -> Deep Learning
 
-Q2Q3 2026 | TEC Faculty HSRT
+Q2Q3 2026 | Journal Paper | TEC Faculty HSRT
 
 [![shd-migraine-benchmark](https://img.shields.io/static/v1?label=mklemmingen&message=shd-migraine-benchmark&color=blue&logo=github)](https://github.com/mklemmingen/migraine-forecasting-shd)
 
