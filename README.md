@@ -59,6 +59,41 @@ Media- & Communication Informatics @ Hochschule Reutlingen
 
 <table>
 
+
+<tr>
+<td width="60%" valign="top">
+
+### Continual μ-Training on Edge Devices: A Survey of On-Device Personalisation
+Q2Q3 2026 | INF Faculty HSRT
+
+[![ContinualEdgeDevicePersonalisation](https://img.shields.io/static/v1?label=ConferencePaper&message=OnDevicePersonalisaton&color=teal&logo=github)](https://github.com/mklemmingen/ContinualEdgeDevicePersonalisation)
+
+Wearable health devices and IoT sensors collect physiological data
+that varies between individuals and drifts over time. Pre-trained
+models optimised for population-level distributions miss this
+variability, while sending raw data or training gradients to the
+cloud raises documented privacy risks including Deep Leakage from
+Gradients (DLG) attacks. This paper surveys continual on-device
+$\mu$-training, in which a small subset of a neural network's
+parameters is updated directly on resource-constrained edge
+hardware. Recent work on $\mu$-trainers, metaplastic binary
+networks, and label-free drift detection is organised along the
+four evaluation axes of Huang et al.~\cite{b1}: calculation
+complexity, privacy, accuracy, and runtime/energy. The survey
+identifies that direct per-update energy measurement on wearable
+hardware is missing from every surveyed $\mu$-training source, and
+proposes three concrete benchmark targets: per-update energy in
+$\mu$J, backward-transfer accuracy on a fixed shift sequence, and
+drift-detection latency in samples.
+
+<sub>Pytorch, Raspi5</sub>
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="informatik-logo.png" alt="Reutlingen University" height="50">
+</td>
+</tr>
+
 <tr>
 <td width="60%" valign="top">
 
