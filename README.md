@@ -83,8 +83,7 @@ Media- & Communication Informatics @ Hochschule Reutlingen
 
   <img src="informatik-logo.png" alt="Reutlingen University" 
   height="50">
-  <img height="80" alt="image" src="https://github.com/user-attachment
-  s/assets/5fc3ac40-31fb-4e14-ae44-6d3f90ec3bae" />
+  <img height="80" alt="image" src="https://github.com/user-attachments/assets/5fc3ac40-31fb-4e14-ae44-6d3f90ec3bae" />
 
   </td>
   </tr>
