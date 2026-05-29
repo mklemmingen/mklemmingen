@@ -59,27 +59,35 @@ Media- & Communication Informatics @ Hochschule Reutlingen
 
 <table>
 
-<tr>
-<td width="60%" valign="top">
+  <tr>
+  <td width="60%" valign="top">
+
+  ### VISIR Research Group -- Migraine Prediction Models: XGBooststacking -> foundational tabular models (TabPFN) -> explainability -> temporal & sequence models -> personalisation & clinical value
   
-### VISIR Research Group -- Migraine Prediction Models: XGBoost -> Foundational tabular models -> Explainability -> Data Augmentation and Automated Feature Pruning -> Deep Learning
+  Q2Q3 2026 | Journal Paper | TEC Faculty HSRT
 
-Q2Q3 2026 | Journal Paper | TEC Faculty HSRT
-
-[![shd-migraine-benchmark](https://img.shields.io/static/v1?label=mklemmingen&message=shd-migraine-benchmark&color=blue&logo=github)](https://github.com/mklemmingen/migraine-forecasting-shd)
-
-<sub>Python, XGBoost, TabPFN, SHAP, PyTorch</sub>
-
-</td>
-
-<td width="40%" align="center" valign="middle">
+  [![shd-migraine-benchmark](https://img.shields.io/static/v1?label=mklemmingen&message=shd-migraine-benchmark&color=blue&logo=github)](https://github.com/mklemmingen/migraine-forecasting-shd)
   
-<img src="informatik-logo.png" alt="Reutlingen University" height="50">
-<img height="80" alt="image" src="https://github.com/user-attachments/assets/5fc3ac40-31fb-4e14-ae44-6d3f90ec3bae" />
+  <sub>Next-day headache and migraine forecasting on the Park 2016
+  Smartphone Headache Diary cohort (n=62): architecture benchmark with
+  paired DeLong / BH-FDR significance testing, calibration and
+  explainability analysis, a within-person personalisation track,
+  leave-one-site-out external validation, and TRIPOD+AI
+  reporting.</sub>
 
-</td>
+  <sub>Python · XGBoost · TabPFN · SHAP / ShapIQ / ALE · PyTorch ·
+  scikit-learn</sub>
 
-</tr>
+  </td>
+  <td width="40%" align="center" valign="middle">
+
+  <img src="informatik-logo.png" alt="Reutlingen University" 
+  height="50">
+  <img height="80" alt="image" src="https://github.com/user-attachment
+  s/assets/5fc3ac40-31fb-4e14-ae44-6d3f90ec3bae" />
+
+  </td>
+  </tr>
 
 
 <tr>
