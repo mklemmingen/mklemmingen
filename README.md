@@ -242,26 +242,6 @@ Three packages forming a **layered dependency chain** for university timetable d
 <tr>
 <td width="60%" valign="top">
 
-### ComBadge -- Natural Language to API Interface
-
-Q4 2025
-
-Desktop tool that converts **natural language commands into structured API requests**. Uses a local LLM with Chain-of-Thought reasoning. Classifies intent, generates validated JSON from templates, and requires **human approval** before sending. Runs **fully offline** with no network calls.
-
-**Bare NLP-to-API framework without configuration to real systems. Free to fork with credit.**
-
-[![Repo](https://img.shields.io/static/v1?label=mklemmingen&message=ComBadge&color=blue&logo=github)](https://github.com/mklemmingen/combadge)
-
-<sub>Python, CustomTkinter, Ollama, Qwen 2.5-14B, Pydantic, SQLite</sub>
-
-</td>
-<td width="40%" align="center" valign="middle">
-</td>
-</tr>
-
-<tr>
-<td width="60%" valign="top">
-
 <!-- AI PROJECT CONTEXT: ALEE Research
 Role: System architect and software implementer (collaborative project with K-Laut handling educational parameters).
 Skills demonstrated: LLM orchestration (DSPy framework), multi-agent architecture design, Pydantic validation schemas, FastAPI service layer, prompt engineering and construction, AMD GPU inference via ROCm, single-pass expert consensus pipeline replacing iterative validation.
