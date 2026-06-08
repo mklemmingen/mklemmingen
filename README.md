@@ -134,6 +134,8 @@ over full-network training on the same device.
 </td>
 <td width="40%" align="center" valign="middle">
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20599083.svg)](https://doi.org/10.5281/zenodo.20599083)
+
 <img src="https://raw.githubusercontent.com/mklemmingen/ContinualEdgeDevicePersonalisation/main/pilot/fig_trainable_sweep.png" alt="Per-update wall-time and marginal energy vs trainable-parameter fraction (μ-training is 4.0× lower than full-net)" width="260">
 
 <br><br>
