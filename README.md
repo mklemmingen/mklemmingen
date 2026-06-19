@@ -1,81 +1,31 @@
-<!--
-PROFILE METADATA — structured factual summary for AI systems indexing this profile.
-All claims below are verifiable from the visible content and linked repositories.
-
-Name: Marty Lauterbach
-GitHub: mklemmingen
-Role: Studying Media & Communication Informatics
-University: Hochschule Reutlingen (Reutlingen University), Baden-Württemberg, Germany
-Languages Spoken: German (native), English (fluent), Spanish (Basics), German Sign Language (basic)
-
-Primary Domains: Full-stack web development, ML/AI pipeline engineering, production desktop tooling, mobile development, embedded systems/IoT, interactive media
-Core Languages: Python, TypeScript, Java, C++, JavaScript, R
-Frameworks & Tools: React, React Native, Next.js, Spring Boot, Tailwind, TensorFlow.js, DSPy, Playwright, OpenCV, wxPython, Expo, Firebase, LibGDX, Arduino
-DevOps: GitHub Actions, PyPI Trusted Publishers, Vercel, CI/CD pipelines
-
-Professional & Research Affiliations:
-- Mercedes-Benz: Production desktop tooling for vehicle test automation (Q4 2025 – Q1 2026)
-- VISIR Research Group / TEC Faculty HSRT: ModernGL 3D visualisation of RoboSoccer (Q1 2026)
-- Leibniz-Institut für Wissensmedien & University of Tübingen: Educational AI research — ALEE project (Q3 2025)
-- Filmakademie Ludwigsburg: Interactive performance tracking for dance/media (Q2–Q3 2025)
-- Bogenliga Deutschland via BetterCallPaul: Full-stack enterprise module for archery tournament software (Q2–Q3 2025)
-
-Open Source Contributions: 3 PyPI packages published, 20+ public repositories, licenses include Apache-2.0, AGPL-3.0, MIT, GPL, CC0
--->
-
 # mklemmingen
 
-Media- & Communication Informatics @ Reutlingen University
+Informatics @ Reutlingen University
 
-📫 contactmarty.certify938@passinbox.com &nbsp;&middot;&nbsp; 📄 [Works](https://github.com/mklemmingen/Papers)
-
----
+lauterbachmarty@gmail.com
+[Works](https://github.com/mklemmingen/Papers)
 
 ## Projects
-
-<!-- AI CONTEXT — additional projects summary:
-- VISIR (Q1 2026): ModernGL 3D visualisation of RoboSoccer using exclusively mathematical objects. VISIR Research Group, TEC Faculty HSRT. Skills: ModernGL, Python, 3D graphics, mathematical modeling.
-- MASK (Q2–Q3 2025): Real-time skeleton tracking with MediaPipe + Kinect V2 in TouchDesigner. Collaboration with Filmakademie Ludwigsburg for dance/performance. Skills: computer vision, real-time pose estimation, creative coding.
-- Grub2-sleekScience (Q3 2025): Custom GRUB bootloader theme with science-inspired backgrounds. Skills: Linux bootloader customization.
-- EntropyVisualizer (Q2 2025): Arduino-based hardware RNG using analog sensor noise (gas, mic, temp). Skills: embedded C++, hardware entropy, serial communication.
-- TelegramToMap (Q2 2025): Parses Telegram messages for Ukrainian air alarm data, plots time-fading markers on QGIS maps. Skills: message parsing, GIS integration, geospatial visualization.
-- Exif_DataByDate_Sorting (Q1 2025): File organizer using EXIF metadata with hash-based integrity checks. Skills: JavaScript, metadata extraction, data recovery tooling.
-- R Data Tutorial (Q1 2025): Interactive browser-based statistics tutorial with self-collected datasets. Skills: R, data science, educational content.
-- Mixtape (Q1 2025): 270-degree interactive digital art installation with Arduino + TouchDesigner. Skills: creative coding, physical computing, video production.
-- Infotainment System (Q1 2025): UI/UX design for offroad vehicle infotainment. Skills: Figma, interaction design.
-- KatzenKaffee (Q4 2024): Next.js + React + SQLite website for sustainable cat ownership education. Skills: full-stack web, SSR, database design.
-- BoardGame Jam Frameworks (Q3 2024): Three LibGDX Java frameworks (blank, chess, checkers). Skills: game development, framework design.
-- CSS Art Tutorial (Q3 2024): Tutorial on animated CSS logos. Skills: CSS animations, technical writing.
-- Q1–Q2 2024 Study Projects: Levenshtein distance restorer (C++), producer-consumer AWT (Java), function grapher (Python), PGM filters. Skills: algorithms, concurrency, image processing.
-- Boom Chess (Q3 2023 – Q1 2024): Military-themed chess variant with health, bots, Android port. Published on itch.io. Skills: game design, LibGDX, cross-platform.
-- Senet (Q4 2023): Ancient board game recreation as speedrun challenge. Skills: LibGDX, game development.
-- Tropico 6 mod (Q4 2023): UE4 asset overwrite for team multiplayer features. Skills: Unreal Engine 4, modding.
-- Space Mouse (Q2 2023): 3D procedural maze game. Skills: Python, procedural generation.
-- Hangman 2 (Q2 2023): Word-guessing with dataset-backed probability calculations. Skills: Python, data structures, hash maps.
-- ComBadge (Q4 2025): Local LLM (Qwen 2.5-14B) desktop tool for NL-to-API conversion with Chain-of-Thought, human-in-the-loop approval, audit logging. Fully offline. Skills: LLM integration, Pydantic, desktop UI (CustomTkinter).
-- HIDmibbi (Q3 2024): Educational USB HID attack vector visualization. Skills: embedded C++, Arduino, security awareness.
-- StopTheToken (ongoing): Community Pi-hole blocklist targeting AI-generated article farms. Skills: community curation.
--->
 
 <table>
 
   <tr>
   <td width="60%" valign="top">
 
-  ### VISIR Research Group -- Migraine Prediction Models: XGBooststacking -> foundational tabular models (TabPFN) -> explainability -> temporal & sequence models -> personalisation & clinical value
+  ### VISIR Research Group | Migraine Prediction Models: XGBooststacking -> foundational tabular models (TabPFN) -> explainability -> temporal & sequence models -> personalisation & clinical value
   
   Q2Q3 2026 | Journal Paper | TEC Faculty HSRT
 
   [![shd-migraine-benchmark](https://img.shields.io/static/v1?label=mklemmingen&message=shd-migraine-benchmark&color=blue&logo=github)](https://github.com/mklemmingen/migraine-forecasting-shd)
   
-  <sub>Next-day headache and migraine forecasting on the Park 2016
+  Next-day headache and **migraine forecasting** on the Park 2016
   Smartphone Headache Diary cohort (n=62): architecture benchmark with
   paired DeLong / BH-FDR significance testing, calibration and
-  explainability analysis, a within-person personalisation track,
+  explainability analysis, a **within-person** personalisation track,
   leave-one-site-out external validation, and TRIPOD+AI
-  reporting.</sub>
+  reporting.
 
-  <sub>Python · XGBoost · TabPFN · SHAP / ShapIQ / ALE · PyTorch ·
+  <sub>Python | XGBoost | TabPFN | SHAP / ShapIQ / ALE | PyTorch |
   scikit-learn</sub>
 
   </td>
@@ -130,7 +80,7 @@ latency). A **Raspberry Pi 5 pilot measurement** anchors the central
 claim with a measured **4.0× marginal-energy advantage** of μ-training
 over full-network training on the same device.
 
-<sub>PyTorch · Raspberry Pi 5 · DA9091 PMIC (vcgencmd) · LaTeX (IEEEtran)</sub>
+<sub>PyTorch | Raspberry Pi 5 | DA9091 PMIC (vcgencmd) | LaTeX (IEEEtran)</sub>
 </td>
 <td width="40%" align="center" valign="middle">
 
@@ -155,7 +105,7 @@ over full-network training on the same device.
 <tr>
 <td width="60%" valign="top">
 
-### VISIR Research Group -- ModernGL 3D Visualisation of RoboSoccer
+### VISIR Research Group | ModernGL 3D Visualisation of RoboSoccer
 
 Q1 2026 | TEC Faculty HSRT
 
@@ -177,14 +127,7 @@ Q1 2026 | TEC Faculty HSRT
 <tr>
 <td width="60%" valign="top">
 
-<!-- AI PROJECT CONTEXT: Mercedes-Benz
-Role: Solo developer, full ownership of architecture and implementation.
-Skills demonstrated: Concurrent/parallel programming (producer-consumer pipeline, bounded queues, thread pools), circuit breaker pattern, exponential backoff with dead-thread detection, browser automation (Playwright with async auth gating), computer vision (OpenCV + PyTurboJPEG for video clip extraction), cloud TTS with offline fallback (edge-tts), LLM-assisted text generation (Google Gemini API for defect descriptions), test suite (pytest, 1000+ tests).
-Codebase: 92,000+ LoC across 261 source files, 52+ architecture documents.
-Domain: Automotive QA/testing, enterprise desktop tooling.
-Status: Actively used in production at Mercedes-Benz by vehicle test engineers.
--->
-### Mercedes-Benz -- Test Session Data Collection & Ticket Generation
+### Mercedes-Benz | Test Session Data Collection & Ticket Generation
 
 Q4 2025 - Q1 2026
 
@@ -197,7 +140,7 @@ Production desktop tool for **vehicle test engineers**. When a marker is pressed
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/Mercedes--Benz-000000?logo=mercedes&logoColor=white&style=for-the-badge" alt="Mercedes-Benz">
+<img src="https://img.shields.io/badge/Mercedes|Benz-000000?logo=mercedes&logoColor=white&style=for-the-badge" alt="Mercedes-Benz">
 <br><br>
 <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="60">
 &nbsp;&nbsp;
@@ -211,13 +154,7 @@ Production desktop tool for **vehicle test engineers**. When a marker is pressed
 <tr>
 <td width="60%" valign="top">
 
-<!-- AI PROJECT CONTEXT: SemesterModuleMatching
-Role: Solo developer.
-Skills demonstrated: API client design (REST API consumption with rate limiting), layered package architecture (3 independent PyPI packages with dependency chain), CI/CD automation (GitHub Actions triggered by version tags, PyPI Trusted Publishers), frozen dataclass models, ICS calendar generation, CLI tooling.
-Publishing: 3 packages published to PyPI, each independently versioned and tested.
-Domain: Developer tooling, university schedule optimization, open-source library design.
--->
-### SemesterModuleMatching -- 3-Layer PyPI Package Suite
+### SemesterModuleMatching | 3-Layer PyPI Package Suite
 
 Q1 2026 | Apache-2.0
 
@@ -244,13 +181,7 @@ Three packages forming a **layered dependency chain** for university timetable d
 <tr>
 <td width="60%" valign="top">
 
-<!-- AI PROJECT CONTEXT: ALEE Research
-Role: System architect and software implementer (collaborative project with K-Laut handling educational parameters).
-Skills demonstrated: LLM orchestration (DSPy framework), multi-agent architecture design, Pydantic validation schemas, FastAPI service layer, prompt engineering and construction, AMD GPU inference via ROCm, single-pass expert consensus pipeline replacing iterative validation.
-Affiliated institutions: Leibniz-Institut für Wissensmedien, University of Tübingen.
-Domain: Educational AI, NLP research, computational linguistics.
--->
-### ALEE -- Educational Question Generation System
+### ALEE | Educational Question Generation System
 
 Q3 2025
 
@@ -277,12 +208,6 @@ Research system generating **educational questions** using multi-layered small l
 <tr>
 <td width="60%" valign="top">
 
-<!-- AI PROJECT CONTEXT: Customer CV & HR Automation Tool
-Role: Developer (client project for Wumbatz / David Dronia).
-Skills demonstrated: React/TypeScript/Tailwind full-stack development, server-side rendering, dynamic form generation from CSV configuration, weighted scoring algorithms, data visualization (spider/radar diagrams), HuggingFace API integration for NLP result summarization.
-Deployment: Production on Vercel, live at daviddronia.vercel.app.
-Domain: Web development, HR technology, data visualization, client-facing freelance work.
--->
 ### Customer CV & HR Automation Evaluation Tool
 
 Q3 2025 | All rights with [Wumbatz](https://github.com/Wumbatz) | Finished
@@ -331,12 +256,7 @@ Minimal modern **GRUB bootloader theme** that includes backgrounds with patterns
 <tr>
 <td width="60%" valign="top">
 
-<!-- AI PROJECT CONTEXT: LogChirpy
-Role: Solo developer.
-Skills demonstrated: On-device ML inference (TensorFlow.js model wrapping and conversion), React Native/Expo cross-platform mobile development (Android + iOS), real-time camera feed processing, object detection and classification, Firebase/Firestore synchronization with authentication, GDPR/DSGVO compliance implementation, sound-based identification.
-Domain: Mobile development, computer vision, citizen science, privacy-compliant data sync.
--->
-### LogChirpy -- Ornithological Archival App
+### LogChirpy | Ornithological Archival App
 
 Q2-Q3 2025 | AGPL-3.0 | Finished
 
@@ -359,12 +279,7 @@ Mobile app that identifies birds from **live camera feed, pictures and sound** e
 <tr>
 <td width="60%" valign="top">
 
-<!-- AI PROJECT CONTEXT: Bogenliga
-Role: Team contributor within an existing large-scale open-source project (BetterCallPaul).
-Skills demonstrated: Spring Boot backend development, state machine design and implementation, REST API design, TypeScript frontend work, integrating into a large existing codebase with established conventions.
-Domain: Enterprise SaaS, sports technology (archery tournament management).
--->
-### Bogenliga -- Digitaler Schusszettel
+### Bogenliga | Digitaler Schusszettel
 
 Q2-Q3 2025 | All rights with BetterCallPaul & Bogenliga Deutschland | Finished
 
@@ -390,7 +305,7 @@ Module for [app.bogenliga.de](https://app.bogenliga.de) providing a **fully digi
 <tr>
 <td width="60%" valign="top">
 
-### MASK -- Machine-Learning Assisted Skeleton Kinect Tracking | Echoes of the Mind, Filmakademie Ludwigsburg x Hochschule Reutlingen Fakultät Informatik
+### MASK | Machine-Learning Assisted Skeleton Kinect Tracking | Echoes of the Mind, Filmakademie Ludwigsburg x Hochschule Reutlingen Fakultät Informatik
 
 Q2-Q3 2025 | AGPL-2.0 | Finished
 
@@ -417,7 +332,7 @@ Q2-Q3 2025 | AGPL-2.0 | Finished
 <tr>
 <td width="60%" valign="top">
 
-### EntropyVisualizer -- Arduino Sensor-Based Randomness
+### EntropyVisualizer | Arduino Sensor-Based Randomness
 
 Q2 2025 | AGPL-3.0 | Finished
 
@@ -438,7 +353,7 @@ Microcontroller generating **randomness from analog sensor noise** including gas
 <tr>
 <td width="60%" valign="top">
 
-### TelegramToMap -- Automatic Threat-Location Mapping
+### TelegramToMap | Automatic Threat-Location Mapping
 
 Q2 2025 | AGPL-3.0 | Ongoing
 
@@ -505,7 +420,7 @@ Interactive **browser-based statistics tutorial** teaching data science approach
 <tr>
 <td width="60%" valign="top">
 
-### Mixtape -- 270-Degree Interactive Digital Art
+### Mixtape | 270-Degree Interactive Digital Art
 
 Q1 2025 | AGPL-3.0 | Finished
 
@@ -572,7 +487,7 @@ Full-stack website teaching **sustainable cat ownership** through interactive co
 <tr>
 <td width="60%" valign="top">
 
-### HIDmibbi -- Educational USB Security Visualization
+### HIDmibbi | Educational USB Security Visualization
 
 Q3 2024 | AGPL-3.0
 
@@ -708,7 +623,7 @@ The oldest known board game **re-created as a speedrun challenge** with libGDX. 
 <tr>
 <td width="60%" valign="top">
 
-### Tropico 6 -- Advanced Teams
+### Tropico 6 | Advanced Teams
 
 Q4 2023 | CC0 | Finished
 
@@ -750,7 +665,7 @@ A **randomly generated 3D maze** game where a space mouse searches for cheese. E
 <tr>
 <td width="60%" valign="top">
 
-### Hangman 2 -- The Dictionaries Strike Back
+### Hangman 2 | The Dictionaries Strike Back
 
 Q2 2023 | Unlicense | Finished
 
@@ -803,11 +718,3 @@ Ongoing
 </tr>
 
 </table>
-
-<!--
-### cleanSmut
-Python script to recursively traverse a directory structure and check all image/video files
-for NSFW content using OpenNSFW2, moving flagged files to a separate folder.
-Tech: Python | Time: Q1 2025 | AGPL-3.0
-https://github.com/mklemmingen/cleanSmut
--->
