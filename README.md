@@ -1,9 +1,6 @@
-# mklemmingen
-
-Informatics @ Reutlingen University
-
 lauterbachmarty@gmail.com
-[Works](https://github.com/mklemmingen/Papers)
+
+[Non-Published Textual Works](https://github.com/mklemmingen/Papers)
 
 ## Projects
 
