@@ -9,6 +9,25 @@ lauterbachmarty@gmail.com
   <tr>
   <td width="60%" valign="top">
 
+  ### LibGDX to ItchIO for HSRT-Students | Template for University Students learning OOP Backend-Frontend Separation via Interfaces - and want to compile their game into a itch.io accessible bundle 
+  
+  Q3Q4 2026 | Template Repository | INF Faculty HSRT - TA Job
+
+  [![LibGDXtoItchIOforHSRTStudents](https://img.shields.io/static/v1?label=mklemmingen&message=LibGDXtoItchIOforHSRTStudents&color=blue&logo=github)](https://github.com/KatIncluded/Template-LibGdx-toItchIO-HSRT)
+  
+  <sub>Java | Gradle</sub>
+
+  </td>
+  <td width="40%" align="center" valign="middle">
+
+  <img src="informatik-logo.png" alt="Reutlingen University" 
+  height="50">
+  </td>
+  </tr>
+
+  <tr>
+  <td width="60%" valign="top">
+
   ### VISIR Research Group | Migraine Prediction Models: XGBooststacking -> foundational tabular models (TabPFN) -> explainability -> temporal & sequence models -> personalisation & clinical value
   
   Q2Q3 2026 | Journal Paper | TEC Faculty HSRT
