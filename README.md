@@ -739,4 +739,4 @@ Ongoing
 
 </table>
 
-![INF2 Praktikum SoSe26 -> Certified Computerist 102](https://raw.githubusercontent.com/mklemmingen/mklemmingen/main/inf2-finisher-certified-computerist-102.png)
+![INF2 Praktikum SoSe26 -> Certified Computerist 102](https://github.com/mklemmingen/mklemmingen/blob/main/inf2-finisher-certified-computerist-102-transparent.png)
