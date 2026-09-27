@@ -738,3 +738,5 @@ Ongoing
 </tr>
 
 </table>
+
+![INF2 Praktikum SoSe26 -> Certified Computerist 102](https://raw.githubusercontent.com/mklemmingen/mklemmingen/main/inf2-finisher-certified-computerist-102.png)
