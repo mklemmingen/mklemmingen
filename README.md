@@ -36,12 +36,7 @@ LauterbachMK@tutanota.de
 
   [![shd-migraine-benchmark](https://img.shields.io/static/v1?label=mklemmingen&message=shd-migraine-benchmark&color=blue&logo=github)](https://github.com/mklemmingen/migraine-forecasting-shd)
   
-  Next-day headache and **migraine forecasting** on the Park 2016
-  Smartphone Headache Diary cohort (n=62): architecture benchmark with
-  paired DeLong / BH-FDR significance testing, calibration and
-  explainability analysis, a **within-person** personalisation track,
-  leave-one-site-out external validation, and TRIPOD+AI
-  reporting.
+  Next-day headache and migraine forecasting on the Park 2016 Smartphone Headache Diary cohort (n=62): architecture benchmark to measure model qualitites across different configurations and determine validity of common Measurements of ROC
 
   <sub>Python | XGBoost | TabPFN | SHAP / ShapIQ / ALE | PyTorch |
   scikit-learn</sub>
