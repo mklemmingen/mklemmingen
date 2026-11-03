@@ -1,4 +1,4 @@
-LauterbachMK@tutanota.de       Connect: https://www.linkedin.com/in/martinlauterbach128
+LauterbachMK@tutanota.de       [Connect](https://www.linkedin.com/in/martinlauterbach128) <sub>(opens LinkedIn)</sub>
 
 [Publications](https://orcid.org/my-orcid?orcid=0009-0007-3396-872X)
 
