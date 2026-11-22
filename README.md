@@ -16,6 +16,27 @@ LauterbachMK@protonmail.com
   <tr>
   <td width="60%" valign="top">
 
+  ### [Moodle Dark Mode: userscript that injects a system-style dark theme into any Moodle site, incl. RELAX](https://github.com/mklemmingen/moodle-dark-mode-script)
+
+  <sub>↑ Click the title to open the repository</sub>
+
+  Q4 2026 | MIT | Finished
+
+  Overrides Moodle's Bootstrap 4/5 CSS variables and core component colours with the **Material Design dark palette** (#121212 base, elevation surfaces, 87/60/38 % text). Follows the system colour scheme, with an auto/dark/light toggle in the navbar.
+
+  <sub>JavaScript | CSS | Userscript (Violentmonkey / Tampermonkey)</sub>
+
+  </td>
+  <td width="40%" align="center" valign="middle">
+
+  <img src="informatik-logo.png" alt="Reutlingen University" 
+  height="50">
+  </td>
+  </tr>
+
+  <tr>
+  <td width="60%" valign="top">
+
   ### [LibGDX to ItchIO for HSRT-Students | Template for University Students learning OOP Backend-Frontend Separation via Interfaces - and want to compile their game into a itch.io accessible bundle](https://github.com/KatIncluded/Template-LibGdx-toItchIO-HSRT)
 
   <sub>↑ Click the title to open the repository</sub>
