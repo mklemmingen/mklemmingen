@@ -29,6 +29,12 @@ LauterbachMK@protonmail.com
   </td>
   <td width="40%" align="center" valign="middle">
 
+  <a href="https://greasyfork.org/en/scripts/606811-moodle-dark-mode"><img src="greasyfork-logo.png" alt="Install from Greasy Fork" height="60"></a>
+  <br>
+  <sub><a href="https://greasyfork.org/en/scripts/606811-moodle-dark-mode">Install on Greasy Fork</a></sub>
+
+  <br><br>
+
   <img src="informatik-logo.png" alt="Reutlingen University" 
   height="50">
   </td>
