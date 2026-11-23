@@ -29,6 +29,10 @@ LauterbachMK@protonmail.com
   </td>
   <td width="40%" align="center" valign="middle">
 
+  <img src="showcase/moodle-dark-mode.gif" alt="Moodle course page and front page switching from light to dark mode" width="300">
+
+  <br><br>
+
   <a href="https://greasyfork.org/en/scripts/606811-moodle-dark-mode"><img src="greasyfork-logo.png" alt="Install from Greasy Fork" height="60"></a>
   <br>
   <sub><a href="https://greasyfork.org/en/scripts/606811-moodle-dark-mode">Install on Greasy Fork</a></sub>
@@ -76,9 +80,20 @@ LauterbachMK@protonmail.com
   </td>
   <td width="40%" align="center" valign="middle">
 
+  <img src="showcase/migraine-shap-beeswarm.png" alt="SHAP beeswarm: feature impact on next-day migraine probability" width="280">
+
+  <br><br>
+
   <img src="informatik-logo.png" alt="Reutlingen University" 
   height="50">
   <img height="80" alt="image" src="https://github.com/user-attachments/assets/5fc3ac40-31fb-4e14-ae44-6d3f90ec3bae" />
+
+  </td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center">
+
+  <img src="showcase/migraine-graphical-abstract.png" alt="Graphical abstract: pooled AUROC overstates within-person discrimination" width="100%">
 
   </td>
   </tr>
@@ -94,9 +109,15 @@ Q2Q3 2026 | INF Faculty HSRT
 
 **Self-hosted, privacy-first connection platform** with magic-link authentication, SSR React, and a no-log architecture. Designed for institutional deployment with minimal data footprint and full data sovereignty.
 
+**Live:** [feedmyfrog.click](https://feedmyfrog.click)
+
 <sub>React (SSR), Neon, Magic Link, Postgres</sub>
 </td>
 <td width="40%" align="center" valign="middle">
+
+<a href="https://feedmyfrog.click"><img src="showcase/feedmyfrog-languages.gif" alt="FeedmyFrog sign-in page cycling through German, French, Turkish, Spanish and English" width="230"></a>
+
+<br><br>
 
 <img src="informatik-logo.png" alt="Reutlingen University" height="50">
 </td>
@@ -161,6 +182,12 @@ Q1 2026 | TEC Faculty HSRT
 
 </td>
 <td width="40%" align="center" valign="middle">
+
+<a href="https://www.youtube.com/watch?v=b6DXtuq9QeY"><img src="showcase/robosoccer-trailer.jpg" alt="RoboSoccer 3D visualisation trailer: goal scene in the procedurally built stadium" width="300"></a>
+<br>
+<sub>▶ Watch the trailer</sub>
+
+<br><br>
 
 <img src="informatik-logo.png" alt="Reutlingen University" height="50">
 <img height="80" alt="image" src="https://github.com/user-attachments/assets/5fc3ac40-31fb-4e14-ae44-6d3f90ec3bae" />
@@ -241,6 +268,13 @@ Research system generating **educational questions** using multi-layered small l
 <img src="https://www.iwm-tuebingen.de/_next/static/media/iwm-logo.1bc3d452.svg" alt="Leibniz-Institut" height="80">
 &nbsp;&nbsp;
 <img src="https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg" alt="University of Tubingen" height="80">
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="showcase/alee-architecture.png" alt="ALEE three-layer architecture: HTTP interface, DSPy orchestrator, parallel expert LLM validation" width="85%">
 
 </td>
 </tr>
