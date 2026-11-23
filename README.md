@@ -229,7 +229,9 @@ Production desktop tool for **vehicle test engineers**. When a marker is pressed
 
 <sub>↑ Click the title to open webuntis-public · also: <a href="https://pypi.org/project/webuntis-public/">webuntis-public on PyPI</a> · <a href="https://github.com/mklemmingen/hsrt-timetable">hsrt-timetable</a> · <a href="https://pypi.org/project/hsrt-timetable/">hsrt-timetable on PyPI</a> · <a href="https://github.com/mklemmingen/wahlfach-matching">wahlfach-matching</a></sub>
 
-Q1 2026 | Apache-2.0
+Q1 2026 | Apache-2.0 | Deprecated
+
+> **Deprecated:** the WebUntis public timetable endpoint these packages rely on no longer responds (HTTP 404), so the suite no longer fetches data.
 
 Three packages forming a **layered dependency chain** for university timetable data. Queries timetables and **optimizes elective selections**. The CLI scores electives against schedule conflicts and exports **ranked results as ICS calendar files**.
 
