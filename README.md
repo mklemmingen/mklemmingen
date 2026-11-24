@@ -681,14 +681,16 @@ Military-pixel chess variant where pieces have **health and complex combat relat
 
 Q4 2023 | AGPL-3.0 | Finished
 
-The oldest known board game **re-created as a speedrun challenge** with libGDX. Players race pieces across thirty squares following **ancient Egyptian rules** with stick-throw randomness. Built as a **single-session desktop game**.
+The oldest known board game **re-created as a speedrun challenge** with libGDX. Players race pieces across thirty squares following **ancient Egyptian rules** with stick-throw randomness. Built as a **single-session desktop game**, now also **playable in the browser**.
 
-<sub>Java, libGDX</sub>
+[Play on itch.io](https://gardeningcat.itch.io/senet-boom)
+
+<sub>Java, libGDX, TeaVM</sub>
 
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github.com/mklemmingen/mklemmingen/raw/main/senetboom.gif" alt="Senet" height="100">
+<a href="https://gardeningcat.itch.io/senet-boom"><img src="https://github.com/mklemmingen/mklemmingen/raw/main/senetboom.gif" alt="Senet: play in the browser on itch.io" height="100"></a>
 
 </td>
 </tr>
