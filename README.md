@@ -652,7 +652,7 @@ Q3 2023 - Q1 2024 | AGPL-3.0
 
 Military-pixel chess variant where pieces have **health and complex combat relations** instead of instant captures. Includes three **bot difficulty modes**, challenge scenarios and multiple team colors. Available as a **desktop and Android app** with music by Wambutz.
 
-[Play on itch.io](https://gardeningcat.itch.io/boom-chess)
+<a href="https://gardeningcat.itch.io/boom-chess" target="_blank" rel="noopener"><img src="showcase/itch-widget-boom-chess-dark.png" alt="Play Boom Chess on itch.io" width="400"></a>
 
 <sub>Java, libGDX</sub>
 
@@ -677,7 +677,7 @@ Q4 2023 | AGPL-3.0 | Finished
 
 The oldest known board game **re-created as a speedrun challenge** with libGDX. Players race pieces across thirty squares following **ancient Egyptian rules** with stick-throw randomness. Built as a **single-session desktop game**, now also **playable in the browser**.
 
-[Play on itch.io](https://gardeningcat.itch.io/senet-boom)
+<a href="https://gardeningcat.itch.io/senet-boom" target="_blank" rel="noopener"><img src="showcase/itch-widget-senet-boom-dark.png" alt="Play Senet Boom on itch.io" width="400"></a>
 
 <sub>Java, libGDX, TeaVM</sub>
 
