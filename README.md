@@ -1,5 +1,3 @@
-<a rel="me" href="https://mastodon.social/@MartyLauterbach">Mastodon</a>
-
 [Textuals](https://github.com/mklemmingen/Papers)
 
 ## Projects
