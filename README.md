@@ -10,6 +10,36 @@
   <tr>
   <td width="60%" valign="top">
 
+  ### [react-pixel-cats-and-birds | npm package: animated pixel-art cats and birds for React, with synthesised meows and bird calls](https://github.com/mklemmingen/react-pixel-cats-and-birds)
+
+  <sub>↑ Click the title to open the repository · also: <a href="https://www.npmjs.com/package/react-pixel-cats-and-birds">react-pixel-cats-and-birds on npm</a></sub>
+
+  Q4 2026 | MIT (code) | Published
+
+  Drop-in `<Cats>` and `<Birds>` components that turn any section into a **living pixel-art background**: cats walk, run, sit, look around and lie down, birds fly, land and peck. Clicking a sprite plays a **sound synthesised live with the Web Audio API** (source-filter meow model, one call per bird species), so the package ships **no audio files and no dependencies**. Paused and memory-free while off-screen, respects reduced motion, 149 unit tests.
+
+  `npm i react-pixel-cats-and-birds`
+
+  Sprites by [Pop Shop Packs](https://pop-shop-packs.itch.io/), used with permission.
+
+  <sub>JavaScript | React | Canvas | Web Audio API | Vitest | Next.js</sub>
+
+  </td>
+  <td width="40%" align="center" valign="middle">
+
+  <picture><img src="showcase/react-pixel-cats-and-birds.gif" alt="Pixel-art cats running, sitting and lying down while birds fly and peck on a dark background" width="320"></picture>
+
+  <br><br>
+
+  <a href="https://www.npmjs.com/package/react-pixel-cats-and-birds"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/npm.svg" alt="npm" height="50"></a>
+  <br>
+  <sub><a href="https://www.npmjs.com/package/react-pixel-cats-and-birds">Install from npm</a></sub>
+  </td>
+  </tr>
+
+  <tr>
+  <td width="60%" valign="top">
+
   ### [Moodle Dark Mode: userscript that injects a system-style dark theme into any Moodle site, incl. RELAX](https://github.com/mklemmingen/moodle-dark-mode-script)
 
   <sub>↑ Click the title to open the repository</sub>
