@@ -26,7 +26,6 @@
 <a href="https://github.com/mklemmingen/StopTheToken"><img src="showcase/stopthetoken-logo.svg" alt="StopTheToken logo" height="90"></a>
 </p>
 
-[Textuals](https://github.com/mklemmingen/Papers)
 
 ## Projects
 
@@ -231,6 +230,22 @@ Q1 2026 | TEC Faculty HSRT
 </tr>
 
 <tr>
+<td colspan="2">
+<sub>📄 Textual · Q1 2026 · German · 14 pages</sub><br>
+<a href="https://github.com/mklemmingen/Papers/blob/main/2026-Q1-AuthenticValuesBasedMarketing.pdf"><b>Authentic values-based marketing: analysis and framework for assessing value communication</b></a><br>
+<sub>Separates authentic values-based marketing from greenwashing, building on the Seven Sins of Greenwashing and Marketing 3.0, and proposes a framework along integration depth and verifiability.</sub>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<sub>📄 Textual · Q1 2026 · German · 32 pages</sub><br>
+<a href="https://github.com/mklemmingen/Papers/blob/main/2026-Q1-Praktikumsbericht_Lauterbach_WiSe2526_Sept_Febr_Mercedes-Benz.pdf"><b>Internship report: Pre-Integration Connected Features @ Mercedes-Benz</b></a><br>
+<sub>Report on the September 2025 to February 2026 internship in connected-car pre-integration at Mercedes-Benz.</sub>
+</td>
+</tr>
+
+<tr>
 <td width="60%" valign="top">
 
 ### Mercedes-Benz | Test Session Data Collection & Ticket Generation
@@ -279,6 +294,14 @@ Three packages forming a **layered dependency chain** for university timetable d
 <br><br>
 <img src="informatik-logo.png" alt="Reutlingen University" height="40">
 
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<sub>📄 Textual · Q4 2025 · German · 32 slides</sub><br>
+<a href="https://github.com/mklemmingen/Papers/blob/main/2025-10-04_IntelliJ%26GitWorkshopINF2.pdf"><b>IntelliJ & Git workshop for INF2 students</b></a><br>
+<sub>Teaching-assistant workshop slides: setting up IntelliJ and working with the university GitLab, from empty project to finished result.</sub>
 </td>
 </tr>
 
@@ -342,6 +365,14 @@ Mobile app that identifies birds from **live camera feed, pictures and sound** e
 </tr>
 
 <tr>
+<td colspan="2">
+<sub>📄 Textual · Q3 2025 · English · 64 pages · 3 authors</sub><br>
+<a href="https://github.com/mklemmingen/Papers/blob/main/2025_Q3_LogChirpy_Documentation.pdf"><b>LogChirpy: documentation of the ornithological archival app</b></a><br>
+<sub>Project documentation for LogChirpy: on-device bird recognition from images and sound, offline-first storage, six languages and a 30,000+ species database.</sub>
+</td>
+</tr>
+
+<tr>
 <td width="60%" valign="top">
 
 ### [Bogenliga | Digitaler Schusszettel](https://github.com/bettercodepaul/swt2-bsa-backend)
@@ -390,6 +421,38 @@ Q2-Q3 2025 | AGPL-2.0 | Finished
 <br><br>
 <img src="informatik-logo.png" alt="Reutlingen University" height="40">
 
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<sub>📄 Textual · Q2 2025 · German · 66 pages</sub><br>
+<a href="https://github.com/mklemmingen/Papers/blob/main/2025_Q2_MASK_EchoesOfTheMind_MKI-Project.pdf"><b>M.A.S.K.: Machine-Learning Assisted Skeleton Kinect Tracking</b></a><br>
+<sub>Project report on the low-cost motion-capture system built for the dance film Echoes of the Mind, including the infrared adaptation that keeps tracking reliable under projector light.</sub>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<sub>📄 Textual · Q2 2025 · German · 6 pages</sub><br>
+<a href="https://github.com/mklemmingen/Papers/blob/main/2025_Q2_RechtlicheUnterscheidungZwischenEinerMahnungUndEinerAbmahnung.pdf"><b>The legal difference between a Mahnung and an Abmahnung</b></a><br>
+<sub>Short legal paper on how a payment reminder (Mahnung) and a formal warning (Abmahnung) differ in German law, in purpose and in legal consequences.</sub>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<sub>📄 Textual · Q2 2025 · English · 29 slides · 3 presenters</sub><br>
+<a href="https://github.com/mklemmingen/Papers/blob/main/2025_Q2_Battery%20Optimization%20for%20Mobile%20Devices.pdf"><b>Battery optimization for mobile devices</b></a><br>
+<sub>Overview of software techniques that extend battery life on mobile devices.</sub>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<sub>📄 Textual · Q4 2024 – Q2 2025 · German · 21 pages</sub><br>
+<a href="https://github.com/mklemmingen/Papers/blob/main/2024_Q4_2025_Q2_GitCheatSkriptForStudents.pdf"><b>Git cheat script for students</b></a><br>
+<sub>Step-by-step guide for first-semester students: installing Git and Java, signing in to the university GitLab, managing a small project, and using Teams.</sub>
 </td>
 </tr>
 
@@ -499,6 +562,14 @@ Art installation projecting across **270 degrees**. Links birthday audio recordi
 
 <img src="informatik-logo.png" alt="Reutlingen University" height="40">
 
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<sub>📄 Textual · Q1 2025 · German · 49 pages · 6 authors</sub><br>
+<a href="https://github.com/mklemmingen/Papers/blob/main/2025_Q1_MIXTAPE_DigitalArt.pdf"><b>Mixtape: documentation of the art installation</b></a><br>
+<sub>Documentation of the 270-degree interactive installation that leads visitors through the birthday memories of a life, steered by narration and a radio.</sub>
 </td>
 </tr>
 
@@ -637,6 +708,14 @@ Four university projects. **Levenshtein distance restorer** in C++. Producer-con
 </tr>
 
 <tr>
+<td colspan="2">
+<sub>📄 Textual · Q2 2024 · German · 19 pages · 3 authors</sub><br>
+<a href="https://github.com/mklemmingen/Papers/blob/main/2024_Q2_Ransomware_in_der_Medizin.pdf"><b>Best practices for awareness and protection against ransomware in medicine</b></a><br>
+<sub>Practical strategies for hospitals and practices against ransomware and phishing, combining technical measures with staff training, in light of new German digital-health laws.</sub>
+</td>
+</tr>
+
+<tr>
 <td width="60%" valign="top">
 
 ### [Boom Chess](https://github.com/mklemmingen/boom-chess)
@@ -684,6 +763,14 @@ The oldest known board game **re-created as a speedrun challenge** with libGDX. 
 </td>
 </tr>
 
+
+<tr>
+<td colspan="2">
+<sub>📄 Textual · Q4 2023 · German · 8 pages · 3 authors</sub><br>
+<a href="https://github.com/mklemmingen/Papers/blob/main/2023_Q4_Radiologie_und_EDV.pdf"><b>Radiology, RIS and PACS</b></a><br>
+<sub>Medical-informatics paper on radiology information systems and picture archiving, with an annotated source list.</sub>
+</td>
+</tr>
 
 <tr>
 <td width="60%" valign="top">
