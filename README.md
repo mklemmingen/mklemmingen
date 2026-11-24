@@ -1,9 +1,3 @@
-LauterbachMK@protonmail.com                       
-
-[Connect](https://linktr.ee/mklemmingen) <sub>(opens Linktree)</sub>
-
-[ORCID](https://orcid.org/my-orcid?orcid=0009-0007-3396-872X)
-
 [Textuals](https://github.com/mklemmingen/Papers)
 
 ## Projects
