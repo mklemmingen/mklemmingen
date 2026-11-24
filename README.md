@@ -1,6 +1,5 @@
-[Textuals](https://github.com/mklemmingen/Papers)
 
-## Projects
+l## Projects
 
 <details>
 <summary><b>Show projects</b></summary>
