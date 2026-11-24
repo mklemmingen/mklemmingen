@@ -39,7 +39,7 @@
 
   ### [spinning-ascii-donut-star | PyPI package: a spinning 3D star in your terminal, rendered as ASCII](https://pypi.org/project/spinning-ascii-donut-star/)
 
-  <sub>↑ Click the title to open the package on PyPI · also: <a href="https://github.com/mklemmingen/spinning-ascii-donut-star">spinning-ascii-donut-star on GitHub</a></sub>
+  <sub>Click the title to open the package on PyPI. Also: <a href="https://github.com/mklemmingen/spinning-ascii-donut-star">spinning-ascii-donut-star on GitHub</a></sub>
 
   Q4 2026 | Published
 
@@ -67,7 +67,7 @@
 
   ### [react-pixel-cats-and-birds | npm package: animated pixel-art cats and birds for React, with synthesised meows and bird calls](https://github.com/mklemmingen/react-pixel-cats-and-birds)
 
-  <sub>↑ Click the title to open the repository · also: <a href="https://www.npmjs.com/package/react-pixel-cats-and-birds">react-pixel-cats-and-birds on npm</a></sub>
+  <sub>Click the title to open the repository. Also: <a href="https://www.npmjs.com/package/react-pixel-cats-and-birds">react-pixel-cats-and-birds on npm</a></sub>
 
   Q4 2026 | MIT (code) | Published
 
@@ -98,7 +98,7 @@
 
   ### [LibGDX to ItchIO for HSRT-Students | Template for University Students learning OOP Backend-Frontend Separation via Interfaces - and want to compile their game into a itch.io accessible bundle](https://github.com/KatIncluded/Template-LibGdx-toItchIO-HSRT)
 
-  <sub>↑ Click the title to open the repository</sub>
+  <sub>Click the title to open the repository</sub>
 
   Q3Q4 2026 | Template Repository | INF Faculty HSRT - TA Job
 
@@ -116,7 +116,7 @@
 
   ### [VISIR Research Group | Migraine Prediction Models: XGBooststacking -> foundational tabular models (TabPFN) -> explainability -> temporal & sequence models -> personalisation & clinical value](https://github.com/mklemmingen/migraine-forecasting-shd)
 
-  <sub>↑ Click the title to open the repository</sub>
+  <sub>Click the title to open the repository</sub>
 
   Q2Q3 2026 | Journal Paper | TEC Faculty HSRT
 
@@ -150,7 +150,7 @@
 
 ### [Community-based Everything-Exchange Bulletin Board: Plug & Play, Data-Frugal, for any kind of email-domain-sharing entity](https://github.com/InnoLab-2026/relay-zero-host)
 
-<sub>↑ Click the title to open the repository</sub>
+<sub>Click the title to open the repository</sub>
 
 Q2Q3 2026 | INF Faculty HSRT
 
@@ -175,17 +175,17 @@ Q2Q3 2026 | INF Faculty HSRT
 
 ### [Continual μ-Training on Edge Devices: A Survey of On-Device Personalisation](https://github.com/mklemmingen/ContinualEdgeDevicePersonalisation)
 
-<sub>↑ Click the title to open the repository · also: <a href="https://doi.org/10.5281/zenodo.20599083">DOI</a></sub>
+<sub>Click the title to open the repository. Also: <a href="https://doi.org/10.5281/zenodo.20599083">DOI</a></sub>
 
 Q2 2026 | Conference Paper | INF Faculty HSRT
 
-Wearable and IoT data drifts per user, and **uploading gradients to the cloud is vulnerable to gradient-leakage attacks**. This paper surveys **continual on-device μ-training**, which updates only a small part of a pre-trained network directly on the device. It finds that **per-update energy on wearables is unreported** in every surveyed source, and a **Raspberry Pi 5 pilot** measures a **4.0× marginal-energy advantage** over full-network training.
+Wearable and IoT data drifts per user, and **uploading gradients to the cloud is vulnerable to gradient-leakage attacks**. This paper surveys **continual on-device μ-training**, which updates only a small part of a pre-trained network directly on the device. It finds that **per-update energy on wearables is unreported** in every surveyed source, and a **Raspberry Pi 5 pilot** measures a **4.0-fold marginal-energy advantage** over full-network training.
 
 <sub>PyTorch | Raspberry Pi 5 | DA9091 PMIC (vcgencmd) | LaTeX (IEEEtran)</sub>
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/mklemmingen/ContinualEdgeDevicePersonalisation/main/pilot/fig_trainable_sweep.png" alt="Per-update wall-time and marginal energy vs trainable-parameter fraction (μ-training is 4.0× lower than full-net)" width="260">
+<img src="https://raw.githubusercontent.com/mklemmingen/ContinualEdgeDevicePersonalisation/main/pilot/fig_trainable_sweep.png" alt="Per-update wall-time and marginal energy vs trainable-parameter fraction (μ-training is 4.0-fold lower than full-net)" width="260">
 
 <br><br>
 
@@ -197,7 +197,7 @@ Wearable and IoT data drifts per user, and **uploading gradients to the cloud is
 
 <img src="https://raw.githubusercontent.com/mklemmingen/ContinualEdgeDevicePersonalisation/main/pilot/fig_power_timeline.png" alt="Pi 5 power telemetry over the 440 s pilot run, coloured by pipeline phase" width="100%">
 
-<sub>Live PMIC trace from the 440 s pilot run, phase-coloured: idle → inference / timing → 5-config trainable-fraction sweep → SGD vs Adam → WLV drift detector → BWT proxy → teardown.</sub>
+<sub>Live PMIC trace from the 440 s pilot run, coloured by phase, in order: idle, inference and timing, 5-config trainable-fraction sweep, SGD vs Adam, WLV drift detector, BWT proxy, teardown.</sub>
 </td>
 </tr>
 
@@ -219,7 +219,7 @@ Q1 2026 | TEC Faculty HSRT
 
 <a href="https://www.youtube.com/watch?v=b6DXtuq9QeY"><img src="showcase/robosoccer-gameplay.gif" alt="RoboSoccer 3D visualisation: an attack, a goal and the celebration camera sweep in the procedurally built stadium" width="300"></a>
 <br>
-<sub>▶ Watch the trailer</sub>
+<sub>Watch the trailer</sub>
 
 <br><br>
 
@@ -231,7 +231,7 @@ Q1 2026 | TEC Faculty HSRT
 
 <tr>
 <td colspan="2">
-<sub>📄 Textual · Q1 2026 · German · 14 pages</sub><br>
+<sub>Textual | Q1 2026 | German | 14 pages</sub><br>
 <a href="https://github.com/mklemmingen/Papers/blob/main/2026-Q1-AuthenticValuesBasedMarketing.pdf"><b>Authentic values-based marketing: analysis and framework for assessing value communication</b></a><br>
 <sub>Separates authentic values-based marketing from greenwashing, building on the Seven Sins of Greenwashing and Marketing 3.0, and proposes a framework along integration depth and verifiability.</sub>
 </td>
@@ -239,7 +239,7 @@ Q1 2026 | TEC Faculty HSRT
 
 <tr>
 <td colspan="2">
-<sub>📄 Textual · Q1 2026 · German · 32 pages</sub><br>
+<sub>Textual | Q1 2026 | German | 32 pages</sub><br>
 <a href="https://github.com/mklemmingen/Papers/blob/main/2026-Q1-Praktikumsbericht_Lauterbach_WiSe2526_Sept_Febr_Mercedes-Benz.pdf"><b>Internship report: Pre-Integration Connected Features @ Mercedes-Benz</b></a><br>
 <sub>Report on the September 2025 to February 2026 internship in connected-car pre-integration at Mercedes-Benz.</sub>
 </td>
@@ -277,7 +277,7 @@ Production desktop tool for **vehicle test engineers**. When a marker is pressed
 
 ### [SemesterModuleMatching | 3-Layer PyPI Package Suite](https://github.com/mklemmingen/webuntis-public)
 
-<sub>↑ Click the title to open webuntis-public · also: <a href="https://pypi.org/project/webuntis-public/">webuntis-public on PyPI</a> · <a href="https://github.com/mklemmingen/hsrt-timetable">hsrt-timetable</a> · <a href="https://pypi.org/project/hsrt-timetable/">hsrt-timetable on PyPI</a> · <a href="https://github.com/mklemmingen/wahlfach-matching">wahlfach-matching</a></sub>
+<sub>Click the title to open webuntis-public. Also: <a href="https://pypi.org/project/webuntis-public/">webuntis-public on PyPI</a>, <a href="https://github.com/mklemmingen/hsrt-timetable">hsrt-timetable</a>, <a href="https://pypi.org/project/hsrt-timetable/">hsrt-timetable on PyPI</a>, <a href="https://github.com/mklemmingen/wahlfach-matching">wahlfach-matching</a></sub>
 
 Q1 2026 | Apache-2.0 | Deprecated
 
@@ -299,7 +299,7 @@ Three packages forming a **layered dependency chain** for university timetable d
 
 <tr>
 <td colspan="2">
-<sub>📄 Textual · Q4 2025 · German · 32 slides</sub><br>
+<sub>Textual | Q4 2025 | German | 32 slides</sub><br>
 <a href="https://github.com/mklemmingen/Papers/blob/main/2025-10-04_IntelliJ%26GitWorkshopINF2.pdf"><b>IntelliJ & Git workshop for INF2 students</b></a><br>
 <sub>Teaching-assistant workshop slides: setting up IntelliJ and working with the university GitLab, from empty project to finished result.</sub>
 </td>
@@ -310,7 +310,7 @@ Three packages forming a **layered dependency chain** for university timetable d
 
 ### [ALEE | Educational Question Generation System](https://github.com/mklemmingen/ALEE)
 
-<sub>↑ Click the title to open the repository</sub>
+<sub>Click the title to open the repository</sub>
 
 Q3 2025
 
@@ -346,7 +346,7 @@ Research system generating **educational questions** using multi-layered small l
 
 ### [LogChirpy | Ornithological Archival App](https://github.com/mklemmingen/LogChirpy)
 
-<sub>↑ Click the title to open the repository</sub>
+<sub>Click the title to open the repository</sub>
 
 Q2-Q3 2025 | AGPL-3.0 | Finished
 
@@ -366,7 +366,7 @@ Mobile app that identifies birds from **live camera feed, pictures and sound** e
 
 <tr>
 <td colspan="2">
-<sub>📄 Textual · Q3 2025 · English · 64 pages · 3 authors</sub><br>
+<sub>Textual | Q3 2025 | English | 64 pages | 3 authors</sub><br>
 <a href="https://github.com/mklemmingen/Papers/blob/main/2025_Q3_LogChirpy_Documentation.pdf"><b>LogChirpy: documentation of the ornithological archival app</b></a><br>
 <sub>Project documentation for LogChirpy: on-device bird recognition from images and sound, offline-first storage, six languages and a 30,000+ species database.</sub>
 </td>
@@ -377,7 +377,7 @@ Mobile app that identifies birds from **live camera feed, pictures and sound** e
 
 ### [Bogenliga | Digitaler Schusszettel](https://github.com/bettercodepaul/swt2-bsa-backend)
 
-<sub>↑ Click the title to open the backend repo · also: <a href="https://github.com/bettercodepaul/swt2-bsa-frontend">frontend repo</a></sub>
+<sub>Click the title to open the backend repo. Also: <a href="https://github.com/bettercodepaul/swt2-bsa-frontend">frontend repo</a></sub>
 
 Q2-Q3 2025 | All rights with BetterCallPaul & Bogenliga Deutschland | Finished
 
@@ -402,13 +402,13 @@ Module for [app.bogenliga.de](https://app.bogenliga.de) providing a **fully digi
 
 ### [MASK | Machine-Learning Assisted Skeleton Kinect Tracking | Echoes of the Mind, Filmakademie Ludwigsburg x Hochschule Reutlingen Fakultät Informatik](https://github.com/mklemmingen/MASK)
 
-<sub>↑ Click the title to open the repository</sub>
+<sub>Click the title to open the repository</sub>
 
 Q2-Q3 2025 | AGPL-2.0 | Finished
 
 **Real-time skeleton tracking** in TouchDesigner using Kinect V2 and MediaPipe for dance and performance setups. Calculates distances and angles to **move projected visuals** relative to the performer's body. Built in collaboration with **Filmakademie Ludwigsburg**.
 
-[Documentation](https://github.com/mklemmingen/MASK/blob/main/README.md) &middot; [Presentation video](https://www.youtube.com/watch?v=2jvziSgExTw)
+[Documentation](https://github.com/mklemmingen/MASK/blob/main/README.md) | [Presentation video](https://www.youtube.com/watch?v=2jvziSgExTw)
 
 <sub>Python, MediaPipe, TouchDesigner, Kinect V2</sub>
 
@@ -426,7 +426,7 @@ Q2-Q3 2025 | AGPL-2.0 | Finished
 
 <tr>
 <td colspan="2">
-<sub>📄 Textual · Q2 2025 · German · 66 pages</sub><br>
+<sub>Textual | Q2 2025 | German | 66 pages</sub><br>
 <a href="https://github.com/mklemmingen/Papers/blob/main/2025_Q2_MASK_EchoesOfTheMind_MKI-Project.pdf"><b>M.A.S.K.: Machine-Learning Assisted Skeleton Kinect Tracking</b></a><br>
 <sub>Project report on the low-cost motion-capture system built for the dance film Echoes of the Mind, including the infrared adaptation that keeps tracking reliable under projector light.</sub>
 </td>
@@ -434,7 +434,7 @@ Q2-Q3 2025 | AGPL-2.0 | Finished
 
 <tr>
 <td colspan="2">
-<sub>📄 Textual · Q2 2025 · German · 6 pages</sub><br>
+<sub>Textual | Q2 2025 | German | 6 pages</sub><br>
 <a href="https://github.com/mklemmingen/Papers/blob/main/2025_Q2_RechtlicheUnterscheidungZwischenEinerMahnungUndEinerAbmahnung.pdf"><b>The legal difference between a Mahnung and an Abmahnung</b></a><br>
 <sub>Short legal paper on how a payment reminder (Mahnung) and a formal warning (Abmahnung) differ in German law, in purpose and in legal consequences.</sub>
 </td>
@@ -442,7 +442,7 @@ Q2-Q3 2025 | AGPL-2.0 | Finished
 
 <tr>
 <td colspan="2">
-<sub>📄 Textual · Q2 2025 · English · 29 slides · 3 presenters</sub><br>
+<sub>Textual | Q2 2025 | English | 29 slides | 3 presenters</sub><br>
 <a href="https://github.com/mklemmingen/Papers/blob/main/2025_Q2_Battery%20Optimization%20for%20Mobile%20Devices.pdf"><b>Battery optimization for mobile devices</b></a><br>
 <sub>Overview of software techniques that extend battery life on mobile devices.</sub>
 </td>
@@ -450,7 +450,7 @@ Q2-Q3 2025 | AGPL-2.0 | Finished
 
 <tr>
 <td colspan="2">
-<sub>📄 Textual · Q4 2024 – Q2 2025 · German · 21 pages</sub><br>
+<sub>Textual | Q4 2024 - Q2 2025 | German | 21 pages</sub><br>
 <a href="https://github.com/mklemmingen/Papers/blob/main/2024_Q4_2025_Q2_GitCheatSkriptForStudents.pdf"><b>Git cheat script for students</b></a><br>
 <sub>Step-by-step guide for first-semester students: installing Git and Java, signing in to the university GitLab, managing a small project, and using Teams.</sub>
 </td>
@@ -461,7 +461,7 @@ Q2-Q3 2025 | AGPL-2.0 | Finished
 
 ### [EntropyVisualizer | Arduino Sensor-Based Randomness](https://github.com/mklemmingen/EntropyVisualizer)
 
-<sub>↑ Click the title to open the repository</sub>
+<sub>Click the title to open the repository</sub>
 
 Q2 2025 | AGPL-3.0 | Finished
 
@@ -482,7 +482,7 @@ Microcontroller generating **randomness from analog sensor noise** including gas
 
 ### [TelegramToMap | Automatic Threat-Location Mapping](https://github.com/mklemmingen/TelegramToMap)
 
-<sub>↑ Click the title to open the repository</sub>
+<sub>Click the title to open the repository</sub>
 
 Q2 2025 | AGPL-3.0 | Ongoing
 
@@ -503,7 +503,7 @@ Scans Telegram group messages for **Ukrainian air alarm data**. Extracts locatio
 
 ### [Exif_DataByDate_Sorting](https://github.com/mklemmingen/Exif_DataByDate_Sorting)
 
-<sub>↑ Click the title to open the repository</sub>
+<sub>Click the title to open the repository</sub>
 
 Q1 2025 | AGPL-3.0 | Finished
 
@@ -524,7 +524,7 @@ Automates file organization into structured **year/month/type directories** usin
 
 ### [R Data Manipulation Tutorial](https://github.com/mklemmingen/R_DataScience_Tutorial)
 
-<sub>↑ Click the title to open the repository</sub>
+<sub>Click the title to open the repository</sub>
 
 Q1 2025 | MIT | Finished
 
@@ -549,7 +549,7 @@ Interactive **browser-based statistics tutorial** teaching data science approach
 
 ### [Mixtape | 270-Degree Interactive Digital Art](https://github.com/mklemmingen/MIXTAPE)
 
-<sub>↑ Click the title to open the repository</sub>
+<sub>Click the title to open the repository</sub>
 
 Q1 2025 | AGPL-3.0 | Finished
 
@@ -567,7 +567,7 @@ Art installation projecting across **270 degrees**. Links birthday audio recordi
 
 <tr>
 <td colspan="2">
-<sub>📄 Textual · Q1 2025 · German · 49 pages · 6 authors</sub><br>
+<sub>Textual | Q1 2025 | German | 49 pages | 6 authors</sub><br>
 <a href="https://github.com/mklemmingen/Papers/blob/main/2025_Q1_MIXTAPE_DigitalArt.pdf"><b>Mixtape: documentation of the art installation</b></a><br>
 <sub>Documentation of the 270-degree interactive installation that leads visitors through the birthday memories of a life, steered by narration and a radio.</sub>
 </td>
@@ -578,7 +578,7 @@ Art installation projecting across **270 degrees**. Links birthday audio recordi
 
 ### [Modern Offroad Vehicle Infotainment System](https://github.com/mklemmingen/OutdoorInfotainment)
 
-<sub>↑ Click the title to open the repository</sub>
+<sub>Click the title to open the repository</sub>
 
 Q1 2025 | MIT | Finished
 
@@ -601,7 +601,7 @@ UI/UX design for a **family outdoor vehicle infotainment system** covering navig
 
 ### [KatzenKaffee](https://github.com/mklemmingen/KatzenKaffeeWeb)
 
-<sub>↑ Click the title to open the repository</sub>
+<sub>Click the title to open the repository</sub>
 
 Q4 2024 | AGPL-3.0 | Finished
 
@@ -624,7 +624,7 @@ Full-stack website teaching **sustainable cat ownership** through interactive co
 
 ### [HIDmibbi | Educational USB Security Visualization](https://github.com/mklemmingen/HIDmibbi)
 
-<sub>↑ Click the title to open the repository</sub>
+<sub>Click the title to open the repository</sub>
 
 Q3 2024 | AGPL-3.0
 
@@ -645,7 +645,7 @@ Educational tool demonstrating **HID attack vectors** using cheap USB microcontr
 
 ### [BoardGame Jam Frameworks](https://github.com/mklemmingen/GameJamFramework)
 
-<sub>↑ Click the title to open the blank framework · also: <a href="https://github.com/mklemmingen/GameJamChess">Chess</a> · <a href="https://github.com/mklemmingen/GameJamCheckers">Checkers</a></sub>
+<sub>Click the title to open the blank framework. Also: <a href="https://github.com/mklemmingen/GameJamChess">Chess</a>, <a href="https://github.com/mklemmingen/GameJamCheckers">Checkers</a></sub>
 
 Q3 2024 | AGPL-3.0 | Finished
 
@@ -668,7 +668,7 @@ Three **ready-to-fork board game frameworks** providing a blank template, a ches
 
 ### [CSS Art Tutorial](https://github.com/mklemmingen/CSSArtTutorial)
 
-<sub>↑ Click the title to open the repository</sub>
+<sub>Click the title to open the repository</sub>
 
 Q3 2024 | AGPL-3.0 | Finished
 
@@ -689,7 +689,7 @@ Step-by-step tutorial on creating **animated logos** using only CSS. Covers keyf
 
 ### [Q1-Q2 2024 Study Projects](https://github.com/mklemmingen/Q1Q2Projects2024)
 
-<sub>↑ Click the title to open the repository</sub>
+<sub>Click the title to open the repository</sub>
 
 Q1-Q2 2024 | MIT | Finished
 
@@ -709,7 +709,7 @@ Four university projects. **Levenshtein distance restorer** in C++. Producer-con
 
 <tr>
 <td colspan="2">
-<sub>📄 Textual · Q2 2024 · German · 19 pages · 3 authors</sub><br>
+<sub>Textual | Q2 2024 | German | 19 pages | 3 authors</sub><br>
 <a href="https://github.com/mklemmingen/Papers/blob/main/2024_Q2_Ransomware_in_der_Medizin.pdf"><b>Best practices for awareness and protection against ransomware in medicine</b></a><br>
 <sub>Practical strategies for hospitals and practices against ransomware and phishing, combining technical measures with staff training, in light of new German digital-health laws.</sub>
 </td>
@@ -720,7 +720,7 @@ Four university projects. **Levenshtein distance restorer** in C++. Producer-con
 
 ### [Boom Chess](https://github.com/mklemmingen/boom-chess)
 
-<sub>↑ Click the title to open the desktop version · also: <a href="https://github.com/mklemmingen/BoomChess-Android">Android version</a></sub>
+<sub>Click the title to open the desktop version. Also: <a href="https://github.com/mklemmingen/BoomChess-Android">Android version</a></sub>
 
 Q3 2023 - Q1 2024 | AGPL-3.0
 
@@ -745,7 +745,7 @@ Military-pixel chess variant where pieces have **health and complex combat relat
 
 ### [Senet: A Simple Workers Game](https://github.com/mklemmingen/senet-boom)
 
-<sub>↑ Click the title to open the repository</sub>
+<sub>Click the title to open the repository</sub>
 
 Q4 2023 | AGPL-3.0 | Finished
 
@@ -766,7 +766,7 @@ The oldest known board game **re-created as a speedrun challenge** with libGDX. 
 
 <tr>
 <td colspan="2">
-<sub>📄 Textual · Q4 2023 · German · 8 pages · 3 authors</sub><br>
+<sub>Textual | Q4 2023 | German | 8 pages | 3 authors</sub><br>
 <a href="https://github.com/mklemmingen/Papers/blob/main/2023_Q4_Radiologie_und_EDV.pdf"><b>Radiology, RIS and PACS</b></a><br>
 <sub>Medical-informatics paper on radiology information systems and picture archiving, with an annotated source list.</sub>
 </td>
@@ -777,7 +777,7 @@ The oldest known board game **re-created as a speedrun challenge** with libGDX. 
 
 ### [Space Mouse: The Special Operodent](https://github.com/mklemmingen/space-mouse)
 
-<sub>↑ Click the title to open the repository</sub>
+<sub>Click the title to open the repository</sub>
 
 Q2 2023 | CC0 | Finished
 
@@ -798,7 +798,7 @@ A **randomly generated 3D maze** game where a space mouse searches for cheese. E
 
 ### [Hangman 2 | The Dictionaries Strike Back](https://github.com/mklemmingen/hangman-2)
 
-<sub>↑ Click the title to open the repository</sub>
+<sub>Click the title to open the repository</sub>
 
 Q2 2023 | Unlicense | Finished
 
@@ -821,7 +821,7 @@ Word-guessing game that uses datasets and hash maps to calculate the **most like
 
 ### [StopTheToken](https://github.com/mklemmingen/StopTheToken)
 
-<sub>↑ Click the title to open the repository</sub>
+<sub>Click the title to open the repository</sub>
 
 Ongoing | Unlicense
 
@@ -842,7 +842,7 @@ A community-fed **Pi-hole blocklist** of websites publishing AI-generated conten
 
 ### [Retro-Game Guides](https://github.com/mklemmingen/turn.and.burn.no-fly.zone)
 
-<sub>↑ Click the title to open the repository</sub>
+<sub>Click the title to open the repository</sub>
 
 Ongoing
 
