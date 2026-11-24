@@ -4,7 +4,6 @@
 <a href="https://github.com/mklemmingen/migraine-forecasting-shd"><img src="showcase/migraine-graphical-abstract.png" alt="Migraine graphical abstract" height="90"></a>
 <a href="https://github.com/InnoLab-2026/relay-zero-host"><img src="showcase/feedmyfrog-languages.gif" alt="FeedmyFrog sign-in" height="90"></a>
 <a href="https://github.com/mklemmingen/ContinualEdgeDevicePersonalisation"><img src="https://raw.githubusercontent.com/mklemmingen/ContinualEdgeDevicePersonalisation/main/pilot/fig_trainable_sweep.png" alt="μ-training energy sweep" height="90"></a>
-<a href="https://github.com/mklemmingen/ContinualEdgeDevicePersonalisation"><img src="https://raw.githubusercontent.com/mklemmingen/ContinualEdgeDevicePersonalisation/main/pilot/fig_power_timeline.png" alt="Pi 5 power timeline" height="90"></a>
 <a href="https://www.youtube.com/watch?v=b6DXtuq9QeY"><img src="showcase/robosoccer-gameplay.gif" alt="RoboSoccer 3D gameplay" height="90"></a>
 <a href="https://github.com/mklemmingen/ALEE"><picture><source media="(prefers-color-scheme: light)" srcset="showcase/alee-architecture-light.png"><img src="showcase/alee-architecture-dark.png" alt="ALEE architecture" height="90"></picture></a>
 <a href="https://github.com/mklemmingen/LogChirpy"><img src="LogChirpy%20(2).gif" alt="LogChirpy" height="90"></a>
@@ -151,20 +150,7 @@ Q2Q3 2026 | INF Faculty HSRT
 
 Q2 2026 | Conference Paper | INF Faculty HSRT
 
-Wearable health and IoT data drifts per-user over time, but pre-trained
-models miss that variability and **uploading gradients to the cloud is
-vulnerable to Deep Leakage from Gradients (DLG) attacks**. This paper
-surveys **continual on-device μ-training** — updating only a small
-intermediate subset of a pre-trained network directly on the device —
-together with **metaplastic binary networks** and **label-free drift
-detection**, organised along the four axes of Huang et al. (complexity,
-privacy, accuracy, runtime/energy). The survey identifies that
-**per-update energy on wearable hardware is unreported** in every
-surveyed μ-training source, and proposes three concrete benchmark
-targets (per-update μJ, backward-transfer accuracy, drift-detection
-latency). A **Raspberry Pi 5 pilot measurement** anchors the central
-claim with a measured **4.0× marginal-energy advantage** of μ-training
-over full-network training on the same device.
+Wearable and IoT data drifts per user, and **uploading gradients to the cloud is vulnerable to gradient-leakage attacks**. This paper surveys **continual on-device μ-training**, which updates only a small part of a pre-trained network directly on the device. It finds that **per-update energy on wearables is unreported** in every surveyed source, and a **Raspberry Pi 5 pilot** measures a **4.0× marginal-energy advantage** over full-network training.
 
 <sub>PyTorch | Raspberry Pi 5 | DA9091 PMIC (vcgencmd) | LaTeX (IEEEtran)</sub>
 </td>
@@ -369,9 +355,9 @@ Q2-Q3 2025 | AGPL-2.0 | Finished
 <td width="40%" align="center" valign="middle">
 
 <img src="kinect.png" alt="Skeleton Tracking" height="100">
-<br>
-<img src="filmakadadmie.svg" alt="Filmakademie Ludwigsburg" height="40">
-&nbsp;
+<br><br>
+<picture><source media="(prefers-color-scheme: light)" srcset="filmakademie-logo-dark.png"><img src="filmakademie-logo-white.png" alt="Filmakademie Ludwigsburg" height="28"></picture>
+<br><br>
 <img src="informatik-logo.png" alt="Reutlingen University" height="40">
 
 </td>
