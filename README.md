@@ -20,7 +20,8 @@
 <a href="https://github.com/mklemmingen/GameJamFramework"><img src="boardgameGameJam.png" alt="Board game framework" height="90"></a>
 <a href="https://github.com/mklemmingen/CSSArtTutorial"><img src="cssArt.gif" alt="CSS art" height="90"></a>
 <a href="https://github.com/mklemmingen/Q1Q2Projects2024"><img src="StudyProjects2024Q12.gif" alt="Study projects" height="90"></a>
-<a href="https://github.com/mklemmingen/boom-chess"><img src="boomChessGiffy.gif" alt="Boom Chess" height="90"></a>
+<a href="https://gardeningcat.itch.io/boom-chess"><img src="boomChessGiffy.gif" alt="Boom Chess" height="90"></a>
+<a href="https://gardeningcat.itch.io/senet-boom"><img src="senetboom.gif" alt="Senet" height="90"></a>
 <a href="https://github.com/mklemmingen/space-mouse"><img src="spacemouse.gif" alt="Space Mouse" height="90"></a>
 <a href="https://github.com/mklemmingen/hangman-2"><img src="https://raw.githubusercontent.com/mklemmingen/hangman-2/e97240877eaf6d5c9ca147802d78cb2639509e25/hangman2_intro.gif" alt="Hangman 2" height="90"></a>
 <a href="https://github.com/mklemmingen/StopTheToken"><img src="showcase/stopthetoken-logo.svg" alt="StopTheToken logo" height="90"></a>
@@ -733,7 +734,7 @@ Military-pixel chess variant where pieces have **health and complex combat relat
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="boomChessGiffy.gif" alt="Boom Chess" height="100">
+<a href="https://gardeningcat.itch.io/boom-chess"><img src="boomChessGiffy.gif" alt="Boom Chess: play on itch.io" height="100"></a>
 &nbsp;
 <img src="informatik-logo.png" alt="Reutlingen University" height="40">
 
