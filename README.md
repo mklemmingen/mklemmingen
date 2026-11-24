@@ -37,6 +37,34 @@
   <tr>
   <td width="60%" valign="top">
 
+  ### [spinning-ascii-donut-star | PyPI package: a spinning 3D star in your terminal, rendered as ASCII](https://pypi.org/project/spinning-ascii-donut-star/)
+
+  <sub>↑ Click the title to open the package on PyPI</sub>
+
+  Q4 2026 | Published
+
+  A **z-buffered 3D star** drawn in ASCII in the style of `donut.c`: tapered spokes, a torus ring and a hub sphere, each with **surface normals and lighting**. The number of points, the ring, the hub and the shading characters are all **configurable** from the command line or from Python. **Pure Python, no dependencies.**
+
+  `pip install spinning-ascii-donut-star`
+
+  <sub>Python | ASCII rendering | CLI | PyPI</sub>
+
+  </td>
+  <td width="40%" align="center" valign="middle">
+
+  <picture><source media="(prefers-color-scheme: light)" srcset="showcase/donut-star-dark-text.gif"><img src="showcase/donut-star-light-text.gif" alt="Five-pointed ASCII star with ring and hub spinning in 3D" width="220"></picture>
+
+  <br><br>
+
+  <a href="https://pypi.org/project/spinning-ascii-donut-star/"><img src="https://cdn.simpleicons.org/pypi/3775A9" alt="PyPI" height="40"></a>
+  <br>
+  <sub><a href="https://pypi.org/project/spinning-ascii-donut-star/">Install from PyPI</a></sub>
+  </td>
+  </tr>
+
+  <tr>
+  <td width="60%" valign="top">
+
   ### [react-pixel-cats-and-birds | npm package: animated pixel-art cats and birds for React, with synthesised meows and bird calls](https://github.com/mklemmingen/react-pixel-cats-and-birds)
 
   <sub>↑ Click the title to open the repository · also: <a href="https://www.npmjs.com/package/react-pixel-cats-and-birds">react-pixel-cats-and-birds on npm</a></sub>
