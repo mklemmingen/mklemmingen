@@ -5,9 +5,8 @@
 <a href="https://github.com/InnoLab-2026/relay-zero-host"><img src="showcase/feedmyfrog-languages.gif" alt="FeedmyFrog sign-in" height="90"></a>
 <a href="https://github.com/mklemmingen/ContinualEdgeDevicePersonalisation"><img src="https://raw.githubusercontent.com/mklemmingen/ContinualEdgeDevicePersonalisation/main/pilot/fig_trainable_sweep.png" alt="μ-training energy sweep" height="90"></a>
 <a href="https://github.com/mklemmingen/ContinualEdgeDevicePersonalisation"><img src="https://raw.githubusercontent.com/mklemmingen/ContinualEdgeDevicePersonalisation/main/pilot/fig_power_timeline.png" alt="Pi 5 power timeline" height="90"></a>
-<a href="https://www.youtube.com/watch?v=b6DXtuq9QeY"><img src="showcase/robosoccer-trailer.jpg" alt="RoboSoccer 3D trailer" height="90"></a>
+<a href="https://www.youtube.com/watch?v=b6DXtuq9QeY"><img src="showcase/robosoccer-gameplay.gif" alt="RoboSoccer 3D gameplay" height="90"></a>
 <a href="https://github.com/mklemmingen/ALEE"><img src="showcase/alee-architecture.png" alt="ALEE architecture" height="90"></a>
-<a href="https://github.com/mklemmingen/Automatisierungs-Tool"><img src="CVwebsiteDD.gif" alt="CV website" height="90"></a>
 <a href="https://github.com/mklemmingen/LogChirpy"><img src="LogChirpy%20(2).gif" alt="LogChirpy" height="90"></a>
 <a href="https://github.com/bettercodepaul/swt2-bsa-backend"><img src="stateMachineDigitalerSchusszettel.png" alt="Schusszettel state machine" height="90"></a>
 <a href="https://github.com/mklemmingen/MASK"><img src="kinect.png" alt="Kinect skeleton tracking" height="90"></a>
@@ -22,7 +21,6 @@
 <a href="https://github.com/mklemmingen/CSSArtTutorial"><img src="cssArt.gif" alt="CSS art" height="90"></a>
 <a href="https://github.com/mklemmingen/Q1Q2Projects2024"><img src="StudyProjects2024Q12.gif" alt="Study projects" height="90"></a>
 <a href="https://github.com/mklemmingen/boom-chess"><img src="boomChessGiffy.gif" alt="Boom Chess" height="90"></a>
-<a href="https://github.com/mklemmingen/Tropico6_Advanced-Team"><img src="tropico6.jpg" alt="Tropico 6" height="90"></a>
 <a href="https://github.com/mklemmingen/space-mouse"><img src="spacemouse.gif" alt="Space Mouse" height="90"></a>
 <a href="https://github.com/mklemmingen/hangman-2"><img src="https://raw.githubusercontent.com/mklemmingen/hangman-2/e97240877eaf6d5c9ca147802d78cb2639509e25/hangman2_intro.gif" alt="Hangman 2" height="90"></a>
 </p>
@@ -66,36 +64,6 @@
   </td>
   </tr>
 
-  <tr>
-  <td width="60%" valign="top">
-
-  ### [Moodle Dark Mode: userscript that injects a system-style dark theme into any Moodle site, incl. RELAX](https://github.com/mklemmingen/moodle-dark-mode-script)
-
-  <sub>↑ Click the title to open the repository</sub>
-
-  Q4 2026 | MIT | Finished
-
-  Overrides Moodle's Bootstrap 4/5 CSS variables and core component colours with the **Material Design dark palette** (#121212 base, elevation surfaces, 87/60/38 % text). Follows the system colour scheme, with an auto/dark/light toggle in the navbar.
-
-  <sub>JavaScript | CSS | Userscript (Violentmonkey / Tampermonkey)</sub>
-
-  </td>
-  <td width="40%" align="center" valign="middle">
-
-  <img src="showcase/moodle-dark-mode.gif" alt="Moodle course page and front page switching from light to dark mode" width="300">
-
-  <br><br>
-
-  <a href="https://greasyfork.org/en/scripts/606811-moodle-dark-mode"><img src="greasyfork-logo.png" alt="Install from Greasy Fork" height="60"></a>
-  <br>
-  <sub><a href="https://greasyfork.org/en/scripts/606811-moodle-dark-mode">Install on Greasy Fork</a></sub>
-
-  <br><br>
-
-  <img src="informatik-logo.png" alt="Reutlingen University" 
-  height="50">
-  </td>
-  </tr>
 
   <tr>
   <td width="60%" valign="top">
@@ -236,7 +204,7 @@ Q1 2026 | TEC Faculty HSRT
 </td>
 <td width="40%" align="center" valign="middle">
 
-<a href="https://www.youtube.com/watch?v=b6DXtuq9QeY"><img src="showcase/robosoccer-trailer.jpg" alt="RoboSoccer 3D visualisation trailer: goal scene in the procedurally built stadium" width="300"></a>
+<a href="https://www.youtube.com/watch?v=b6DXtuq9QeY"><img src="showcase/robosoccer-gameplay.gif" alt="RoboSoccer 3D visualisation: an attack, a goal and the celebration camera sweep in the procedurally built stadium" width="300"></a>
 <br>
 <sub>▶ Watch the trailer</sub>
 
@@ -334,53 +302,7 @@ Research system generating **educational questions** using multi-layered small l
 </td>
 </tr>
 
-<tr>
-<td width="60%" valign="top">
 
-### [Customer CV & HR Automation Evaluation Tool](https://github.com/mklemmingen/Automatisierungs-Tool)
-
-<sub>↑ Click the title to open the repository</sub>
-
-Q3 2025 | All rights with [Wumbatz](https://github.com/Wumbatz) | Finished
-
-Portfolio and questionnaire framework for a bachelor thesis on **HR automation evaluation**. Reads questions and logic from a **server-side CSV**. Non-technical users can edit the CSV to change the questionnaire. Produces a **spider diagram** and NLP-powered result summaries via HuggingFace.
-
-**Live:** [daviddronia.vercel.app](https://daviddronia.vercel.app/)
-
-<sub>React, TypeScript, Tailwind, server-side rendering</sub>
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://github.com/mklemmingen/mklemmingen/blob/main/CVwebsiteDD.gif" alt="CV Website" height="100">
-<br>
-<img src="https://github.com/mklemmingen/mklemmingen/blob/main/CBS.svg" alt="CBS" height="60">
-&nbsp;&nbsp;
-<img src="https://www.dhl.de/.resources/dhl/webresources/assets/img//dhl-official.svg" alt="DHL" height="60">
-
-</td>
-</tr>
-
-<tr>
-<td width="60%" valign="top">
-
-### [Grub2-sleekScience](https://github.com/mklemmingen/Grub2-sleekScience)
-
-<sub>↑ Click the title to open the repository</sub>
-
-Q3 2025 | GPL | Finished
-
-Minimal modern **GRUB bootloader theme** that includes backgrounds with patterns from different research fields. Drop-in replacement that works with **any Linux distribution** using GRUB2.
-
-<sub>GRUB</sub>
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F016%2F828%2F098%2Flarge_2x%2Fabstract-topographic-map-background-abstract-topographic-map-background-imitation-of-a-geographical-map-geographic-map-conceptual-design-elegant-background-for-presentations-free-vector.jpg&f=1&nofb=1&ipt=01994c5346f8c565ca9fc2a110523e817449501c339003d176608e3979202206" alt="Topographic Design" height="100">
-
-</td>
-</tr>
 
 <tr>
 <td width="60%" valign="top">
@@ -748,26 +670,6 @@ The oldest known board game **re-created as a speedrun challenge** with libGDX. 
 </td>
 </tr>
 
-<tr>
-<td width="60%" valign="top">
-
-### [Tropico 6 | Advanced Teams](https://github.com/mklemmingen/Tropico6_Advanced-Team)
-
-<sub>↑ Click the title to open the repository</sub>
-
-Q4 2023 | CC0 | Finished
-
-Mod that adds **team features to multiplayer** by removing the cooldown on team money transfers. Works as a simple **UE4 asset overwrite** requiring no code compilation. Drop into the game directory and **play cooperatively** without artificial delays.
-
-<sub>Unreal Engine 4, C++</sub>
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://github.com/mklemmingen/mklemmingen/raw/main/tropico6.jpg" alt="Tropico 6" height="100">
-
-</td>
-</tr>
 
 <tr>
 <td width="60%" valign="top">
