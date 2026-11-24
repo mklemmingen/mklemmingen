@@ -5,6 +5,7 @@
 <a href="https://github.com/InnoLab-2026/relay-zero-host"><img src="showcase/feedmyfrog-languages.gif" alt="FeedmyFrog sign-in" height="90"></a>
 <a href="https://github.com/mklemmingen/ContinualEdgeDevicePersonalisation"><img src="https://raw.githubusercontent.com/mklemmingen/ContinualEdgeDevicePersonalisation/main/pilot/fig_trainable_sweep.png" alt="μ-training energy sweep" height="90"></a>
 <a href="https://www.youtube.com/watch?v=b6DXtuq9QeY"><img src="showcase/robosoccer-gameplay.gif" alt="RoboSoccer 3D gameplay" height="90"></a>
+<a href="https://www.linkedin.com/in/martinlauterbach128"><picture><source media="(prefers-color-scheme: light)" srcset="showcase/mercedes-star-dark-text.gif"><img src="showcase/mercedes-star-light-text.gif" alt="Rotating ASCII Mercedes star" height="90"></picture></a>
 <a href="https://github.com/mklemmingen/ALEE"><picture><source media="(prefers-color-scheme: light)" srcset="showcase/alee-architecture-light.png"><img src="showcase/alee-architecture-dark.png" alt="ALEE architecture" height="90"></picture></a>
 <a href="https://github.com/mklemmingen/LogChirpy"><img src="LogChirpy%20(2).gif" alt="LogChirpy" height="90"></a>
 <a href="https://github.com/bettercodepaul/swt2-bsa-backend"><img src="stateMachineDigitalerSchusszettel.png" alt="Schusszettel state machine" height="90"></a>
@@ -216,6 +217,8 @@ Production desktop tool for **vehicle test engineers**. When a marker is pressed
 </td>
 <td width="40%" align="center" valign="middle">
 
+<a href="https://www.linkedin.com/in/martinlauterbach128"><picture><source media="(prefers-color-scheme: light)" srcset="showcase/mercedes-star-dark-text.gif"><img src="showcase/mercedes-star-light-text.gif" alt="Rotating 3D ASCII Mercedes star from the tool's debug panel" width="200"></picture></a>
+<br><br>
 <img src="https://img.shields.io/badge/Mercedes|Benz-000000?logo=mercedes&logoColor=white&style=for-the-badge" alt="Mercedes-Benz">
 <br><br>
 <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="36">
