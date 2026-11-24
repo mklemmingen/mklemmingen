@@ -6,7 +6,7 @@
 <a href="https://github.com/mklemmingen/ContinualEdgeDevicePersonalisation"><img src="https://raw.githubusercontent.com/mklemmingen/ContinualEdgeDevicePersonalisation/main/pilot/fig_trainable_sweep.png" alt="μ-training energy sweep" height="90"></a>
 <a href="https://github.com/mklemmingen/ContinualEdgeDevicePersonalisation"><img src="https://raw.githubusercontent.com/mklemmingen/ContinualEdgeDevicePersonalisation/main/pilot/fig_power_timeline.png" alt="Pi 5 power timeline" height="90"></a>
 <a href="https://www.youtube.com/watch?v=b6DXtuq9QeY"><img src="showcase/robosoccer-gameplay.gif" alt="RoboSoccer 3D gameplay" height="90"></a>
-<a href="https://github.com/mklemmingen/ALEE"><img src="showcase/alee-architecture.png" alt="ALEE architecture" height="90"></a>
+<a href="https://github.com/mklemmingen/ALEE"><picture><source media="(prefers-color-scheme: light)" srcset="showcase/alee-architecture-light.png"><img src="showcase/alee-architecture-dark.png" alt="ALEE architecture" height="90"></picture></a>
 <a href="https://github.com/mklemmingen/LogChirpy"><img src="LogChirpy%20(2).gif" alt="LogChirpy" height="90"></a>
 <a href="https://github.com/bettercodepaul/swt2-bsa-backend"><img src="stateMachineDigitalerSchusszettel.png" alt="Schusszettel state machine" height="90"></a>
 <a href="https://github.com/mklemmingen/MASK"><img src="kinect.png" alt="Kinect skeleton tracking" height="90"></a>
@@ -58,7 +58,7 @@
 
   <br><br>
 
-  <a href="https://www.npmjs.com/package/react-pixel-cats-and-birds"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/npm.svg" alt="npm" height="50"></a>
+  <a href="https://www.npmjs.com/package/react-pixel-cats-and-birds"><img src="https://cdn.simpleicons.org/npm/CB3837" alt="npm" height="40"></a>
   <br>
   <sub><a href="https://www.npmjs.com/package/react-pixel-cats-and-birds">Install from npm</a></sub>
   </td>
@@ -79,8 +79,7 @@
   </td>
   <td width="40%" align="center" valign="middle">
 
-  <img src="informatik-logo.png" alt="Reutlingen University" 
-  height="50">
+  <img src="informatik-logo.png" alt="Reutlingen University" height="40">
   </td>
   </tr>
 
@@ -105,9 +104,8 @@
 
   <br><br>
 
-  <img src="informatik-logo.png" alt="Reutlingen University" 
-  height="50">
-  <img height="80" alt="image" src="https://github.com/user-attachments/assets/5fc3ac40-31fb-4e14-ae44-6d3f90ec3bae" />
+  <img src="informatik-logo.png" alt="Reutlingen University" height="40">
+  <img height="40" alt="image" src="visir-logo.png" />
 
   </td>
   </tr>
@@ -140,7 +138,7 @@ Q2Q3 2026 | INF Faculty HSRT
 
 <br><br>
 
-<img src="informatik-logo.png" alt="Reutlingen University" height="50">
+<img src="informatik-logo.png" alt="Reutlingen University" height="40">
 </td>
 </tr>
 
@@ -176,7 +174,7 @@ over full-network training on the same device.
 
 <br><br>
 
-<img src="informatik-logo.png" alt="Reutlingen University" height="50">
+<img src="informatik-logo.png" alt="Reutlingen University" height="40">
 </td>
 </tr>
 <tr>
@@ -210,8 +208,8 @@ Q1 2026 | TEC Faculty HSRT
 
 <br><br>
 
-<img src="informatik-logo.png" alt="Reutlingen University" height="50">
-<img height="80" alt="image" src="https://github.com/user-attachments/assets/5fc3ac40-31fb-4e14-ae44-6d3f90ec3bae" />
+<img src="informatik-logo.png" alt="Reutlingen University" height="40">
+<img height="40" alt="image" src="visir-logo.png" />
 
 </td>
 </tr>
@@ -234,11 +232,11 @@ Production desktop tool for **vehicle test engineers**. When a marker is pressed
 
 <img src="https://img.shields.io/badge/Mercedes|Benz-000000?logo=mercedes&logoColor=white&style=for-the-badge" alt="Mercedes-Benz">
 <br><br>
-<img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="60">
+<img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="36">
 &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" height="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" height="36">
 &nbsp;&nbsp;
-<img src="https://wxpython.org/images/header-logo.png" alt="wxPython" height="60">
+<img src="https://wxpython.org/images/header-logo.png" alt="wxPython" height="36">
 
 </td>
 </tr>
@@ -261,9 +259,9 @@ Three packages forming a **layered dependency chain** for university timetable d
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pypi.svg" alt="PyPI" height="80">
+<img src="https://cdn.simpleicons.org/pypi/3775A9" alt="PyPI" height="40">
 <br><br>
-<img src="informatik-logo.png" alt="Reutlingen University" height="120">
+<img src="informatik-logo.png" alt="Reutlingen University" height="40">
 
 </td>
 </tr>
@@ -286,18 +284,18 @@ Research system generating **educational questions** using multi-layered small l
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://ollama.com/public/ollama.png" alt="OLLAMA" height="80">
+<img src="https://ollama.com/public/ollama.png" alt="OLLAMA" height="40">
 <br><br>
-<img src="https://www.iwm-tuebingen.de/_next/static/media/iwm-logo.1bc3d452.svg" alt="Leibniz-Institut" height="80">
+<img src="iwm-logo.png" alt="Leibniz-Institut" height="40">
 &nbsp;&nbsp;
-<img src="https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg" alt="University of Tubingen" height="80">
+<img src="https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg" alt="University of Tubingen" height="40">
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-<img src="showcase/alee-architecture.png" alt="ALEE three-layer architecture: HTTP interface, DSPy orchestrator, parallel expert LLM validation" width="85%">
+<picture><source media="(prefers-color-scheme: light)" srcset="showcase/alee-architecture-light.png"><img src="showcase/alee-architecture-dark.png" alt="ALEE three-layer architecture: HTTP interface, DSPy orchestrator, parallel expert LLM validation" width="600"></picture>
 
 </td>
 </tr>
@@ -320,9 +318,9 @@ Mobile app that identifies birds from **live camera feed, pictures and sound** e
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github.com/mklemmingen/mklemmingen/blob/2e0097a5f41866463d8746eed09821d5a46f3e6e/LogChirpy%20(2).gif" alt="LogChirpy Object Detection" height="150">
+<img src="LogChirpy%20(2).gif" alt="LogChirpy Object Detection" height="150">
 <br>
-<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+<img src="informatik-logo.png" alt="Reutlingen University" height="40">
 
 </td>
 </tr>
@@ -343,11 +341,11 @@ Module for [app.bogenliga.de](https://app.bogenliga.de) providing a **fully digi
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github.com/mklemmingen/mklemmingen/blob/a15d7053dc4e591cd992797df398a85e531b7bf1/stateMachineDigitalerSchusszettel.png" alt="State Machine" height="100">
+<img src="stateMachineDigitalerSchusszettel.png" alt="State Machine" height="100">
 <br>
-<img src="https://bcxp.de/wp-content/themes/bcxp/assets/img/logo.svg?original4" alt="BCXP" height="60">
+<img src="https://bcxp.de/wp-content/themes/bcxp/assets/img/logo.svg?original4" alt="BCXP" height="36">
 &nbsp;&nbsp;
-<img src="informatik-logo.png" alt="Reutlingen University" height="60">
+<img src="informatik-logo.png" alt="Reutlingen University" height="40">
 
 </td>
 </tr>
@@ -372,9 +370,9 @@ Q2-Q3 2025 | AGPL-2.0 | Finished
 
 <img src="kinect.png" alt="Skeleton Tracking" height="100">
 <br>
-<img src="https://github.com/mklemmingen/mklemmingen/blob/main/filmakadadmie.svg" alt="Filmakademie Ludwigsburg" height="80">
+<img src="filmakadadmie.svg" alt="Filmakademie Ludwigsburg" height="40">
 &nbsp;
-<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+<img src="informatik-logo.png" alt="Reutlingen University" height="40">
 
 </td>
 </tr>
@@ -462,7 +460,7 @@ Interactive **browser-based statistics tutorial** teaching data science approach
   <img src="Hypothese.jpeg" alt="Hypothesis Test" height="100">
 </a>
 &nbsp;
-<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+<img src="informatik-logo.png" alt="Reutlingen University" height="40">
 
 </td>
 </tr>
@@ -483,7 +481,7 @@ Art installation projecting across **270 degrees**. Links birthday audio recordi
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+<img src="informatik-logo.png" alt="Reutlingen University" height="40">
 
 </td>
 </tr>
@@ -504,9 +502,9 @@ UI/UX design for a **family outdoor vehicle infotainment system** covering navig
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github.com/mklemmingen/mklemmingen/raw/main/OutdoorInfotainment.gif" alt="Infotainment System" height="100">
+<img src="OutdoorInfotainment.gif" alt="Infotainment System" height="100">
 &nbsp;
-<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+<img src="informatik-logo.png" alt="Reutlingen University" height="40">
 
 </td>
 </tr>
@@ -527,9 +525,9 @@ Full-stack website teaching **sustainable cat ownership** through interactive co
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github.com/mklemmingen/mklemmingen/raw/main/KatzenKaffee.gif" alt="KatzenKaffee" height="100">
+<img src="KatzenKaffee.gif" alt="KatzenKaffee" height="100">
 &nbsp;
-<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+<img src="informatik-logo.png" alt="Reutlingen University" height="40">
 
 </td>
 </tr>
@@ -550,7 +548,7 @@ Educational tool demonstrating **HID attack vectors** using cheap USB microcontr
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github.com/mklemmingen/mklemmingen/raw/main/HIDmibbi.gif" alt="HIDmibbi" height="100">
+<img src="HIDmibbi.gif" alt="HIDmibbi" height="100">
 
 </td>
 </tr>
@@ -571,9 +569,9 @@ Three **ready-to-fork board game frameworks** providing a blank template, a ches
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github.com/mklemmingen/mklemmingen/blob/main/boardgameGameJam.png" alt="Board Game Framework" height="80">
+<img src="boardgameGameJam.png" alt="Board Game Framework" height="80">
 &nbsp;
-<img src="https://github.com/mklemmingen/mklemmingen/blob/main/logo-mwk.svg" alt="MWK Baden-Wurttemberg" height="80">
+<img src="logo-mwk.svg" alt="MWK Baden-Wurttemberg" height="40">
 
 </td>
 </tr>
@@ -594,7 +592,7 @@ Step-by-step tutorial on creating **animated logos** using only CSS. Covers keyf
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github.com/mklemmingen/mklemmingen/raw/main/cssArt.gif" alt="CSS Art" height="100">
+<img src="cssArt.gif" alt="CSS Art" height="100">
 
 </td>
 </tr>
@@ -615,9 +613,9 @@ Four university projects. **Levenshtein distance restorer** in C++. Producer-con
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github.com/mklemmingen/mklemmingen/raw/main/StudyProjects2024Q12.gif" alt="Study Projects" height="100">
+<img src="StudyProjects2024Q12.gif" alt="Study Projects" height="100">
 &nbsp;
-<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+<img src="informatik-logo.png" alt="Reutlingen University" height="40">
 
 </td>
 </tr>
@@ -633,16 +631,16 @@ Q3 2023 - Q1 2024 | AGPL-3.0
 
 Military-pixel chess variant where pieces have **health and complex combat relations** instead of instant captures. Includes three **bot difficulty modes**, challenge scenarios and multiple team colors. Available as a **desktop and Android app** with music by Wambutz.
 
-<a href="https://gardeningcat.itch.io/boom-chess" target="_blank" rel="noopener"><img src="showcase/itch-widget-boom-chess-dark.png" alt="Play Boom Chess on itch.io" width="400"></a>
+<a href="https://gardeningcat.itch.io/boom-chess" target="_blank" rel="noopener"><img src="showcase/itch-widget-boom-chess-dark.png" alt="Play Boom Chess on itch.io" width="300"></a>
 
 <sub>Java, libGDX</sub>
 
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github.com/mklemmingen/mklemmingen/raw/main/boomChessGiffy.gif" alt="Boom Chess" height="100">
+<img src="boomChessGiffy.gif" alt="Boom Chess" height="100">
 &nbsp;
-<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+<img src="informatik-logo.png" alt="Reutlingen University" height="40">
 
 </td>
 </tr>
@@ -658,14 +656,14 @@ Q4 2023 | AGPL-3.0 | Finished
 
 The oldest known board game **re-created as a speedrun challenge** with libGDX. Players race pieces across thirty squares following **ancient Egyptian rules** with stick-throw randomness. Built as a **single-session desktop game**, now also **playable in the browser**.
 
-<a href="https://gardeningcat.itch.io/senet-boom" target="_blank" rel="noopener"><img src="showcase/itch-widget-senet-boom-dark.png" alt="Play Senet Boom on itch.io" width="400"></a>
+<a href="https://gardeningcat.itch.io/senet-boom" target="_blank" rel="noopener"><img src="showcase/itch-widget-senet-boom-dark.png" alt="Play Senet Boom on itch.io" width="300"></a>
 
 <sub>Java, libGDX, TeaVM</sub>
 
 </td>
 <td width="40%" align="center" valign="middle">
 
-<a href="https://gardeningcat.itch.io/senet-boom"><img src="https://github.com/mklemmingen/mklemmingen/raw/main/senetboom.gif" alt="Senet: play in the browser on itch.io" height="100"></a>
+<a href="https://gardeningcat.itch.io/senet-boom"><img src="senetboom.gif" alt="Senet: play in the browser on itch.io" height="100"></a>
 
 </td>
 </tr>
@@ -687,7 +685,7 @@ A **randomly generated 3D maze** game where a space mouse searches for cheese. E
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="./spacemouse.gif" alt="Space Mouse" height="100">
+<img src="spacemouse.gif" alt="Space Mouse" height="100">
 
 </td>
 </tr>
@@ -708,9 +706,9 @@ Word-guessing game that uses datasets and hash maps to calculate the **most like
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github.com/mklemmingen/hangman-2/blob/e97240877eaf6d5c9ca147802d78cb2639509e25/hangman2_intro.gif" alt="Hangman 2" height="100">
+<img src="https://raw.githubusercontent.com/mklemmingen/hangman-2/e97240877eaf6d5c9ca147802d78cb2639509e25/hangman2_intro.gif" alt="Hangman 2" height="100">
 &nbsp;
-<img src="informatik-logo.png" alt="Reutlingen University" height="80">
+<img src="informatik-logo.png" alt="Reutlingen University" height="40">
 
 </td>
 </tr>
