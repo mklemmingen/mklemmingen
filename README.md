@@ -40,7 +40,7 @@
 
   ### [spinning-ascii-donut-star | PyPI package: a spinning 3D star in your terminal, rendered as ASCII](https://pypi.org/project/spinning-ascii-donut-star/)
 
-  <sub>↑ Click the title to open the package on PyPI</sub>
+  <sub>↑ Click the title to open the package on PyPI · also: <a href="https://github.com/mklemmingen/spinning-ascii-donut-star">spinning-ascii-donut-star on GitHub</a></sub>
 
   Q4 2026 | Published
 
