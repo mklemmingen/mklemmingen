@@ -281,7 +281,7 @@ Production desktop tool for **vehicle test engineers**. When a marker is pressed
 
 Q1 2026 | Apache-2.0 | Deprecated
 
-> **Deprecated:** the WebUntis public timetable endpoint these packages rely on no longer responds (HTTP 404), so the suite no longer fetches data.
+> **Deprecated:** Hochschule Reutlingen has moved its timetables from WebUntis to HISinOne, so the suite no longer fetches HSRT data. `webuntis-public` still works for other schools that use WebUntis.
 
 Three packages forming a **layered dependency chain** for university timetable data. Queries timetables and **optimizes elective selections**. The CLI scores electives against schedule conflicts and exports **ranked results as ICS calendar files**.
 
