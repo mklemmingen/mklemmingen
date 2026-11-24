@@ -23,6 +23,7 @@
 <a href="https://github.com/mklemmingen/boom-chess"><img src="boomChessGiffy.gif" alt="Boom Chess" height="90"></a>
 <a href="https://github.com/mklemmingen/space-mouse"><img src="spacemouse.gif" alt="Space Mouse" height="90"></a>
 <a href="https://github.com/mklemmingen/hangman-2"><img src="https://raw.githubusercontent.com/mklemmingen/hangman-2/e97240877eaf6d5c9ca147802d78cb2639509e25/hangman2_intro.gif" alt="Hangman 2" height="90"></a>
+<a href="https://github.com/mklemmingen/StopTheToken"><img src="showcase/stopthetoken-logo.svg" alt="StopTheToken logo" height="90"></a>
 </p>
 
 [Textuals](https://github.com/mklemmingen/Papers)
@@ -743,6 +744,9 @@ A community-fed **Pi-hole blocklist** of websites publishing AI-generated conten
 
 </td>
 <td width="40%" align="center" valign="middle">
+
+<a href="https://github.com/mklemmingen/StopTheToken"><img src="showcase/stopthetoken-logo.svg" alt="StopTheToken logo: a stop sign with a crossed-out AI sparkle" width="120"></a>
+
 </td>
 </tr>
 
