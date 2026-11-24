@@ -1,6 +1,5 @@
 <p align="center">
 <a href="https://github.com/mklemmingen/react-pixel-cats-and-birds"><img src="showcase/react-pixel-cats-and-birds.gif" alt="Pixel-art cats and birds" height="90"></a>
-<a href="https://github.com/mklemmingen/moodle-dark-mode-script"><img src="showcase/moodle-dark-mode.gif" alt="Moodle dark mode" height="90"></a>
 <a href="https://github.com/mklemmingen/migraine-forecasting-shd"><img src="showcase/migraine-shap-beeswarm.png" alt="SHAP beeswarm" height="90"></a>
 <a href="https://github.com/mklemmingen/migraine-forecasting-shd"><img src="showcase/migraine-graphical-abstract.png" alt="Migraine graphical abstract" height="90"></a>
 <a href="https://github.com/InnoLab-2026/relay-zero-host"><img src="showcase/feedmyfrog-languages.gif" alt="FeedmyFrog sign-in" height="90"></a>
@@ -9,7 +8,6 @@
 <a href="https://www.youtube.com/watch?v=b6DXtuq9QeY"><img src="showcase/robosoccer-trailer.jpg" alt="RoboSoccer 3D trailer" height="90"></a>
 <a href="https://github.com/mklemmingen/ALEE"><img src="showcase/alee-architecture.png" alt="ALEE architecture" height="90"></a>
 <a href="https://github.com/mklemmingen/Automatisierungs-Tool"><img src="CVwebsiteDD.gif" alt="CV website" height="90"></a>
-<a href="https://github.com/mklemmingen/Grub2-sleekScience"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F016%2F828%2F098%2Flarge_2x%2Fabstract-topographic-map-background-abstract-topographic-map-background-imitation-of-a-geographical-map-geographic-map-conceptual-design-elegant-background-for-presentations-free-vector.jpg&f=1&nofb=1&ipt=01994c5346f8c565ca9fc2a110523e817449501c33" alt="GRUB theme" height="90"></a>
 <a href="https://github.com/mklemmingen/LogChirpy"><img src="LogChirpy%20(2).gif" alt="LogChirpy" height="90"></a>
 <a href="https://github.com/bettercodepaul/swt2-bsa-backend"><img src="stateMachineDigitalerSchusszettel.png" alt="Schusszettel state machine" height="90"></a>
 <a href="https://github.com/mklemmingen/MASK"><img src="kinect.png" alt="Kinect skeleton tracking" height="90"></a>
@@ -24,7 +22,6 @@
 <a href="https://github.com/mklemmingen/CSSArtTutorial"><img src="cssArt.gif" alt="CSS art" height="90"></a>
 <a href="https://github.com/mklemmingen/Q1Q2Projects2024"><img src="StudyProjects2024Q12.gif" alt="Study projects" height="90"></a>
 <a href="https://github.com/mklemmingen/boom-chess"><img src="boomChessGiffy.gif" alt="Boom Chess" height="90"></a>
-<a href="https://github.com/mklemmingen/senet-boom"><img src="senetboom.gif" alt="Senet" height="90"></a>
 <a href="https://github.com/mklemmingen/Tropico6_Advanced-Team"><img src="tropico6.jpg" alt="Tropico 6" height="90"></a>
 <a href="https://github.com/mklemmingen/space-mouse"><img src="spacemouse.gif" alt="Space Mouse" height="90"></a>
 <a href="https://github.com/mklemmingen/hangman-2"><img src="https://raw.githubusercontent.com/mklemmingen/hangman-2/e97240877eaf6d5c9ca147802d78cb2639509e25/hangman2_intro.gif" alt="Hangman 2" height="90"></a>
