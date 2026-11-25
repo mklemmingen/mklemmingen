@@ -9,8 +9,8 @@
 <a href="https://www.linkedin.com/in/martinlauterbach128"><picture><source media="(prefers-color-scheme: light)" srcset="showcase/mercedes-star-dark-text.gif"><img src="showcase/mercedes-star-light-text.gif" alt="Rotating ASCII Mercedes star" height="90"></picture></a>
 <a href="https://github.com/mklemmingen/ALEE"><picture><source media="(prefers-color-scheme: light)" srcset="showcase/alee-architecture-light.png"><img src="showcase/alee-architecture-dark.png" alt="ALEE architecture" height="90"></picture></a>
 <a href="https://github.com/mklemmingen/LogChirpy"><img src="LogChirpy%20(2).gif" alt="LogChirpy" height="90"></a>
-<a href="https://github.com/bettercodepaul/swt2-bsa-backend"><img src="stateMachineDigitalerSchusszettel.png" alt="Schusszettel state machine" height="90"></a>
-<a href="https://github.com/bettercodepaul/swt2-bsa-backend"><img src="MASKE%203%20DESIGN.png" alt="Bogenliga score sheet design" height="90"></a>
+<a href="https://bogenliga.de"><img src="stateMachineDigitalerSchusszettel.png" alt="Schusszettel state machine" height="90"></a>
+<a href="https://bogenliga.de"><img src="MASKE%203%20DESIGN.png" alt="Bogenliga score sheet design" height="90"></a>
 <a href="https://github.com/mklemmingen/MASK"><img src="kinect.png" alt="Kinect skeleton tracking" height="90"></a>
 <a href="https://github.com/mklemmingen/EntropyVisualizer"><img src="https://raw.githubusercontent.com/mklemmingen/EntropyVisualizer/refs/heads/main/EntropyVisualization.gif" alt="Entropy visualisation" height="90"></a>
 <a href="https://github.com/mklemmingen/EntropyVisualizer"><img src="showcase/entropy-build.png" alt="EntropyVisualizer LED strip and sensor build" height="90"></a>
@@ -380,9 +380,9 @@ Mobile app that identifies birds from **live camera feed, pictures and sound** e
 <tr>
 <td width="60%" valign="top">
 
-### [Bogenliga | Digitaler Schusszettel](https://github.com/bettercodepaul/swt2-bsa-backend)
+### [Bogenliga | Digitaler Schusszettel](https://bogenliga.de)
 
-<sub>Click the title to open the backend repo. Also: <a href="https://github.com/bettercodepaul/swt2-bsa-frontend">frontend repo</a></sub>
+<sub>Click the title to open the Bogenliga website</sub>
 
 Q2-Q3 2025 | All rights with BetterCallPaul & Bogenliga Deutschland | Finished
 
