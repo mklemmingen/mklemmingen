@@ -4,15 +4,19 @@
 <a href="https://github.com/mklemmingen/migraine-forecasting-shd"><img src="showcase/migraine-graphical-abstract.png" alt="Migraine graphical abstract" height="90"></a>
 <a href="https://github.com/InnoLab-2026/relay-zero-host"><img src="showcase/feedmyfrog-languages.gif" alt="FeedmyFrog sign-in" height="90"></a>
 <a href="https://github.com/mklemmingen/ContinualEdgeDevicePersonalisation"><img src="https://raw.githubusercontent.com/mklemmingen/ContinualEdgeDevicePersonalisation/main/pilot/fig_trainable_sweep.png" alt="μ-training energy sweep" height="90"></a>
+<a href="Best_paper_award_Martin_Lauterbach.pdf"><img src="showcase/best-paper-award.png" alt="Best Paper Award, student research conference, Reutlingen University, June 2026" height="90"></a>
 <a href="https://www.youtube.com/watch?v=b6DXtuq9QeY"><img src="showcase/robosoccer-gameplay.gif" alt="RoboSoccer 3D gameplay" height="90"></a>
 <a href="https://www.linkedin.com/in/martinlauterbach128"><picture><source media="(prefers-color-scheme: light)" srcset="showcase/mercedes-star-dark-text.gif"><img src="showcase/mercedes-star-light-text.gif" alt="Rotating ASCII Mercedes star" height="90"></picture></a>
 <a href="https://github.com/mklemmingen/ALEE"><picture><source media="(prefers-color-scheme: light)" srcset="showcase/alee-architecture-light.png"><img src="showcase/alee-architecture-dark.png" alt="ALEE architecture" height="90"></picture></a>
 <a href="https://github.com/mklemmingen/LogChirpy"><img src="LogChirpy%20(2).gif" alt="LogChirpy" height="90"></a>
 <a href="https://github.com/bettercodepaul/swt2-bsa-backend"><img src="stateMachineDigitalerSchusszettel.png" alt="Schusszettel state machine" height="90"></a>
+<a href="https://github.com/bettercodepaul/swt2-bsa-backend"><img src="MASKE%203%20DESIGN.png" alt="Bogenliga score sheet design" height="90"></a>
 <a href="https://github.com/mklemmingen/MASK"><img src="kinect.png" alt="Kinect skeleton tracking" height="90"></a>
 <a href="https://github.com/mklemmingen/EntropyVisualizer"><img src="https://raw.githubusercontent.com/mklemmingen/EntropyVisualizer/refs/heads/main/EntropyVisualization.gif" alt="Entropy visualisation" height="90"></a>
+<a href="https://github.com/mklemmingen/EntropyVisualizer"><img src="showcase/entropy-build.png" alt="EntropyVisualizer LED strip and sensor build" height="90"></a>
 <a href="https://github.com/mklemmingen/TelegramToMap"><img src="ukraineHeat.png" alt="QGIS heatmap" height="90"></a>
 <a href="https://github.com/mklemmingen/Exif_DataByDate_Sorting"><img src="fileSorting.gif" alt="File sorting" height="90"></a>
+<a href="https://github.com/mklemmingen/nsfw-image-scanner"><img src="machineLearning.png" alt="NSFW image scanner network diagram" height="90"></a>
 <a href="https://github.com/mklemmingen/R_DataScience_Tutorial"><img src="Hypothese.jpeg" alt="Hypothesis test" height="90"></a>
 <a href="https://github.com/mklemmingen/OutdoorInfotainment"><img src="OutdoorInfotainment.gif" alt="Infotainment system" height="90"></a>
 <a href="https://github.com/mklemmingen/KatzenKaffeeWeb"><img src="KatzenKaffee.gif" alt="KatzenKaffee" height="90"></a>
