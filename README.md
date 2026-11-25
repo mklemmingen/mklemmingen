@@ -16,7 +16,6 @@
 <a href="https://github.com/mklemmingen/EntropyVisualizer"><img src="showcase/entropy-build.png" alt="EntropyVisualizer LED strip and sensor build" height="90"></a>
 <a href="https://github.com/mklemmingen/TelegramToMap"><img src="ukraineHeat.png" alt="QGIS heatmap" height="90"></a>
 <a href="https://github.com/mklemmingen/Exif_DataByDate_Sorting"><img src="fileSorting.gif" alt="File sorting" height="90"></a>
-<a href="https://github.com/mklemmingen/nsfw-image-scanner"><img src="machineLearning.png" alt="NSFW image scanner network diagram" height="90"></a>
 <a href="https://github.com/mklemmingen/R_DataScience_Tutorial"><img src="Hypothese.jpeg" alt="Hypothesis test" height="90"></a>
 <a href="https://github.com/mklemmingen/OutdoorInfotainment"><img src="OutdoorInfotainment.gif" alt="Infotainment system" height="90"></a>
 <a href="https://github.com/mklemmingen/KatzenKaffeeWeb"><img src="KatzenKaffee.gif" alt="KatzenKaffee" height="90"></a>
