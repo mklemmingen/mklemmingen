@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/mklemmingen/react-pixel-cats-and-birds"><img src="showcase/react-pixel-cats-and-birds.gif" alt="Pixel-art cats and birds" height="90"></a>
+<a href="https://github.com/mklemmingen/react-pixel-cats-and-birds"><picture><source media="(prefers-color-scheme: light)" srcset="showcase/cats-and-birds-banner-light.gif"><img src="showcase/cats-and-birds-banner-dark.gif" alt="Pixel-art cats and birds walking, flying and resting across the page" width="100%"></picture></a>
 <a href="https://github.com/mklemmingen/migraine-forecasting-shd"><img src="showcase/migraine-shap-beeswarm.png" alt="SHAP beeswarm" height="90"></a>
 <a href="https://github.com/mklemmingen/migraine-forecasting-shd"><img src="showcase/migraine-graphical-abstract.png" alt="Migraine graphical abstract" height="90"></a>
 <a href="https://github.com/InnoLab-2026/relay-zero-host"><img src="showcase/feedmyfrog-languages.gif" alt="FeedmyFrog sign-in" height="90"></a>
