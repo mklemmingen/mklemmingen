@@ -25,6 +25,7 @@
 <a href="https://github.com/mklemmingen/space-mouse"><img src="spacemouse.gif" alt="Space Mouse" height="90"></a>
 <a href="https://github.com/mklemmingen/hangman-2"><img src="https://raw.githubusercontent.com/mklemmingen/hangman-2/e97240877eaf6d5c9ca147802d78cb2639509e25/hangman2_intro.gif" alt="Hangman 2" height="90"></a>
 <a href="https://github.com/mklemmingen/StopTheToken"><img src="showcase/stopthetoken-logo.svg" alt="StopTheToken logo" height="90"></a>
+<a href="https://github.com/mklemmingen"><img src="https://komarev.com/ghpvc/?username=mklemmingen&style=for-the-badge&label=PROFILE+VIEWS&color=1f6feb" alt="Profile views" width="260"></a>
 </p>
 
 
