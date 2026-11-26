@@ -1,5 +1,6 @@
 <p align="center">
 <a href="https://github.com/mklemmingen/react-pixel-cats-and-birds"><picture><source media="(prefers-color-scheme: light)" srcset="showcase/cats-and-birds-banner-light.gif"><img src="showcase/cats-and-birds-banner-dark.gif" alt="Pixel-art cats and birds walking, flying and resting across the page" width="100%"></picture></a>
+<a href="https://github.com/mklemmingen/boomchess3D"><img src="showcase/boomchess3d-gameplay.gif" alt="Boom Chess 3D gameplay" height="90"></a>
 <a href="https://github.com/mklemmingen/migraine-forecasting-shd"><img src="showcase/migraine-shap-beeswarm.png" alt="SHAP beeswarm" height="90"></a>
 <a href="https://github.com/mklemmingen/migraine-forecasting-shd"><img src="showcase/migraine-graphical-abstract.png" alt="Migraine graphical abstract" height="90"></a>
 <a href="https://github.com/InnoLab-2026/relay-zero-host"><img src="showcase/feedmyfrog-languages.gif" alt="FeedmyFrog sign-in" height="90"></a>
@@ -38,6 +39,27 @@
 <summary><b>Show projects</b></summary>
 
 <table>
+
+  <tr>
+  <td width="60%" valign="top">
+
+  ### [Boom Chess 3D | a 3D rebuild of Boom Chess, played at a war-room table](https://github.com/mklemmingen/boomchess3D)
+
+  <sub>Click the title to open the repository. Also: <a href="https://gardeningcat.itch.io/boom-chess">the original Boom Chess on itch.io</a></sub>
+
+  Q4 2026 | Game | libGDX
+
+  My 2D strategy game **Boom Chess** rebuilt in **3D**: two commanders sit at a table and move the figurines **with their own hands** (or a croupier rake beyond reach), every piece has **keyframed idle and attack animations** and its own projectiles, and an **action camera** looks over each attacker's shoulder. Maps are **generated per pixel in NATO topographic style**, the tablet, radio and notebooks on the table are the UI, and an optional **old-TV filter** finishes the look. Desktop, web (TeaVM) and Android from one code base.
+
+  <sub>Java | libGDX | gdx-gltf (PBR) | TeaVM | GLSL</sub>
+
+  </td>
+  <td width="40%" align="center" valign="middle">
+
+  <a href="https://github.com/mklemmingen/boomchess3D"><img src="showcase/boomchess3d-gameplay.gif" alt="Boom Chess 3D: commanders move figurines across a generated topographic map, attacks and explosions" width="300"></a>
+
+  </td>
+  </tr>
 
   <tr>
   <td width="60%" valign="top">
